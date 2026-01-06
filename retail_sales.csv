@@ -1,0 +1,2001 @@
+order_id,date,customer_id,customer_name,city,product_category,bottles_sold,order_amount_sek
+INV_000000,2023-02-13,STORE_4539,Göteborg Vinkällaren,Lund,White Wine,4,415.52
+INV_000001,2023-02-27,STORE_6251,Stockholm Systembolaget,Göteborg,White Wine,34,14934.46
+INV_000002,2023-01-05,STORE_9734,Göteborg Vinkällaren,Stockholm,Champagne,2,956.15
+INV_000003,2023-03-19,STORE_6627,Malmö Spritbutiken,Uppsala,Beer,35,15294.05
+INV_000004,2023-01-08,STORE_4552,Göteborg Vinkällaren,Lund,White Wine,6,1168.04
+INV_000005,2023-01-19,STORE_2107,Malmö Spritbutiken,Göteborg,Beer,7,1615.36
+INV_000006,2023-01-14,STORE_5769,Göteborg Vinkällaren,Lund,Spirits,33,5318.27
+INV_000007,2023-01-06,STORE_3164,Göteborg Vinkällaren,Stockholm,Beer,7,732.95
+INV_000008,2023-01-06,STORE_3494,Göteborg Vinkällaren,Stockholm,Beer,40,7704.09
+INV_000009,2023-01-19,STORE_4530,Göteborg Vinkällaren,Malmö,White Wine,8,2067.62
+INV_000010,2023-02-22,STORE_6731,Stockholm Systembolaget,Lund,Champagne,50,2939.83
+INV_000011,2023-02-28,STORE_2215,Göteborg Vinkällaren,Malmö,White Wine,45,13404.75
+INV_000012,2023-03-27,STORE_5892,Stockholm Systembolaget,Lund,Beer,8,1537.71
+INV_000013,2023-02-22,STORE_5936,Malmö Spritbutiken,Göteborg,Spirits,39,10032.95
+INV_000014,2023-03-21,STORE_2410,Göteborg Vinkällaren,Lund,Red Wine,21,1691.31
+INV_000015,2023-01-12,STORE_4430,Göteborg Vinkällaren,Göteborg,Beer,47,17780.51
+INV_000016,2023-01-14,STORE_6677,Stockholm Systembolaget,Malmö,Spirits,14,4698.47
+INV_000017,2023-01-19,STORE_4761,Göteborg Vinkällaren,Göteborg,Red Wine,29,2148.47
+INV_000018,2023-02-06,STORE_3875,Göteborg Vinkällaren,Göteborg,White Wine,39,14333.77
+INV_000019,2023-02-02,STORE_8904,Malmö Spritbutiken,Lund,Whiskey,17,3273.37
+INV_000020,2023-02-14,STORE_1603,Göteborg Vinkällaren,Uppsala,Whiskey,32,2317.75
+INV_000021,2023-03-30,STORE_6493,Malmö Spritbutiken,Lund,Champagne,42,14611.66
+INV_000022,2023-02-13,STORE_2568,Malmö Spritbutiken,Uppsala,Red Wine,49,21697.52
+INV_000023,2023-01-15,STORE_9451,Malmö Spritbutiken,Stockholm,White Wine,24,6806.5
+INV_000024,2023-01-08,STORE_5668,Göteborg Vinkällaren,Stockholm,Beer,36,8538.29
+INV_000025,2023-02-21,STORE_2985,Malmö Spritbutiken,Malmö,Beer,12,5175.36
+INV_000026,2023-02-07,STORE_5550,Malmö Spritbutiken,Uppsala,Beer,36,12667.83
+INV_000027,2023-01-06,STORE_5458,Göteborg Vinkällaren,Stockholm,Red Wine,12,1760.93
+INV_000028,2023-02-28,STORE_1606,Stockholm Systembolaget,Malmö,Beer,50,11449.06
+INV_000029,2023-03-05,STORE_7225,Stockholm Systembolaget,Göteborg,Beer,31,4482.14
+INV_000030,2023-02-24,STORE_1401,Malmö Spritbutiken,Stockholm,Red Wine,44,19966.07
+INV_000031,2023-01-23,STORE_3806,Malmö Spritbutiken,Malmö,Champagne,8,1531.18
+INV_000032,2023-03-21,STORE_7172,Göteborg Vinkällaren,Lund,Red Wine,23,6940.21
+INV_000033,2023-01-13,STORE_5019,Stockholm Systembolaget,Stockholm,Red Wine,48,5547.55
+INV_000034,2023-02-28,STORE_5765,Göteborg Vinkällaren,Malmö,Whiskey,15,4097.61
+INV_000035,2023-01-01,STORE_9621,Göteborg Vinkällaren,Göteborg,Spirits,32,5592.16
+INV_000036,2023-02-06,STORE_1483,Stockholm Systembolaget,Stockholm,Champagne,41,16666.38
+INV_000037,2023-02-22,STORE_3734,Malmö Spritbutiken,Göteborg,Spirits,2,291.79
+INV_000038,2023-03-16,STORE_4639,Stockholm Systembolaget,Göteborg,Red Wine,36,4647.67
+INV_000039,2023-01-14,STORE_7521,Göteborg Vinkällaren,Stockholm,Beer,3,1224.39
+INV_000040,2023-03-09,STORE_2557,Malmö Spritbutiken,Göteborg,Red Wine,45,11535.01
+INV_000041,2023-01-17,STORE_3024,Malmö Spritbutiken,Göteborg,Red Wine,5,795.9
+INV_000042,2023-03-06,STORE_8076,Stockholm Systembolaget,Göteborg,Beer,38,12559.41
+INV_000043,2023-02-15,STORE_2482,Malmö Spritbutiken,Uppsala,Spirits,29,2959.93
+INV_000044,2023-02-12,STORE_3216,Stockholm Systembolaget,Malmö,White Wine,48,7762.73
+INV_000045,2023-01-30,STORE_3000,Stockholm Systembolaget,Göteborg,Champagne,41,13768.87
+INV_000046,2023-01-08,STORE_7538,Stockholm Systembolaget,Stockholm,Champagne,33,7181.3
+INV_000047,2023-01-21,STORE_8775,Stockholm Systembolaget,Malmö,Whiskey,42,4689.6
+INV_000048,2023-01-02,STORE_2343,Stockholm Systembolaget,Uppsala,Beer,31,15343.51
+INV_000049,2023-03-02,STORE_2978,Göteborg Vinkällaren,Göteborg,Spirits,45,17989.28
+INV_000050,2023-02-15,STORE_5596,Malmö Spritbutiken,Lund,Red Wine,25,3968.67
+INV_000051,2023-01-09,STORE_1560,Stockholm Systembolaget,Uppsala,Whiskey,25,2852.54
+INV_000052,2023-03-15,STORE_1073,Göteborg Vinkällaren,Malmö,Champagne,1,118.73
+INV_000053,2023-01-14,STORE_4545,Malmö Spritbutiken,Lund,Whiskey,21,2124.11
+INV_000054,2023-03-31,STORE_7143,Malmö Spritbutiken,Göteborg,Champagne,37,10333.12
+INV_000055,2023-03-29,STORE_2640,Stockholm Systembolaget,Uppsala,Champagne,31,1834.39
+INV_000056,2023-01-27,STORE_1916,Stockholm Systembolaget,Uppsala,Champagne,50,20652.25
+INV_000057,2023-01-18,STORE_5814,Malmö Spritbutiken,Stockholm,Whiskey,30,7939.86
+INV_000058,2023-02-04,STORE_4579,Stockholm Systembolaget,Stockholm,Beer,19,7692.55
+INV_000059,2023-02-23,STORE_2416,Göteborg Vinkällaren,Stockholm,White Wine,14,5456.93
+INV_000060,2023-03-16,STORE_7799,Malmö Spritbutiken,Lund,Champagne,46,19400.72
+INV_000061,2023-02-05,STORE_6912,Stockholm Systembolaget,Uppsala,Beer,19,8085.0
+INV_000062,2023-03-16,STORE_7877,Malmö Spritbutiken,Malmö,Beer,49,16898.06
+INV_000063,2023-01-06,STORE_9320,Malmö Spritbutiken,Göteborg,Whiskey,46,21972.45
+INV_000064,2023-01-19,STORE_3701,Malmö Spritbutiken,Lund,White Wine,47,20308.93
+INV_000065,2023-03-15,STORE_7801,Stockholm Systembolaget,Göteborg,White Wine,9,2561.93
+INV_000066,2023-03-09,STORE_4365,Göteborg Vinkällaren,Uppsala,Whiskey,23,6411.74
+INV_000067,2023-03-14,STORE_7486,Malmö Spritbutiken,Lund,Whiskey,42,20338.19
+INV_000068,2023-01-31,STORE_9920,Göteborg Vinkällaren,Lund,Spirits,39,5976.26
+INV_000069,2023-01-20,STORE_4778,Stockholm Systembolaget,Malmö,Beer,50,15757.19
+INV_000070,2023-02-09,STORE_2128,Malmö Spritbutiken,Lund,Champagne,40,18347.79
+INV_000071,2023-02-01,STORE_7957,Malmö Spritbutiken,Uppsala,Whiskey,11,564.91
+INV_000072,2023-03-10,STORE_6965,Stockholm Systembolaget,Stockholm,Whiskey,2,123.2
+INV_000073,2023-03-27,STORE_8656,Malmö Spritbutiken,Malmö,Spirits,9,947.29
+INV_000074,2023-02-03,STORE_5372,Malmö Spritbutiken,Malmö,Champagne,9,1518.42
+INV_000075,2023-02-17,STORE_9144,Stockholm Systembolaget,Uppsala,Red Wine,25,11094.68
+INV_000076,2023-03-12,STORE_3843,Göteborg Vinkällaren,Göteborg,Beer,38,6381.64
+INV_000077,2023-03-29,STORE_8766,Göteborg Vinkällaren,Göteborg,Beer,23,4174.53
+INV_000078,2023-02-12,STORE_2801,Stockholm Systembolaget,Malmö,White Wine,28,6569.2
+INV_000079,2023-01-10,STORE_7341,Göteborg Vinkällaren,Lund,Spirits,33,13276.48
+INV_000080,2023-03-30,STORE_9767,Göteborg Vinkällaren,Stockholm,Whiskey,41,19959.64
+INV_000081,2023-01-16,STORE_4124,Göteborg Vinkällaren,Göteborg,Red Wine,13,5138.16
+INV_000082,2023-02-01,STORE_3481,Göteborg Vinkällaren,Göteborg,Whiskey,35,15994.4
+INV_000083,2023-02-07,STORE_5878,Malmö Spritbutiken,Lund,Champagne,28,6674.87
+INV_000084,2023-03-19,STORE_7937,Malmö Spritbutiken,Malmö,Spirits,44,17643.92
+INV_000085,2023-02-10,STORE_3312,Malmö Spritbutiken,Uppsala,Champagne,50,13354.86
+INV_000086,2023-01-02,STORE_4277,Malmö Spritbutiken,Malmö,Spirits,46,3553.35
+INV_000087,2023-01-02,STORE_6057,Stockholm Systembolaget,Göteborg,Spirits,18,7370.58
+INV_000088,2023-02-13,STORE_1507,Malmö Spritbutiken,Uppsala,Beer,41,9305.75
+INV_000089,2023-02-12,STORE_4679,Stockholm Systembolaget,Uppsala,Beer,10,4576.45
+INV_000090,2023-02-27,STORE_6707,Malmö Spritbutiken,Stockholm,Beer,49,3821.89
+INV_000091,2023-01-25,STORE_8127,Göteborg Vinkällaren,Malmö,Spirits,11,949.31
+INV_000092,2023-01-23,STORE_8178,Göteborg Vinkällaren,Göteborg,White Wine,28,9341.64
+INV_000093,2023-03-05,STORE_8742,Göteborg Vinkällaren,Stockholm,Champagne,6,2169.77
+INV_000094,2023-01-11,STORE_1045,Malmö Spritbutiken,Göteborg,Spirits,23,9697.97
+INV_000095,2023-02-09,STORE_9529,Göteborg Vinkällaren,Lund,Whiskey,23,5011.43
+INV_000096,2023-02-16,STORE_3052,Göteborg Vinkällaren,Uppsala,Red Wine,39,10710.16
+INV_000097,2023-01-10,STORE_6187,Stockholm Systembolaget,Lund,Champagne,37,6426.78
+INV_000098,2023-02-21,STORE_4447,Stockholm Systembolaget,Lund,Champagne,18,1174.71
+INV_000099,2023-01-17,STORE_6325,Göteborg Vinkällaren,Stockholm,Spirits,35,14675.46
+INV_000100,2023-03-28,STORE_1971,Stockholm Systembolaget,Göteborg,Beer,15,5882.06
+INV_000101,2023-01-01,STORE_3755,Göteborg Vinkällaren,Uppsala,White Wine,31,14703.18
+INV_000102,2023-01-14,STORE_8269,Malmö Spritbutiken,Lund,Champagne,46,21196.91
+INV_000103,2023-01-18,STORE_1237,Malmö Spritbutiken,Lund,Spirits,30,4552.79
+INV_000104,2023-02-11,STORE_2000,Malmö Spritbutiken,Göteborg,Spirits,41,4556.52
+INV_000105,2023-01-04,STORE_6124,Malmö Spritbutiken,Lund,Beer,34,3215.41
+INV_000106,2023-01-27,STORE_4198,Stockholm Systembolaget,Malmö,Champagne,43,10587.88
+INV_000107,2023-01-10,STORE_1260,Malmö Spritbutiken,Lund,Champagne,4,1942.49
+INV_000108,2023-03-21,STORE_9823,Göteborg Vinkällaren,Göteborg,Whiskey,33,3400.87
+INV_000109,2023-02-17,STORE_4653,Göteborg Vinkällaren,Göteborg,Beer,21,7063.19
+INV_000110,2023-03-25,STORE_9886,Göteborg Vinkällaren,Göteborg,Whiskey,39,10180.35
+INV_000111,2023-02-21,STORE_5403,Göteborg Vinkällaren,Malmö,Beer,47,18345.73
+INV_000112,2023-03-03,STORE_8352,Malmö Spritbutiken,Malmö,Whiskey,1,345.63
+INV_000113,2023-03-30,STORE_5683,Stockholm Systembolaget,Lund,White Wine,37,12775.37
+INV_000114,2023-02-05,STORE_6964,Stockholm Systembolaget,Uppsala,White Wine,8,3747.96
+INV_000115,2023-01-20,STORE_3662,Stockholm Systembolaget,Göteborg,Champagne,31,6297.36
+INV_000116,2023-02-07,STORE_1547,Malmö Spritbutiken,Stockholm,White Wine,46,15644.54
+INV_000117,2023-02-06,STORE_2593,Malmö Spritbutiken,Lund,Beer,48,16824.91
+INV_000118,2023-02-24,STORE_6443,Stockholm Systembolaget,Lund,Beer,13,4446.94
+INV_000119,2023-02-23,STORE_8357,Stockholm Systembolaget,Stockholm,Spirits,7,3040.53
+INV_000120,2023-01-20,STORE_9593,Göteborg Vinkällaren,Stockholm,Champagne,1,328.42
+INV_000121,2023-03-09,STORE_2350,Göteborg Vinkällaren,Stockholm,Beer,43,21328.91
+INV_000122,2023-01-30,STORE_6398,Stockholm Systembolaget,Malmö,White Wine,48,3366.25
+INV_000123,2023-02-19,STORE_5260,Malmö Spritbutiken,Göteborg,White Wine,2,147.33
+INV_000124,2023-02-16,STORE_2533,Malmö Spritbutiken,Uppsala,White Wine,7,1104.14
+INV_000125,2023-01-29,STORE_4667,Malmö Spritbutiken,Stockholm,Red Wine,30,10464.44
+INV_000126,2023-03-23,STORE_4769,Malmö Spritbutiken,Malmö,Spirits,30,6467.12
+INV_000127,2023-02-23,STORE_6261,Stockholm Systembolaget,Göteborg,Beer,10,3644.8
+INV_000128,2023-03-07,STORE_9560,Stockholm Systembolaget,Malmö,Red Wine,15,2278.89
+INV_000129,2023-01-29,STORE_3845,Göteborg Vinkällaren,Uppsala,Spirits,47,22675.71
+INV_000130,2023-03-29,STORE_1216,Stockholm Systembolaget,Malmö,Whiskey,46,5859.31
+INV_000131,2023-01-25,STORE_4154,Göteborg Vinkällaren,Malmö,White Wine,28,4984.02
+INV_000132,2023-01-01,STORE_1977,Stockholm Systembolaget,Uppsala,Whiskey,8,2051.88
+INV_000133,2023-01-11,STORE_2886,Stockholm Systembolaget,Uppsala,Beer,2,730.77
+INV_000134,2023-03-23,STORE_1948,Göteborg Vinkällaren,Göteborg,Spirits,5,592.23
+INV_000135,2023-01-16,STORE_8783,Stockholm Systembolaget,Lund,Red Wine,37,11571.63
+INV_000136,2023-02-03,STORE_1441,Stockholm Systembolaget,Malmö,Spirits,5,660.51
+INV_000137,2023-01-10,STORE_8838,Stockholm Systembolaget,Uppsala,Red Wine,39,11551.76
+INV_000138,2023-03-14,STORE_7331,Göteborg Vinkällaren,Stockholm,Champagne,2,997.79
+INV_000139,2023-01-26,STORE_3160,Malmö Spritbutiken,Malmö,Spirits,39,13164.17
+INV_000140,2023-03-15,STORE_8504,Stockholm Systembolaget,Stockholm,Spirits,18,6884.55
+INV_000141,2023-01-22,STORE_2967,Malmö Spritbutiken,Lund,Red Wine,1,351.94
+INV_000142,2023-03-17,STORE_9953,Malmö Spritbutiken,Malmö,White Wine,36,12830.61
+INV_000143,2023-01-06,STORE_6024,Malmö Spritbutiken,Malmö,Spirits,31,13228.92
+INV_000144,2023-03-20,STORE_4436,Malmö Spritbutiken,Uppsala,Spirits,27,5084.37
+INV_000145,2023-03-14,STORE_1152,Malmö Spritbutiken,Uppsala,White Wine,47,4095.22
+INV_000146,2023-02-15,STORE_9645,Malmö Spritbutiken,Lund,Whiskey,8,706.24
+INV_000147,2023-03-03,STORE_6215,Malmö Spritbutiken,Göteborg,Spirits,26,5426.06
+INV_000148,2023-02-05,STORE_1769,Malmö Spritbutiken,Uppsala,White Wine,42,7943.82
+INV_000149,2023-01-23,STORE_9789,Malmö Spritbutiken,Uppsala,White Wine,50,15296.83
+INV_000150,2023-01-03,STORE_5296,Göteborg Vinkällaren,Uppsala,Beer,37,17697.97
+INV_000151,2023-03-18,STORE_5598,Göteborg Vinkällaren,Stockholm,White Wine,34,3351.22
+INV_000152,2023-03-08,STORE_2869,Malmö Spritbutiken,Lund,Red Wine,13,1904.65
+INV_000153,2023-03-22,STORE_4421,Göteborg Vinkällaren,Stockholm,Champagne,14,2166.54
+INV_000154,2023-02-23,STORE_6827,Göteborg Vinkällaren,Stockholm,Champagne,5,1218.92
+INV_000155,2023-03-25,STORE_3761,Malmö Spritbutiken,Lund,White Wine,49,21138.29
+INV_000156,2023-03-03,STORE_8777,Stockholm Systembolaget,Göteborg,Spirits,28,13126.48
+INV_000157,2023-03-19,STORE_6828,Göteborg Vinkällaren,Malmö,White Wine,23,11226.57
+INV_000158,2023-01-12,STORE_3126,Malmö Spritbutiken,Stockholm,Whiskey,46,20549.09
+INV_000159,2023-01-06,STORE_3275,Göteborg Vinkällaren,Göteborg,Whiskey,29,11536.66
+INV_000160,2023-02-24,STORE_3507,Göteborg Vinkällaren,Göteborg,Red Wine,6,2824.44
+INV_000161,2023-02-11,STORE_8733,Malmö Spritbutiken,Stockholm,Whiskey,13,2069.92
+INV_000162,2023-01-25,STORE_5236,Malmö Spritbutiken,Malmö,Spirits,12,5515.77
+INV_000163,2023-03-13,STORE_6815,Göteborg Vinkällaren,Lund,Spirits,1,383.84
+INV_000164,2023-01-18,STORE_1317,Malmö Spritbutiken,Malmö,Champagne,21,6775.81
+INV_000165,2023-01-16,STORE_3364,Göteborg Vinkällaren,Göteborg,Champagne,44,21767.27
+INV_000166,2023-03-04,STORE_9738,Stockholm Systembolaget,Malmö,Spirits,24,7219.16
+INV_000167,2023-01-13,STORE_1628,Stockholm Systembolaget,Malmö,Beer,4,662.12
+INV_000168,2023-02-07,STORE_9531,Stockholm Systembolaget,Stockholm,Red Wine,45,20675.46
+INV_000169,2023-02-14,STORE_7338,Göteborg Vinkällaren,Lund,Red Wine,18,4690.28
+INV_000170,2023-02-20,STORE_6816,Göteborg Vinkällaren,Lund,Beer,23,4106.0
+INV_000171,2023-03-04,STORE_4028,Göteborg Vinkällaren,Göteborg,White Wine,14,3755.43
+INV_000172,2023-01-21,STORE_8222,Stockholm Systembolaget,Stockholm,Champagne,21,4013.44
+INV_000173,2023-03-05,STORE_8517,Stockholm Systembolaget,Lund,Spirits,4,255.85
+INV_000174,2023-01-22,STORE_5381,Göteborg Vinkällaren,Malmö,Red Wine,2,953.3
+INV_000175,2023-03-22,STORE_3482,Malmö Spritbutiken,Uppsala,Whiskey,2,479.11
+INV_000176,2023-02-10,STORE_1648,Göteborg Vinkällaren,Göteborg,Champagne,5,963.29
+INV_000177,2023-03-31,STORE_6652,Malmö Spritbutiken,Malmö,Spirits,35,2134.55
+INV_000178,2023-03-11,STORE_6632,Göteborg Vinkällaren,Lund,Beer,44,20393.73
+INV_000179,2023-01-28,STORE_6613,Stockholm Systembolaget,Lund,Champagne,41,9621.41
+INV_000180,2023-03-14,STORE_5430,Malmö Spritbutiken,Uppsala,Champagne,34,14519.18
+INV_000181,2023-01-21,STORE_2542,Stockholm Systembolaget,Lund,Whiskey,15,2813.24
+INV_000182,2023-02-27,STORE_1433,Malmö Spritbutiken,Lund,Beer,13,3562.12
+INV_000183,2023-02-10,STORE_7399,Stockholm Systembolaget,Stockholm,Champagne,41,7260.36
+INV_000184,2023-01-21,STORE_8434,Malmö Spritbutiken,Lund,Whiskey,4,324.74
+INV_000185,2023-01-10,STORE_1672,Malmö Spritbutiken,Lund,Spirits,21,7235.06
+INV_000186,2023-02-02,STORE_8659,Malmö Spritbutiken,Lund,Spirits,46,14195.51
+INV_000187,2023-03-19,STORE_4997,Göteborg Vinkällaren,Malmö,Champagne,27,7451.93
+INV_000188,2023-01-15,STORE_8301,Göteborg Vinkällaren,Malmö,Red Wine,49,18286.16
+INV_000189,2023-01-10,STORE_5836,Göteborg Vinkällaren,Lund,Whiskey,42,2118.93
+INV_000190,2023-01-25,STORE_2138,Malmö Spritbutiken,Uppsala,Beer,5,707.74
+INV_000191,2023-01-31,STORE_1895,Stockholm Systembolaget,Malmö,Spirits,19,7211.72
+INV_000192,2023-01-06,STORE_5956,Malmö Spritbutiken,Lund,Whiskey,31,11149.34
+INV_000193,2023-01-09,STORE_5128,Malmö Spritbutiken,Stockholm,Champagne,8,1634.18
+INV_000194,2023-01-28,STORE_3885,Stockholm Systembolaget,Lund,Beer,5,1756.18
+INV_000195,2023-03-20,STORE_2684,Stockholm Systembolaget,Lund,Beer,17,2938.6
+INV_000196,2023-01-16,STORE_2342,Malmö Spritbutiken,Lund,Champagne,46,21390.85
+INV_000197,2023-02-26,STORE_3092,Malmö Spritbutiken,Uppsala,Whiskey,31,13621.21
+INV_000198,2023-01-26,STORE_8248,Göteborg Vinkällaren,Lund,Whiskey,22,2698.61
+INV_000199,2023-02-05,STORE_6093,Malmö Spritbutiken,Uppsala,Red Wine,44,17560.25
+INV_000200,2023-01-05,STORE_6494,Malmö Spritbutiken,Malmö,Champagne,26,4735.58
+INV_000201,2023-02-07,STORE_3901,Malmö Spritbutiken,Göteborg,White Wine,34,2764.42
+INV_000202,2023-03-12,STORE_2149,Stockholm Systembolaget,Malmö,Whiskey,19,6387.31
+INV_000203,2023-02-19,STORE_5241,Stockholm Systembolaget,Stockholm,Whiskey,30,3777.44
+INV_000204,2023-01-20,STORE_2078,Göteborg Vinkällaren,Göteborg,Whiskey,25,5081.95
+INV_000205,2023-01-09,STORE_9862,Göteborg Vinkällaren,Malmö,White Wine,11,1470.92
+INV_000206,2023-01-23,STORE_8133,Malmö Spritbutiken,Stockholm,Beer,32,9098.32
+INV_000207,2023-01-15,STORE_7931,Malmö Spritbutiken,Göteborg,Spirits,47,20955.19
+INV_000208,2023-02-25,STORE_1160,Malmö Spritbutiken,Malmö,Champagne,45,13599.28
+INV_000209,2023-04-01,STORE_3575,Malmö Spritbutiken,Göteborg,Spirits,39,9758.95
+INV_000210,2023-01-22,STORE_6067,Malmö Spritbutiken,Uppsala,Beer,38,9140.03
+INV_000211,2023-03-20,STORE_2672,Malmö Spritbutiken,Stockholm,Red Wine,45,4650.56
+INV_000212,2023-02-16,STORE_3198,Stockholm Systembolaget,Lund,Whiskey,22,7195.24
+INV_000213,2023-01-08,STORE_6305,Göteborg Vinkällaren,Uppsala,White Wine,49,11931.13
+INV_000214,2023-01-01,STORE_4593,Malmö Spritbutiken,Lund,White Wine,18,2075.46
+INV_000215,2023-02-25,STORE_2237,Malmö Spritbutiken,Lund,Spirits,40,18722.16
+INV_000216,2023-02-11,STORE_1986,Göteborg Vinkällaren,Göteborg,Champagne,17,3987.72
+INV_000217,2023-03-28,STORE_5327,Stockholm Systembolaget,Stockholm,Spirits,13,2651.75
+INV_000218,2023-02-03,STORE_9227,Stockholm Systembolaget,Göteborg,Spirits,29,2093.99
+INV_000219,2023-02-06,STORE_2357,Stockholm Systembolaget,Stockholm,Whiskey,36,5543.43
+INV_000220,2023-03-26,STORE_3945,Göteborg Vinkällaren,Lund,Red Wine,50,3804.31
+INV_000221,2023-01-09,STORE_8307,Göteborg Vinkällaren,Stockholm,Spirits,15,1071.58
+INV_000222,2023-02-09,STORE_6746,Malmö Spritbutiken,Uppsala,Spirits,37,9475.09
+INV_000223,2023-03-23,STORE_6694,Stockholm Systembolaget,Göteborg,Red Wine,23,2533.61
+INV_000224,2023-02-06,STORE_2735,Malmö Spritbutiken,Malmö,Whiskey,39,16872.43
+INV_000225,2023-01-27,STORE_5831,Malmö Spritbutiken,Stockholm,Whiskey,21,6296.66
+INV_000226,2023-03-06,STORE_7234,Malmö Spritbutiken,Malmö,Whiskey,10,3187.9
+INV_000227,2023-03-19,STORE_4290,Stockholm Systembolaget,Stockholm,Red Wine,27,10687.56
+INV_000228,2023-02-16,STORE_5494,Malmö Spritbutiken,Lund,White Wine,42,18983.79
+INV_000229,2023-03-27,STORE_7719,Stockholm Systembolaget,Göteborg,Spirits,15,3630.48
+INV_000230,2023-01-26,STORE_8787,Malmö Spritbutiken,Malmö,Spirits,10,1625.27
+INV_000231,2023-03-29,STORE_3209,Stockholm Systembolaget,Uppsala,Whiskey,15,4226.0
+INV_000232,2023-01-22,STORE_9901,Malmö Spritbutiken,Uppsala,Champagne,14,3258.93
+INV_000233,2023-01-09,STORE_4407,Malmö Spritbutiken,Uppsala,Whiskey,7,1741.46
+INV_000234,2023-02-12,STORE_6081,Stockholm Systembolaget,Uppsala,Red Wine,34,14346.0
+INV_000235,2023-02-22,STORE_1784,Göteborg Vinkällaren,Uppsala,Red Wine,21,2679.58
+INV_000236,2023-02-16,STORE_2981,Stockholm Systembolaget,Malmö,Beer,9,3442.61
+INV_000237,2023-01-17,STORE_2395,Malmö Spritbutiken,Göteborg,Champagne,26,8833.43
+INV_000238,2023-03-23,STORE_3272,Stockholm Systembolaget,Göteborg,Whiskey,2,456.56
+INV_000239,2023-03-05,STORE_8478,Göteborg Vinkällaren,Uppsala,Whiskey,41,4538.26
+INV_000240,2023-01-20,STORE_1158,Göteborg Vinkällaren,Lund,Champagne,4,1427.41
+INV_000241,2023-02-06,STORE_7792,Malmö Spritbutiken,Uppsala,Red Wine,13,4850.68
+INV_000242,2023-01-07,STORE_2361,Göteborg Vinkällaren,Malmö,Whiskey,27,6829.25
+INV_000243,2023-01-26,STORE_8565,Stockholm Systembolaget,Uppsala,Whiskey,17,1416.4
+INV_000244,2023-03-06,STORE_3973,Malmö Spritbutiken,Uppsala,White Wine,9,2350.62
+INV_000245,2023-03-23,STORE_9170,Göteborg Vinkällaren,Lund,Champagne,17,5754.75
+INV_000246,2023-02-27,STORE_5540,Göteborg Vinkällaren,Uppsala,White Wine,8,1947.48
+INV_000247,2023-03-10,STORE_3873,Malmö Spritbutiken,Malmö,Champagne,44,11871.14
+INV_000248,2023-01-27,STORE_9933,Stockholm Systembolaget,Uppsala,Red Wine,21,9780.16
+INV_000249,2023-03-26,STORE_6126,Göteborg Vinkällaren,Göteborg,Champagne,26,7338.81
+INV_000250,2023-03-21,STORE_2980,Stockholm Systembolaget,Lund,Red Wine,30,1566.2
+INV_000251,2023-01-29,STORE_9577,Stockholm Systembolaget,Göteborg,Whiskey,20,6986.35
+INV_000252,2023-01-07,STORE_1003,Göteborg Vinkällaren,Malmö,Spirits,38,11722.06
+INV_000253,2023-03-28,STORE_8294,Stockholm Systembolaget,Göteborg,Red Wine,2,443.2
+INV_000254,2023-03-12,STORE_7685,Göteborg Vinkällaren,Lund,White Wine,35,14420.95
+INV_000255,2023-02-13,STORE_7071,Malmö Spritbutiken,Lund,Champagne,4,400.82
+INV_000256,2023-01-05,STORE_3899,Stockholm Systembolaget,Lund,Red Wine,13,6483.91
+INV_000257,2023-02-23,STORE_6500,Malmö Spritbutiken,Malmö,White Wine,41,11336.57
+INV_000258,2023-02-23,STORE_4591,Göteborg Vinkällaren,Göteborg,Red Wine,18,6620.1
+INV_000259,2023-02-09,STORE_2434,Göteborg Vinkällaren,Stockholm,Champagne,19,2717.22
+INV_000260,2023-02-18,STORE_4814,Malmö Spritbutiken,Malmö,Beer,10,3186.19
+INV_000261,2023-02-19,STORE_8993,Malmö Spritbutiken,Malmö,Red Wine,3,1103.79
+INV_000262,2023-01-18,STORE_8725,Stockholm Systembolaget,Göteborg,Spirits,17,6404.23
+INV_000263,2023-02-08,STORE_5577,Malmö Spritbutiken,Göteborg,Champagne,47,4662.49
+INV_000264,2023-01-13,STORE_1564,Göteborg Vinkällaren,Malmö,White Wine,35,5413.56
+INV_000265,2023-01-24,STORE_2399,Stockholm Systembolaget,Uppsala,Champagne,18,1967.16
+INV_000266,2023-01-14,STORE_4657,Stockholm Systembolaget,Stockholm,Red Wine,13,1834.3
+INV_000267,2023-01-30,STORE_7005,Stockholm Systembolaget,Lund,White Wine,18,3357.05
+INV_000268,2023-02-28,STORE_3968,Göteborg Vinkällaren,Stockholm,Spirits,18,3743.33
+INV_000269,2023-03-14,STORE_2810,Stockholm Systembolaget,Lund,Champagne,37,8695.94
+INV_000270,2023-02-19,STORE_5033,Malmö Spritbutiken,Göteborg,White Wine,6,1347.3
+INV_000271,2023-01-31,STORE_2778,Stockholm Systembolaget,Göteborg,Red Wine,13,6269.37
+INV_000272,2023-03-24,STORE_5053,Stockholm Systembolaget,Uppsala,Spirits,17,2754.3
+INV_000273,2023-03-26,STORE_9824,Göteborg Vinkällaren,Lund,Beer,31,9566.99
+INV_000274,2023-01-19,STORE_7941,Göteborg Vinkällaren,Lund,Spirits,3,905.43
+INV_000275,2023-02-14,STORE_5633,Malmö Spritbutiken,Lund,Beer,18,2958.87
+INV_000276,2023-03-10,STORE_8828,Göteborg Vinkällaren,Malmö,Red Wine,38,7186.06
+INV_000277,2023-01-09,STORE_5366,Stockholm Systembolaget,Uppsala,Whiskey,19,3880.52
+INV_000278,2023-01-21,STORE_5259,Malmö Spritbutiken,Göteborg,Whiskey,12,2216.85
+INV_000279,2023-01-31,STORE_7251,Malmö Spritbutiken,Uppsala,Red Wine,10,1533.45
+INV_000280,2023-01-29,STORE_2748,Malmö Spritbutiken,Stockholm,Spirits,32,13211.83
+INV_000281,2023-02-15,STORE_9095,Göteborg Vinkällaren,Stockholm,White Wine,12,792.14
+INV_000282,2023-03-21,STORE_1684,Stockholm Systembolaget,Göteborg,White Wine,34,12051.12
+INV_000283,2023-02-01,STORE_7727,Stockholm Systembolaget,Lund,Spirits,20,7958.73
+INV_000284,2023-02-14,STORE_6258,Stockholm Systembolaget,Göteborg,White Wine,31,11877.65
+INV_000285,2023-01-11,STORE_2866,Stockholm Systembolaget,Malmö,Spirits,13,5227.24
+INV_000286,2023-01-20,STORE_9392,Malmö Spritbutiken,Göteborg,Whiskey,41,11392.67
+INV_000287,2023-01-14,STORE_3951,Stockholm Systembolaget,Uppsala,Champagne,36,16052.22
+INV_000288,2023-02-07,STORE_3481,Malmö Spritbutiken,Göteborg,Spirits,40,17735.53
+INV_000289,2023-03-19,STORE_1205,Malmö Spritbutiken,Stockholm,Spirits,20,7658.91
+INV_000290,2023-03-29,STORE_4531,Göteborg Vinkällaren,Göteborg,Spirits,18,8130.57
+INV_000291,2023-03-07,STORE_7515,Stockholm Systembolaget,Lund,Whiskey,43,2288.84
+INV_000292,2023-01-25,STORE_2517,Stockholm Systembolaget,Malmö,Champagne,22,10936.76
+INV_000293,2023-03-25,STORE_2578,Göteborg Vinkällaren,Stockholm,Red Wine,27,11135.16
+INV_000294,2023-03-23,STORE_6446,Stockholm Systembolaget,Lund,White Wine,11,4451.78
+INV_000295,2023-02-26,STORE_7074,Göteborg Vinkällaren,Uppsala,Beer,11,2952.41
+INV_000296,2023-02-26,STORE_6607,Göteborg Vinkällaren,Göteborg,Champagne,39,12216.01
+INV_000297,2023-01-31,STORE_7745,Malmö Spritbutiken,Göteborg,Whiskey,2,589.41
+INV_000298,2023-01-04,STORE_8554,Stockholm Systembolaget,Göteborg,Whiskey,11,4197.2
+INV_000299,2023-02-26,STORE_4436,Stockholm Systembolaget,Stockholm,Red Wine,15,7180.01
+INV_000300,2023-02-01,STORE_8287,Malmö Spritbutiken,Stockholm,Whiskey,13,1790.47
+INV_000301,2023-01-26,STORE_4585,Göteborg Vinkällaren,Lund,Whiskey,7,1403.65
+INV_000302,2023-02-04,STORE_8867,Stockholm Systembolaget,Stockholm,Champagne,20,5972.77
+INV_000303,2023-03-31,STORE_7880,Stockholm Systembolaget,Lund,Red Wine,33,8031.63
+INV_000304,2023-02-19,STORE_9879,Malmö Spritbutiken,Lund,White Wine,18,4943.44
+INV_000305,2023-03-11,STORE_5306,Göteborg Vinkällaren,Göteborg,Beer,30,12325.3
+INV_000306,2023-03-25,STORE_5601,Stockholm Systembolaget,Göteborg,Beer,27,1419.36
+INV_000307,2023-03-12,STORE_5157,Stockholm Systembolaget,Uppsala,Spirits,29,13630.35
+INV_000308,2023-03-19,STORE_1054,Stockholm Systembolaget,Uppsala,Champagne,33,11904.27
+INV_000309,2023-03-11,STORE_9656,Stockholm Systembolaget,Malmö,Champagne,9,2730.88
+INV_000310,2023-03-23,STORE_1318,Göteborg Vinkällaren,Göteborg,Champagne,43,8052.7
+INV_000311,2023-02-02,STORE_2276,Göteborg Vinkällaren,Malmö,White Wine,39,17521.72
+INV_000312,2023-01-13,STORE_7592,Stockholm Systembolaget,Lund,Beer,5,1437.72
+INV_000313,2023-01-14,STORE_4187,Malmö Spritbutiken,Uppsala,Beer,11,4768.71
+INV_000314,2023-01-13,STORE_1543,Stockholm Systembolaget,Malmö,Red Wine,17,3769.9
+INV_000315,2023-02-05,STORE_3269,Malmö Spritbutiken,Göteborg,Champagne,22,2636.31
+INV_000316,2023-03-05,STORE_9518,Stockholm Systembolaget,Uppsala,Beer,46,12467.64
+INV_000317,2023-02-16,STORE_9242,Malmö Spritbutiken,Göteborg,Whiskey,18,7029.56
+INV_000318,2023-01-27,STORE_1859,Malmö Spritbutiken,Stockholm,Whiskey,22,7654.55
+INV_000319,2023-02-15,STORE_1603,Göteborg Vinkällaren,Malmö,Beer,7,3420.65
+INV_000320,2023-03-06,STORE_1649,Stockholm Systembolaget,Göteborg,Champagne,28,10343.65
+INV_000321,2023-02-22,STORE_9453,Malmö Spritbutiken,Uppsala,Red Wine,9,1275.18
+INV_000322,2023-03-26,STORE_2094,Malmö Spritbutiken,Göteborg,Beer,26,11859.01
+INV_000323,2023-02-13,STORE_7895,Göteborg Vinkällaren,Stockholm,Whiskey,11,4187.81
+INV_000324,2023-01-09,STORE_1344,Göteborg Vinkällaren,Uppsala,Champagne,11,1374.88
+INV_000325,2023-01-10,STORE_3406,Göteborg Vinkällaren,Lund,Champagne,12,3680.73
+INV_000326,2023-01-28,STORE_5658,Stockholm Systembolaget,Stockholm,Red Wine,42,15606.03
+INV_000327,2023-03-22,STORE_9095,Göteborg Vinkällaren,Lund,Champagne,5,1749.02
+INV_000328,2023-02-14,STORE_1561,Göteborg Vinkällaren,Lund,Beer,43,21456.12
+INV_000329,2023-02-26,STORE_4053,Göteborg Vinkällaren,Göteborg,Red Wine,6,406.28
+INV_000330,2023-03-06,STORE_7779,Stockholm Systembolaget,Malmö,White Wine,43,17118.75
+INV_000331,2023-01-15,STORE_9808,Göteborg Vinkällaren,Lund,Red Wine,37,14186.13
+INV_000332,2023-02-01,STORE_2837,Stockholm Systembolaget,Uppsala,Red Wine,20,4255.38
+INV_000333,2023-02-09,STORE_9225,Stockholm Systembolaget,Malmö,White Wine,37,11165.84
+INV_000334,2023-02-01,STORE_6032,Malmö Spritbutiken,Stockholm,Whiskey,41,10040.78
+INV_000335,2023-02-18,STORE_3108,Göteborg Vinkällaren,Lund,Champagne,34,11542.54
+INV_000336,2023-03-16,STORE_3053,Stockholm Systembolaget,Uppsala,White Wine,29,4665.22
+INV_000337,2023-02-14,STORE_4492,Göteborg Vinkällaren,Malmö,Spirits,8,1532.04
+INV_000338,2023-01-19,STORE_2393,Stockholm Systembolaget,Göteborg,Red Wine,10,1720.74
+INV_000339,2023-02-22,STORE_6526,Malmö Spritbutiken,Göteborg,Red Wine,15,4641.36
+INV_000340,2023-02-07,STORE_9336,Stockholm Systembolaget,Göteborg,Red Wine,30,9153.52
+INV_000341,2023-01-16,STORE_6558,Malmö Spritbutiken,Stockholm,Beer,18,4523.8
+INV_000342,2023-01-18,STORE_1626,Göteborg Vinkällaren,Lund,Beer,26,10522.78
+INV_000343,2023-03-29,STORE_8227,Göteborg Vinkällaren,Lund,Whiskey,30,6254.47
+INV_000344,2023-01-22,STORE_1274,Göteborg Vinkällaren,Malmö,Red Wine,37,3862.25
+INV_000345,2023-03-05,STORE_1523,Malmö Spritbutiken,Uppsala,Red Wine,42,8707.3
+INV_000346,2023-01-16,STORE_4145,Stockholm Systembolaget,Uppsala,Champagne,13,4410.47
+INV_000347,2023-03-11,STORE_4939,Göteborg Vinkällaren,Lund,Beer,22,3718.86
+INV_000348,2023-02-25,STORE_1543,Göteborg Vinkällaren,Uppsala,White Wine,16,4619.51
+INV_000349,2023-01-16,STORE_9542,Malmö Spritbutiken,Lund,Champagne,16,4712.76
+INV_000350,2023-02-02,STORE_2250,Stockholm Systembolaget,Stockholm,Whiskey,33,10060.85
+INV_000351,2023-02-05,STORE_8386,Stockholm Systembolaget,Malmö,Spirits,41,15389.58
+INV_000352,2023-01-18,STORE_7619,Göteborg Vinkällaren,Malmö,Beer,44,7637.1
+INV_000353,2023-03-24,STORE_9478,Stockholm Systembolaget,Uppsala,Whiskey,14,1531.54
+INV_000354,2023-02-27,STORE_8982,Stockholm Systembolaget,Malmö,Red Wine,32,10529.24
+INV_000355,2023-03-20,STORE_7680,Stockholm Systembolaget,Lund,Red Wine,7,2621.51
+INV_000356,2023-03-04,STORE_5462,Stockholm Systembolaget,Uppsala,Spirits,21,1633.42
+INV_000357,2023-02-19,STORE_6780,Malmö Spritbutiken,Lund,Spirits,12,1120.8
+INV_000358,2023-01-26,STORE_8216,Göteborg Vinkällaren,Uppsala,Red Wine,25,11090.91
+INV_000359,2023-01-15,STORE_5423,Göteborg Vinkällaren,Stockholm,Whiskey,43,4469.64
+INV_000360,2023-02-23,STORE_5635,Göteborg Vinkällaren,Stockholm,White Wine,3,1248.3
+INV_000361,2023-03-27,STORE_1556,Stockholm Systembolaget,Uppsala,White Wine,39,5621.71
+INV_000362,2023-03-17,STORE_4561,Göteborg Vinkällaren,Lund,Champagne,21,1842.99
+INV_000363,2023-01-16,STORE_5713,Stockholm Systembolaget,Göteborg,Whiskey,38,15824.28
+INV_000364,2023-03-28,STORE_4367,Malmö Spritbutiken,Göteborg,White Wine,2,708.06
+INV_000365,2023-03-16,STORE_5467,Stockholm Systembolaget,Malmö,Beer,37,13768.7
+INV_000366,2023-03-17,STORE_6995,Göteborg Vinkällaren,Malmö,Champagne,20,1150.96
+INV_000367,2023-01-18,STORE_3404,Göteborg Vinkällaren,Malmö,Whiskey,32,13975.0
+INV_000368,2023-02-26,STORE_1516,Stockholm Systembolaget,Stockholm,Beer,49,23767.73
+INV_000369,2023-02-23,STORE_8419,Göteborg Vinkällaren,Lund,White Wine,22,6966.96
+INV_000370,2023-03-07,STORE_1407,Stockholm Systembolaget,Malmö,Beer,15,7144.25
+INV_000371,2023-02-16,STORE_6413,Stockholm Systembolaget,Uppsala,White Wine,43,18549.8
+INV_000372,2023-03-19,STORE_3673,Göteborg Vinkällaren,Lund,Champagne,24,10460.67
+INV_000373,2023-02-13,STORE_6919,Malmö Spritbutiken,Stockholm,Beer,36,11449.63
+INV_000374,2023-03-31,STORE_5946,Malmö Spritbutiken,Malmö,Whiskey,40,18305.66
+INV_000375,2023-01-28,STORE_1340,Göteborg Vinkällaren,Lund,Whiskey,21,2352.72
+INV_000376,2023-03-28,STORE_5985,Göteborg Vinkällaren,Stockholm,Spirits,17,3587.15
+INV_000377,2023-01-02,STORE_1781,Malmö Spritbutiken,Malmö,White Wine,42,7931.95
+INV_000378,2023-01-23,STORE_6949,Malmö Spritbutiken,Lund,Spirits,35,12825.76
+INV_000379,2023-03-12,STORE_4990,Malmö Spritbutiken,Malmö,Champagne,41,4602.0
+INV_000380,2023-03-16,STORE_7910,Malmö Spritbutiken,Stockholm,Beer,22,7698.7
+INV_000381,2023-01-08,STORE_5840,Stockholm Systembolaget,Uppsala,Spirits,47,8826.39
+INV_000382,2023-01-31,STORE_4143,Malmö Spritbutiken,Uppsala,Beer,32,3616.01
+INV_000383,2023-01-25,STORE_7749,Göteborg Vinkällaren,Lund,Whiskey,29,5072.75
+INV_000384,2023-02-24,STORE_3735,Malmö Spritbutiken,Göteborg,Whiskey,47,11817.94
+INV_000385,2023-01-16,STORE_7218,Stockholm Systembolaget,Uppsala,Whiskey,44,18383.98
+INV_000386,2023-03-01,STORE_4872,Stockholm Systembolaget,Stockholm,White Wine,27,13164.2
+INV_000387,2023-01-07,STORE_7103,Göteborg Vinkällaren,Malmö,Red Wine,35,10597.21
+INV_000388,2023-02-14,STORE_6543,Malmö Spritbutiken,Uppsala,Spirits,36,6062.11
+INV_000389,2023-02-01,STORE_4552,Malmö Spritbutiken,Göteborg,Champagne,9,2032.29
+INV_000390,2023-03-27,STORE_9382,Stockholm Systembolaget,Stockholm,White Wine,37,10875.76
+INV_000391,2023-03-13,STORE_1838,Stockholm Systembolaget,Stockholm,White Wine,10,1597.74
+INV_000392,2023-02-05,STORE_4351,Göteborg Vinkällaren,Uppsala,Red Wine,13,1157.03
+INV_000393,2023-03-25,STORE_8639,Göteborg Vinkällaren,Lund,Champagne,18,7903.68
+INV_000394,2023-01-17,STORE_8393,Malmö Spritbutiken,Malmö,Red Wine,25,11818.76
+INV_000395,2023-01-01,STORE_3904,Göteborg Vinkällaren,Uppsala,Beer,35,12247.07
+INV_000396,2023-03-31,STORE_5150,Malmö Spritbutiken,Uppsala,Whiskey,19,7190.58
+INV_000397,2023-03-04,STORE_4562,Stockholm Systembolaget,Uppsala,Beer,17,1418.26
+INV_000398,2023-01-09,STORE_6880,Stockholm Systembolaget,Malmö,Red Wine,2,701.3
+INV_000399,2023-01-18,STORE_1237,Stockholm Systembolaget,Lund,Beer,3,1376.46
+INV_000400,2023-03-28,STORE_1146,Stockholm Systembolaget,Göteborg,Champagne,23,7240.79
+INV_000401,2023-03-10,STORE_3491,Malmö Spritbutiken,Stockholm,Red Wine,48,2880.86
+INV_000402,2023-02-24,STORE_9349,Göteborg Vinkällaren,Lund,Whiskey,7,3442.3
+INV_000403,2023-01-17,STORE_3016,Malmö Spritbutiken,Uppsala,Red Wine,46,4885.12
+INV_000404,2023-01-07,STORE_4142,Stockholm Systembolaget,Lund,Red Wine,45,4829.96
+INV_000405,2023-02-08,STORE_3935,Göteborg Vinkällaren,Malmö,White Wine,48,3047.52
+INV_000406,2023-02-26,STORE_4780,Malmö Spritbutiken,Malmö,Spirits,27,3428.67
+INV_000407,2023-01-09,STORE_7095,Stockholm Systembolaget,Lund,White Wine,18,5901.33
+INV_000408,2023-01-30,STORE_6469,Malmö Spritbutiken,Göteborg,Spirits,43,7108.36
+INV_000409,2023-03-16,STORE_6571,Stockholm Systembolaget,Uppsala,Beer,10,1690.81
+INV_000410,2023-03-22,STORE_2078,Göteborg Vinkällaren,Stockholm,Champagne,18,3058.08
+INV_000411,2023-02-18,STORE_4461,Göteborg Vinkällaren,Uppsala,Red Wine,26,7650.67
+INV_000412,2023-03-05,STORE_6936,Stockholm Systembolaget,Stockholm,Whiskey,45,11617.45
+INV_000413,2023-03-21,STORE_8232,Göteborg Vinkällaren,Göteborg,Red Wine,6,483.63
+INV_000414,2023-01-25,STORE_3050,Göteborg Vinkällaren,Uppsala,Beer,1,354.96
+INV_000415,2023-02-22,STORE_9005,Malmö Spritbutiken,Uppsala,White Wine,37,8326.59
+INV_000416,2023-01-15,STORE_9291,Göteborg Vinkällaren,Göteborg,Red Wine,4,1638.38
+INV_000417,2023-01-18,STORE_7075,Göteborg Vinkällaren,Lund,White Wine,43,2270.41
+INV_000418,2023-02-08,STORE_8622,Göteborg Vinkällaren,Göteborg,Whiskey,43,13530.06
+INV_000419,2023-02-23,STORE_7189,Malmö Spritbutiken,Malmö,White Wine,12,4571.29
+INV_000420,2023-01-18,STORE_5962,Malmö Spritbutiken,Malmö,White Wine,2,834.54
+INV_000421,2023-02-02,STORE_9464,Malmö Spritbutiken,Malmö,Whiskey,47,10074.65
+INV_000422,2023-02-19,STORE_3687,Stockholm Systembolaget,Uppsala,Red Wine,9,480.38
+INV_000423,2023-01-01,STORE_2615,Göteborg Vinkällaren,Lund,White Wine,34,6390.56
+INV_000424,2023-01-28,STORE_8863,Stockholm Systembolaget,Göteborg,Champagne,48,11310.04
+INV_000425,2023-02-11,STORE_5564,Stockholm Systembolaget,Stockholm,Spirits,21,3739.06
+INV_000426,2023-01-06,STORE_4727,Stockholm Systembolaget,Göteborg,Whiskey,37,13919.29
+INV_000427,2023-03-25,STORE_2364,Göteborg Vinkällaren,Stockholm,Red Wine,4,438.19
+INV_000428,2023-01-12,STORE_6966,Stockholm Systembolaget,Malmö,Spirits,34,5167.06
+INV_000429,2023-02-13,STORE_2886,Göteborg Vinkällaren,Stockholm,Champagne,4,821.55
+INV_000430,2023-02-26,STORE_9936,Stockholm Systembolaget,Göteborg,White Wine,13,5715.16
+INV_000431,2023-03-21,STORE_2851,Göteborg Vinkällaren,Göteborg,Champagne,36,2758.72
+INV_000432,2023-01-08,STORE_5744,Stockholm Systembolaget,Stockholm,Whiskey,23,5564.15
+INV_000433,2023-03-19,STORE_6431,Malmö Spritbutiken,Uppsala,Champagne,49,22951.87
+INV_000434,2023-01-07,STORE_8251,Malmö Spritbutiken,Malmö,Spirits,40,14183.84
+INV_000435,2023-01-01,STORE_7459,Malmö Spritbutiken,Göteborg,Red Wine,17,1479.34
+INV_000436,2023-01-01,STORE_6838,Malmö Spritbutiken,Lund,Spirits,7,926.71
+INV_000437,2023-01-21,STORE_4974,Göteborg Vinkällaren,Stockholm,White Wine,43,13476.53
+INV_000438,2023-01-02,STORE_1288,Malmö Spritbutiken,Göteborg,Whiskey,3,1232.06
+INV_000439,2023-03-06,STORE_2361,Stockholm Systembolaget,Malmö,Spirits,48,9809.36
+INV_000440,2023-01-12,STORE_9833,Malmö Spritbutiken,Malmö,Spirits,16,2917.44
+INV_000441,2023-02-18,STORE_9252,Göteborg Vinkällaren,Uppsala,Spirits,23,4686.66
+INV_000442,2023-03-13,STORE_1474,Göteborg Vinkällaren,Göteborg,White Wine,10,511.85
+INV_000443,2023-03-22,STORE_4244,Göteborg Vinkällaren,Malmö,Champagne,15,5342.35
+INV_000444,2023-02-16,STORE_2498,Göteborg Vinkällaren,Malmö,Red Wine,3,507.35
+INV_000445,2023-02-07,STORE_6867,Stockholm Systembolaget,Lund,Beer,9,1885.6
+INV_000446,2023-01-20,STORE_1134,Göteborg Vinkällaren,Göteborg,Champagne,45,8753.46
+INV_000447,2023-03-20,STORE_7410,Malmö Spritbutiken,Lund,Red Wine,17,6777.6
+INV_000448,2023-03-18,STORE_7226,Malmö Spritbutiken,Göteborg,Red Wine,8,3863.02
+INV_000449,2023-01-19,STORE_5617,Göteborg Vinkällaren,Uppsala,Beer,27,8278.51
+INV_000450,2023-01-22,STORE_6863,Malmö Spritbutiken,Uppsala,Champagne,19,2702.82
+INV_000451,2023-01-27,STORE_4654,Stockholm Systembolaget,Uppsala,White Wine,44,3268.46
+INV_000452,2023-01-18,STORE_3148,Göteborg Vinkällaren,Malmö,Red Wine,48,19751.34
+INV_000453,2023-01-21,STORE_6772,Stockholm Systembolaget,Stockholm,Beer,14,2361.45
+INV_000454,2023-01-08,STORE_4825,Göteborg Vinkällaren,Göteborg,Whiskey,48,7620.58
+INV_000455,2023-02-08,STORE_2055,Malmö Spritbutiken,Lund,Spirits,15,7110.83
+INV_000456,2023-02-16,STORE_3383,Malmö Spritbutiken,Malmö,Whiskey,38,2189.32
+INV_000457,2023-03-06,STORE_2543,Stockholm Systembolaget,Stockholm,Whiskey,3,1258.99
+INV_000458,2023-02-15,STORE_2816,Stockholm Systembolaget,Stockholm,Red Wine,12,4391.15
+INV_000459,2023-02-09,STORE_1675,Malmö Spritbutiken,Lund,Beer,22,9659.33
+INV_000460,2023-02-20,STORE_7061,Stockholm Systembolaget,Lund,Champagne,24,8398.37
+INV_000461,2023-02-12,STORE_8244,Göteborg Vinkällaren,Uppsala,Red Wine,19,6523.25
+INV_000462,2023-02-14,STORE_1170,Malmö Spritbutiken,Göteborg,Red Wine,40,5448.19
+INV_000463,2023-02-21,STORE_7135,Stockholm Systembolaget,Lund,Beer,39,13288.54
+INV_000464,2023-03-02,STORE_7411,Malmö Spritbutiken,Uppsala,Champagne,2,677.22
+INV_000465,2023-03-09,STORE_5172,Malmö Spritbutiken,Malmö,White Wine,11,1836.52
+INV_000466,2023-03-08,STORE_3900,Malmö Spritbutiken,Uppsala,Whiskey,13,1038.31
+INV_000467,2023-03-05,STORE_4198,Stockholm Systembolaget,Göteborg,Beer,34,16875.3
+INV_000468,2023-01-25,STORE_9879,Göteborg Vinkällaren,Malmö,White Wine,6,2561.62
+INV_000469,2023-01-06,STORE_2870,Göteborg Vinkällaren,Lund,Spirits,31,3158.37
+INV_000470,2023-03-01,STORE_2954,Malmö Spritbutiken,Stockholm,Whiskey,32,10631.35
+INV_000471,2023-02-23,STORE_4961,Malmö Spritbutiken,Malmö,Spirits,21,4995.39
+INV_000472,2023-02-11,STORE_8840,Göteborg Vinkällaren,Lund,Spirits,10,3977.47
+INV_000473,2023-01-16,STORE_6577,Göteborg Vinkällaren,Malmö,Whiskey,16,2036.79
+INV_000474,2023-03-13,STORE_4758,Göteborg Vinkällaren,Stockholm,Champagne,7,2539.1
+INV_000475,2023-02-01,STORE_7042,Stockholm Systembolaget,Lund,White Wine,21,4201.69
+INV_000476,2023-01-13,STORE_2589,Malmö Spritbutiken,Malmö,Red Wine,18,4813.81
+INV_000477,2023-03-18,STORE_7255,Malmö Spritbutiken,Göteborg,Beer,25,4011.25
+INV_000478,2023-01-08,STORE_3822,Stockholm Systembolaget,Stockholm,Spirits,31,13060.99
+INV_000479,2023-02-22,STORE_9897,Malmö Spritbutiken,Malmö,Spirits,50,10630.02
+INV_000480,2023-01-14,STORE_5802,Malmö Spritbutiken,Göteborg,White Wine,4,1621.94
+INV_000481,2023-02-11,STORE_4489,Göteborg Vinkällaren,Malmö,Beer,28,1665.83
+INV_000482,2023-01-07,STORE_8114,Göteborg Vinkällaren,Lund,Whiskey,25,8639.62
+INV_000483,2023-02-21,STORE_5051,Stockholm Systembolaget,Göteborg,Red Wine,4,914.54
+INV_000484,2023-03-17,STORE_3720,Malmö Spritbutiken,Uppsala,Spirits,44,17997.25
+INV_000485,2023-03-27,STORE_3328,Göteborg Vinkällaren,Lund,Red Wine,29,5414.33
+INV_000486,2023-03-11,STORE_3327,Stockholm Systembolaget,Uppsala,Beer,15,4357.44
+INV_000487,2023-01-12,STORE_7474,Göteborg Vinkällaren,Stockholm,Beer,38,7364.79
+INV_000488,2023-03-19,STORE_6461,Göteborg Vinkällaren,Lund,White Wine,34,11913.72
+INV_000489,2023-02-28,STORE_7005,Malmö Spritbutiken,Lund,Whiskey,38,15088.8
+INV_000490,2023-03-21,STORE_9968,Stockholm Systembolaget,Lund,Spirits,2,201.4
+INV_000491,2023-02-26,STORE_4017,Stockholm Systembolaget,Stockholm,Champagne,40,8777.94
+INV_000492,2023-02-10,STORE_1881,Stockholm Systembolaget,Stockholm,Spirits,46,4327.74
+INV_000493,2023-02-21,STORE_8709,Göteborg Vinkällaren,Göteborg,Spirits,6,1320.82
+INV_000494,2023-01-16,STORE_3595,Malmö Spritbutiken,Lund,White Wine,24,5689.63
+INV_000495,2023-04-01,STORE_7836,Stockholm Systembolaget,Uppsala,Whiskey,43,17250.38
+INV_000496,2023-03-03,STORE_9747,Göteborg Vinkällaren,Malmö,White Wine,32,15153.68
+INV_000497,2023-03-16,STORE_4093,Stockholm Systembolaget,Lund,Champagne,45,13794.49
+INV_000498,2023-02-16,STORE_8852,Stockholm Systembolaget,Malmö,Red Wine,16,6834.16
+INV_000499,2023-02-07,STORE_7379,Malmö Spritbutiken,Göteborg,Champagne,19,8804.85
+INV_000500,2023-01-11,STORE_2332,Malmö Spritbutiken,Uppsala,Champagne,30,9498.97
+INV_000501,2023-01-31,STORE_9550,Malmö Spritbutiken,Malmö,Champagne,37,10479.37
+INV_000502,2023-03-13,STORE_4428,Malmö Spritbutiken,Uppsala,Champagne,5,2307.54
+INV_000503,2023-01-05,STORE_6266,Stockholm Systembolaget,Uppsala,Champagne,14,5921.49
+INV_000504,2023-02-26,STORE_3187,Malmö Spritbutiken,Lund,Spirits,9,1527.27
+INV_000505,2023-03-21,STORE_2895,Malmö Spritbutiken,Stockholm,White Wine,49,7319.51
+INV_000506,2023-01-13,STORE_7832,Stockholm Systembolaget,Malmö,Red Wine,20,6462.06
+INV_000507,2023-02-08,STORE_2063,Göteborg Vinkällaren,Malmö,Beer,25,6955.26
+INV_000508,2023-03-18,STORE_7555,Malmö Spritbutiken,Uppsala,Whiskey,33,8358.7
+INV_000509,2023-01-22,STORE_8978,Stockholm Systembolaget,Göteborg,Spirits,34,2129.08
+INV_000510,2023-03-26,STORE_6531,Stockholm Systembolaget,Göteborg,White Wine,49,16930.46
+INV_000511,2023-02-05,STORE_6392,Göteborg Vinkällaren,Göteborg,Whiskey,25,8073.07
+INV_000512,2023-03-12,STORE_3914,Göteborg Vinkällaren,Lund,White Wine,4,1821.54
+INV_000513,2023-03-05,STORE_7762,Malmö Spritbutiken,Malmö,Red Wine,23,2365.82
+INV_000514,2023-01-23,STORE_7293,Malmö Spritbutiken,Stockholm,Spirits,24,1450.68
+INV_000515,2023-04-01,STORE_1010,Stockholm Systembolaget,Lund,Beer,47,20253.46
+INV_000516,2023-01-26,STORE_1761,Stockholm Systembolaget,Göteborg,Whiskey,12,4293.44
+INV_000517,2023-01-08,STORE_9446,Göteborg Vinkällaren,Göteborg,Beer,25,9978.93
+INV_000518,2023-01-09,STORE_1945,Malmö Spritbutiken,Stockholm,Spirits,33,14448.58
+INV_000519,2023-02-18,STORE_4721,Malmö Spritbutiken,Stockholm,Beer,46,6818.72
+INV_000520,2023-01-28,STORE_1958,Göteborg Vinkällaren,Malmö,Champagne,47,16297.77
+INV_000521,2023-03-22,STORE_7055,Malmö Spritbutiken,Uppsala,Champagne,50,9295.76
+INV_000522,2023-01-26,STORE_8078,Göteborg Vinkällaren,Göteborg,Beer,3,1367.45
+INV_000523,2023-03-17,STORE_1840,Stockholm Systembolaget,Stockholm,White Wine,30,5543.94
+INV_000524,2023-03-26,STORE_2438,Stockholm Systembolaget,Stockholm,Red Wine,48,10968.74
+INV_000525,2023-02-11,STORE_2627,Malmö Spritbutiken,Uppsala,White Wine,10,3195.13
+INV_000526,2023-01-21,STORE_2780,Malmö Spritbutiken,Lund,Red Wine,4,654.55
+INV_000527,2023-01-21,STORE_8719,Göteborg Vinkällaren,Lund,Red Wine,38,18867.8
+INV_000528,2023-03-17,STORE_8227,Göteborg Vinkällaren,Malmö,Spirits,48,17088.18
+INV_000529,2023-02-07,STORE_5173,Malmö Spritbutiken,Malmö,Beer,47,14628.69
+INV_000530,2023-01-06,STORE_5629,Malmö Spritbutiken,Lund,Spirits,19,8133.5
+INV_000531,2023-02-25,STORE_2316,Göteborg Vinkällaren,Malmö,Whiskey,13,1032.12
+INV_000532,2023-01-03,STORE_4536,Göteborg Vinkällaren,Uppsala,Champagne,9,2416.34
+INV_000533,2023-02-27,STORE_3433,Göteborg Vinkällaren,Uppsala,Red Wine,42,9163.06
+INV_000534,2023-01-03,STORE_8491,Göteborg Vinkällaren,Göteborg,White Wine,44,21309.74
+INV_000535,2023-01-09,STORE_6880,Stockholm Systembolaget,Stockholm,Red Wine,9,1467.75
+INV_000536,2023-03-29,STORE_9364,Göteborg Vinkällaren,Stockholm,Red Wine,45,8041.41
+INV_000537,2023-03-03,STORE_3057,Göteborg Vinkällaren,Stockholm,Spirits,32,6135.79
+INV_000538,2023-01-13,STORE_7527,Malmö Spritbutiken,Malmö,Champagne,37,7140.81
+INV_000539,2023-03-25,STORE_4708,Malmö Spritbutiken,Uppsala,Whiskey,28,1592.75
+INV_000540,2023-03-04,STORE_9630,Göteborg Vinkällaren,Malmö,Beer,31,13834.4
+INV_000541,2023-01-03,STORE_5811,Göteborg Vinkällaren,Malmö,Spirits,2,560.65
+INV_000542,2023-03-14,STORE_4409,Göteborg Vinkällaren,Göteborg,Whiskey,47,10043.87
+INV_000543,2023-02-28,STORE_3179,Göteborg Vinkällaren,Uppsala,Whiskey,37,14915.79
+INV_000544,2023-03-31,STORE_4025,Malmö Spritbutiken,Malmö,Red Wine,31,6856.4
+INV_000545,2023-01-29,STORE_3045,Stockholm Systembolaget,Malmö,Beer,48,6751.76
+INV_000546,2023-03-18,STORE_7874,Stockholm Systembolaget,Göteborg,Red Wine,30,9003.99
+INV_000547,2023-02-20,STORE_3207,Stockholm Systembolaget,Göteborg,Whiskey,45,2523.95
+INV_000548,2023-03-22,STORE_5928,Malmö Spritbutiken,Stockholm,Spirits,4,411.69
+INV_000549,2023-03-11,STORE_3640,Göteborg Vinkällaren,Lund,Champagne,27,5338.72
+INV_000550,2023-03-04,STORE_9300,Göteborg Vinkällaren,Stockholm,Spirits,29,4578.84
+INV_000551,2023-04-01,STORE_1636,Göteborg Vinkällaren,Stockholm,Spirits,4,944.4
+INV_000552,2023-01-15,STORE_9264,Stockholm Systembolaget,Uppsala,Spirits,24,8332.87
+INV_000553,2023-01-24,STORE_1756,Göteborg Vinkällaren,Malmö,White Wine,33,12762.84
+INV_000554,2023-02-16,STORE_9922,Göteborg Vinkällaren,Uppsala,Beer,4,588.28
+INV_000555,2023-01-24,STORE_7554,Malmö Spritbutiken,Malmö,Beer,4,285.22
+INV_000556,2023-02-20,STORE_6935,Malmö Spritbutiken,Stockholm,Spirits,5,1770.72
+INV_000557,2023-02-28,STORE_2234,Malmö Spritbutiken,Lund,White Wine,28,12874.12
+INV_000558,2023-02-09,STORE_3781,Malmö Spritbutiken,Uppsala,Champagne,29,10783.78
+INV_000559,2023-01-11,STORE_5294,Malmö Spritbutiken,Lund,Red Wine,42,5330.67
+INV_000560,2023-01-19,STORE_5403,Stockholm Systembolaget,Göteborg,Beer,3,465.83
+INV_000561,2023-03-09,STORE_8298,Stockholm Systembolaget,Göteborg,Champagne,41,10031.88
+INV_000562,2023-03-12,STORE_4760,Stockholm Systembolaget,Lund,White Wine,4,899.65
+INV_000563,2023-02-15,STORE_1579,Malmö Spritbutiken,Stockholm,Whiskey,31,13892.01
+INV_000564,2023-03-10,STORE_6172,Stockholm Systembolaget,Göteborg,Beer,25,10283.47
+INV_000565,2023-01-27,STORE_1846,Göteborg Vinkällaren,Uppsala,Spirits,37,14376.48
+INV_000566,2023-02-06,STORE_4570,Stockholm Systembolaget,Malmö,White Wine,27,11694.3
+INV_000567,2023-01-05,STORE_7199,Göteborg Vinkällaren,Göteborg,Champagne,4,1965.62
+INV_000568,2023-02-02,STORE_3659,Göteborg Vinkällaren,Uppsala,White Wine,30,3456.11
+INV_000569,2023-03-05,STORE_1916,Göteborg Vinkällaren,Göteborg,Whiskey,41,13063.61
+INV_000570,2023-02-04,STORE_8503,Stockholm Systembolaget,Malmö,White Wine,32,11454.7
+INV_000571,2023-01-12,STORE_4360,Göteborg Vinkällaren,Göteborg,Whiskey,14,2252.54
+INV_000572,2023-01-04,STORE_4837,Malmö Spritbutiken,Uppsala,Red Wine,1,498.18
+INV_000573,2023-02-09,STORE_1987,Göteborg Vinkällaren,Göteborg,White Wine,27,6774.12
+INV_000574,2023-01-27,STORE_5478,Malmö Spritbutiken,Malmö,Red Wine,31,6298.69
+INV_000575,2023-03-31,STORE_6610,Stockholm Systembolaget,Stockholm,Red Wine,30,5427.11
+INV_000576,2023-01-05,STORE_5091,Göteborg Vinkällaren,Malmö,Red Wine,32,7481.92
+INV_000577,2023-01-07,STORE_9379,Göteborg Vinkällaren,Lund,Champagne,50,14189.96
+INV_000578,2023-03-12,STORE_6116,Stockholm Systembolaget,Uppsala,White Wine,42,9833.12
+INV_000579,2023-01-28,STORE_7956,Malmö Spritbutiken,Göteborg,White Wine,47,13149.66
+INV_000580,2023-01-02,STORE_4634,Stockholm Systembolaget,Lund,Beer,14,1517.07
+INV_000581,2023-02-15,STORE_6483,Göteborg Vinkällaren,Uppsala,Red Wine,3,440.38
+INV_000582,2023-03-27,STORE_6206,Göteborg Vinkällaren,Uppsala,Champagne,10,2145.42
+INV_000583,2023-01-19,STORE_3945,Malmö Spritbutiken,Malmö,Whiskey,1,427.01
+INV_000584,2023-03-28,STORE_3192,Malmö Spritbutiken,Stockholm,White Wine,50,18342.58
+INV_000585,2023-02-12,STORE_2144,Stockholm Systembolaget,Stockholm,White Wine,40,7337.45
+INV_000586,2023-03-11,STORE_2872,Stockholm Systembolaget,Lund,Spirits,38,10460.46
+INV_000587,2023-01-20,STORE_3608,Göteborg Vinkällaren,Lund,Beer,23,5503.08
+INV_000588,2023-01-10,STORE_5093,Malmö Spritbutiken,Göteborg,Beer,18,2428.16
+INV_000589,2023-03-01,STORE_8924,Malmö Spritbutiken,Stockholm,Whiskey,11,1111.82
+INV_000590,2023-02-02,STORE_8767,Malmö Spritbutiken,Stockholm,Beer,36,6664.51
+INV_000591,2023-02-26,STORE_4072,Stockholm Systembolaget,Göteborg,Whiskey,44,14099.05
+INV_000592,2023-01-13,STORE_1148,Göteborg Vinkällaren,Malmö,Spirits,21,7182.26
+INV_000593,2023-02-17,STORE_9425,Stockholm Systembolaget,Malmö,White Wine,41,13747.2
+INV_000594,2023-03-15,STORE_7906,Göteborg Vinkällaren,Göteborg,Spirits,34,1741.1
+INV_000595,2023-03-01,STORE_8977,Malmö Spritbutiken,Uppsala,Whiskey,19,5623.81
+INV_000596,2023-02-21,STORE_5382,Göteborg Vinkällaren,Malmö,White Wine,29,3222.69
+INV_000597,2023-03-23,STORE_4637,Göteborg Vinkällaren,Göteborg,Beer,48,22393.32
+INV_000598,2023-02-08,STORE_5112,Malmö Spritbutiken,Malmö,White Wine,6,453.49
+INV_000599,2023-02-07,STORE_3733,Stockholm Systembolaget,Uppsala,Beer,2,343.67
+INV_000600,2023-02-26,STORE_3322,Stockholm Systembolaget,Lund,Red Wine,14,1452.29
+INV_000601,2023-03-29,STORE_2759,Stockholm Systembolaget,Stockholm,Spirits,19,8050.76
+INV_000602,2023-04-01,STORE_9634,Stockholm Systembolaget,Uppsala,Beer,5,1480.22
+INV_000603,2023-03-31,STORE_1099,Malmö Spritbutiken,Malmö,Spirits,29,1892.92
+INV_000604,2023-03-22,STORE_2838,Stockholm Systembolaget,Lund,Beer,50,13764.06
+INV_000605,2023-02-10,STORE_3021,Malmö Spritbutiken,Stockholm,Red Wine,5,960.71
+INV_000606,2023-03-27,STORE_3942,Malmö Spritbutiken,Lund,Whiskey,46,5568.13
+INV_000607,2023-01-09,STORE_3870,Göteborg Vinkällaren,Lund,Red Wine,1,484.07
+INV_000608,2023-01-04,STORE_6573,Stockholm Systembolaget,Malmö,Beer,13,3301.49
+INV_000609,2023-01-13,STORE_6953,Stockholm Systembolaget,Stockholm,Champagne,38,3020.47
+INV_000610,2023-03-17,STORE_9332,Göteborg Vinkällaren,Lund,Whiskey,27,4700.95
+INV_000611,2023-03-19,STORE_5269,Malmö Spritbutiken,Stockholm,Red Wine,19,1249.02
+INV_000612,2023-01-27,STORE_4453,Malmö Spritbutiken,Uppsala,Red Wine,47,14544.21
+INV_000613,2023-01-04,STORE_4693,Stockholm Systembolaget,Göteborg,Red Wine,15,5331.49
+INV_000614,2023-02-07,STORE_9034,Göteborg Vinkällaren,Uppsala,Whiskey,12,1808.59
+INV_000615,2023-02-23,STORE_2466,Stockholm Systembolaget,Malmö,Spirits,39,11145.75
+INV_000616,2023-04-01,STORE_1451,Stockholm Systembolaget,Lund,Red Wine,28,10054.46
+INV_000617,2023-03-18,STORE_1109,Göteborg Vinkällaren,Stockholm,Red Wine,30,14663.73
+INV_000618,2023-01-29,STORE_9328,Malmö Spritbutiken,Stockholm,Beer,16,6333.32
+INV_000619,2023-01-06,STORE_6803,Malmö Spritbutiken,Lund,Red Wine,7,2638.97
+INV_000620,2023-01-18,STORE_9581,Malmö Spritbutiken,Stockholm,White Wine,1,209.27
+INV_000621,2023-04-01,STORE_6574,Stockholm Systembolaget,Lund,White Wine,7,1905.29
+INV_000622,2023-03-25,STORE_4385,Stockholm Systembolaget,Uppsala,Beer,4,1949.81
+INV_000623,2023-01-20,STORE_5034,Malmö Spritbutiken,Göteborg,Spirits,23,6652.78
+INV_000624,2023-03-21,STORE_4245,Stockholm Systembolaget,Göteborg,Red Wine,8,1173.08
+INV_000625,2023-01-17,STORE_7403,Stockholm Systembolaget,Uppsala,Spirits,15,5653.83
+INV_000626,2023-03-21,STORE_9081,Malmö Spritbutiken,Göteborg,Red Wine,14,5804.97
+INV_000627,2023-01-31,STORE_1747,Göteborg Vinkällaren,Malmö,Champagne,2,655.22
+INV_000628,2023-02-28,STORE_5603,Göteborg Vinkällaren,Stockholm,Beer,3,267.16
+INV_000629,2023-03-01,STORE_8068,Stockholm Systembolaget,Uppsala,White Wine,11,4866.7
+INV_000630,2023-03-22,STORE_3523,Malmö Spritbutiken,Malmö,Beer,19,975.01
+INV_000631,2023-02-22,STORE_7834,Stockholm Systembolaget,Malmö,White Wine,11,4554.47
+INV_000632,2023-03-06,STORE_1784,Stockholm Systembolaget,Malmö,Spirits,3,1390.3
+INV_000633,2023-02-28,STORE_3840,Malmö Spritbutiken,Malmö,Whiskey,27,8869.81
+INV_000634,2023-03-23,STORE_9962,Göteborg Vinkällaren,Göteborg,Beer,29,11455.92
+INV_000635,2023-02-09,STORE_6983,Göteborg Vinkällaren,Stockholm,Spirits,32,10505.06
+INV_000636,2023-01-04,STORE_6121,Malmö Spritbutiken,Göteborg,White Wine,42,15743.84
+INV_000637,2023-02-20,STORE_3179,Malmö Spritbutiken,Uppsala,Beer,15,6234.57
+INV_000638,2023-02-28,STORE_2770,Göteborg Vinkällaren,Malmö,Red Wine,50,11583.92
+INV_000639,2023-03-28,STORE_8788,Malmö Spritbutiken,Stockholm,Champagne,7,1697.42
+INV_000640,2023-01-14,STORE_3356,Malmö Spritbutiken,Lund,Spirits,42,2284.63
+INV_000641,2023-01-06,STORE_1113,Malmö Spritbutiken,Uppsala,Beer,46,3760.0
+INV_000642,2023-03-06,STORE_3640,Stockholm Systembolaget,Stockholm,Whiskey,34,6073.79
+INV_000643,2023-03-29,STORE_7897,Malmö Spritbutiken,Malmö,Red Wine,41,13427.65
+INV_000644,2023-04-01,STORE_8885,Stockholm Systembolaget,Stockholm,Spirits,16,6684.1
+INV_000645,2023-01-18,STORE_9356,Göteborg Vinkällaren,Lund,Beer,45,11818.84
+INV_000646,2023-03-25,STORE_3206,Stockholm Systembolaget,Malmö,Spirits,50,18990.68
+INV_000647,2023-03-06,STORE_7991,Stockholm Systembolaget,Göteborg,Whiskey,21,8339.79
+INV_000648,2023-02-14,STORE_4678,Malmö Spritbutiken,Göteborg,Champagne,27,1715.08
+INV_000649,2023-01-15,STORE_1222,Malmö Spritbutiken,Stockholm,White Wine,18,6580.22
+INV_000650,2023-01-20,STORE_3608,Malmö Spritbutiken,Uppsala,White Wine,23,5734.41
+INV_000651,2023-03-25,STORE_5426,Stockholm Systembolaget,Göteborg,Red Wine,27,4279.37
+INV_000652,2023-02-09,STORE_4882,Stockholm Systembolaget,Stockholm,Red Wine,37,4116.37
+INV_000653,2023-01-14,STORE_2179,Stockholm Systembolaget,Göteborg,White Wine,25,9634.64
+INV_000654,2023-01-08,STORE_7074,Stockholm Systembolaget,Lund,Spirits,35,14296.89
+INV_000655,2023-03-12,STORE_6889,Malmö Spritbutiken,Malmö,Whiskey,43,2808.99
+INV_000656,2023-01-15,STORE_4648,Stockholm Systembolaget,Göteborg,Beer,27,10346.04
+INV_000657,2023-01-28,STORE_2897,Göteborg Vinkällaren,Göteborg,Spirits,31,15299.24
+INV_000658,2023-02-22,STORE_1455,Malmö Spritbutiken,Göteborg,Whiskey,47,4290.84
+INV_000659,2023-02-13,STORE_7804,Göteborg Vinkällaren,Lund,Whiskey,46,13478.51
+INV_000660,2023-01-16,STORE_2280,Malmö Spritbutiken,Malmö,Beer,25,9927.21
+INV_000661,2023-03-17,STORE_9979,Stockholm Systembolaget,Uppsala,Spirits,41,19796.8
+INV_000662,2023-03-16,STORE_3398,Malmö Spritbutiken,Lund,Spirits,28,8560.98
+INV_000663,2023-02-09,STORE_9248,Göteborg Vinkällaren,Stockholm,Spirits,23,7424.3
+INV_000664,2023-03-28,STORE_5035,Göteborg Vinkällaren,Uppsala,Champagne,38,15467.88
+INV_000665,2023-01-19,STORE_2806,Göteborg Vinkällaren,Lund,Whiskey,10,3007.74
+INV_000666,2023-03-05,STORE_5423,Stockholm Systembolaget,Lund,Red Wine,13,6308.68
+INV_000667,2023-03-15,STORE_4033,Göteborg Vinkällaren,Malmö,Red Wine,30,8493.53
+INV_000668,2023-01-24,STORE_2729,Malmö Spritbutiken,Stockholm,Spirits,27,8685.81
+INV_000669,2023-01-24,STORE_6605,Malmö Spritbutiken,Lund,White Wine,23,9278.87
+INV_000670,2023-01-23,STORE_4085,Malmö Spritbutiken,Uppsala,Champagne,34,7125.4
+INV_000671,2023-01-27,STORE_5131,Göteborg Vinkällaren,Uppsala,Red Wine,1,467.93
+INV_000672,2023-01-07,STORE_1993,Malmö Spritbutiken,Lund,Red Wine,1,364.65
+INV_000673,2023-03-18,STORE_9965,Göteborg Vinkällaren,Stockholm,Champagne,47,12398.14
+INV_000674,2023-02-10,STORE_2281,Göteborg Vinkällaren,Stockholm,Beer,36,8853.39
+INV_000675,2023-01-03,STORE_3413,Göteborg Vinkällaren,Uppsala,Whiskey,1,465.3
+INV_000676,2023-03-11,STORE_4745,Göteborg Vinkällaren,Malmö,White Wine,29,2481.24
+INV_000677,2023-03-02,STORE_8498,Göteborg Vinkällaren,Göteborg,Red Wine,17,6472.85
+INV_000678,2023-02-12,STORE_6167,Göteborg Vinkällaren,Uppsala,Whiskey,50,9866.37
+INV_000679,2023-01-09,STORE_7771,Malmö Spritbutiken,Lund,White Wine,35,7694.39
+INV_000680,2023-01-19,STORE_3890,Stockholm Systembolaget,Göteborg,Whiskey,44,2807.33
+INV_000681,2023-02-05,STORE_6635,Göteborg Vinkällaren,Göteborg,White Wine,26,4820.5
+INV_000682,2023-01-10,STORE_3217,Göteborg Vinkällaren,Lund,Whiskey,31,6921.11
+INV_000683,2023-03-27,STORE_9099,Malmö Spritbutiken,Uppsala,Whiskey,45,5072.55
+INV_000684,2023-03-03,STORE_2889,Göteborg Vinkällaren,Stockholm,Spirits,12,4175.36
+INV_000685,2023-03-28,STORE_9073,Malmö Spritbutiken,Lund,Beer,40,10591.02
+INV_000686,2023-01-14,STORE_3485,Stockholm Systembolaget,Göteborg,Champagne,27,2388.45
+INV_000687,2023-02-23,STORE_3833,Stockholm Systembolaget,Uppsala,White Wine,14,856.63
+INV_000688,2023-03-08,STORE_9343,Göteborg Vinkällaren,Stockholm,Spirits,33,9017.72
+INV_000689,2023-01-18,STORE_7997,Stockholm Systembolaget,Göteborg,White Wine,16,1781.28
+INV_000690,2023-03-07,STORE_8692,Stockholm Systembolaget,Uppsala,Spirits,8,955.14
+INV_000691,2023-01-01,STORE_3297,Malmö Spritbutiken,Göteborg,White Wine,10,1283.95
+INV_000692,2023-03-05,STORE_5732,Stockholm Systembolaget,Malmö,Beer,15,2916.86
+INV_000693,2023-03-11,STORE_8402,Stockholm Systembolaget,Malmö,Whiskey,47,4365.66
+INV_000694,2023-03-04,STORE_9683,Malmö Spritbutiken,Stockholm,Champagne,18,6596.05
+INV_000695,2023-01-12,STORE_9232,Stockholm Systembolaget,Stockholm,Whiskey,42,9024.4
+INV_000696,2023-03-08,STORE_6346,Malmö Spritbutiken,Stockholm,Spirits,12,1229.47
+INV_000697,2023-02-23,STORE_1884,Stockholm Systembolaget,Göteborg,Beer,23,3958.81
+INV_000698,2023-02-01,STORE_5736,Göteborg Vinkällaren,Malmö,Red Wine,1,203.44
+INV_000699,2023-03-29,STORE_8202,Stockholm Systembolaget,Lund,Beer,7,2369.61
+INV_000700,2023-01-10,STORE_7141,Göteborg Vinkällaren,Lund,Whiskey,20,1241.77
+INV_000701,2023-02-05,STORE_1630,Stockholm Systembolaget,Malmö,White Wine,5,1484.07
+INV_000702,2023-02-16,STORE_7722,Stockholm Systembolaget,Malmö,Champagne,14,5918.78
+INV_000703,2023-03-21,STORE_6625,Göteborg Vinkällaren,Uppsala,Champagne,47,17718.47
+INV_000704,2023-03-02,STORE_9801,Malmö Spritbutiken,Malmö,White Wine,10,1765.0
+INV_000705,2023-03-20,STORE_8253,Stockholm Systembolaget,Lund,Beer,50,21272.63
+INV_000706,2023-03-30,STORE_7356,Stockholm Systembolaget,Uppsala,Spirits,10,1112.96
+INV_000707,2023-02-10,STORE_2684,Stockholm Systembolaget,Uppsala,Whiskey,19,4629.31
+INV_000708,2023-03-15,STORE_5227,Göteborg Vinkällaren,Stockholm,White Wine,3,1427.25
+INV_000709,2023-03-06,STORE_8748,Malmö Spritbutiken,Lund,Whiskey,16,1550.58
+INV_000710,2023-02-04,STORE_9492,Malmö Spritbutiken,Stockholm,White Wine,34,11387.74
+INV_000711,2023-01-06,STORE_3592,Göteborg Vinkällaren,Göteborg,White Wine,27,3368.02
+INV_000712,2023-02-03,STORE_1027,Malmö Spritbutiken,Lund,Whiskey,12,947.27
+INV_000713,2023-03-22,STORE_2412,Göteborg Vinkällaren,Malmö,Champagne,5,675.5
+INV_000714,2023-01-05,STORE_1949,Malmö Spritbutiken,Lund,Red Wine,50,20305.89
+INV_000715,2023-01-14,STORE_4139,Göteborg Vinkällaren,Uppsala,Beer,26,8859.68
+INV_000716,2023-03-25,STORE_6985,Stockholm Systembolaget,Malmö,Beer,42,11045.69
+INV_000717,2023-03-18,STORE_1495,Stockholm Systembolaget,Malmö,Whiskey,49,2753.5
+INV_000718,2023-03-05,STORE_5947,Göteborg Vinkällaren,Stockholm,Red Wine,10,2825.78
+INV_000719,2023-02-05,STORE_6826,Göteborg Vinkällaren,Göteborg,White Wine,5,419.54
+INV_000720,2023-03-27,STORE_2141,Göteborg Vinkällaren,Stockholm,Champagne,23,1728.57
+INV_000721,2023-04-01,STORE_4427,Malmö Spritbutiken,Malmö,Red Wine,21,3396.18
+INV_000722,2023-01-11,STORE_3213,Malmö Spritbutiken,Lund,Beer,2,693.52
+INV_000723,2023-01-19,STORE_7371,Malmö Spritbutiken,Lund,Whiskey,11,3427.29
+INV_000724,2023-02-13,STORE_5898,Göteborg Vinkällaren,Göteborg,Beer,10,3490.61
+INV_000725,2023-03-13,STORE_1619,Stockholm Systembolaget,Lund,White Wine,12,2749.89
+INV_000726,2023-03-26,STORE_2308,Göteborg Vinkällaren,Uppsala,Champagne,28,6620.44
+INV_000727,2023-03-25,STORE_5538,Stockholm Systembolaget,Göteborg,Spirits,8,872.98
+INV_000728,2023-03-02,STORE_1099,Göteborg Vinkällaren,Lund,Beer,36,5268.51
+INV_000729,2023-01-15,STORE_7154,Göteborg Vinkällaren,Lund,Spirits,7,2073.16
+INV_000730,2023-01-15,STORE_9626,Göteborg Vinkällaren,Stockholm,Red Wine,23,8968.16
+INV_000731,2023-03-15,STORE_6038,Göteborg Vinkällaren,Stockholm,Red Wine,15,6092.2
+INV_000732,2023-01-20,STORE_5756,Stockholm Systembolaget,Lund,Whiskey,19,8103.6
+INV_000733,2023-03-16,STORE_7894,Stockholm Systembolaget,Malmö,Spirits,14,4528.64
+INV_000734,2023-01-13,STORE_6540,Stockholm Systembolaget,Lund,Beer,41,7531.38
+INV_000735,2023-03-02,STORE_8221,Malmö Spritbutiken,Lund,Champagne,39,10559.69
+INV_000736,2023-03-18,STORE_5977,Malmö Spritbutiken,Lund,Champagne,37,10632.49
+INV_000737,2023-03-08,STORE_7960,Malmö Spritbutiken,Malmö,Spirits,26,6272.03
+INV_000738,2023-02-18,STORE_6991,Göteborg Vinkällaren,Uppsala,White Wine,46,18526.57
+INV_000739,2023-03-25,STORE_9766,Malmö Spritbutiken,Stockholm,White Wine,37,16293.28
+INV_000740,2023-02-21,STORE_6513,Göteborg Vinkällaren,Stockholm,Beer,49,2484.36
+INV_000741,2023-03-11,STORE_1498,Malmö Spritbutiken,Stockholm,Whiskey,17,3456.27
+INV_000742,2023-01-08,STORE_9318,Stockholm Systembolaget,Malmö,White Wine,41,7142.12
+INV_000743,2023-01-02,STORE_1891,Malmö Spritbutiken,Lund,Beer,30,3202.05
+INV_000744,2023-01-13,STORE_1685,Göteborg Vinkällaren,Lund,Spirits,32,13684.97
+INV_000745,2023-01-24,STORE_9047,Stockholm Systembolaget,Stockholm,Champagne,26,6061.54
+INV_000746,2023-03-14,STORE_5688,Stockholm Systembolaget,Uppsala,White Wine,40,9048.12
+INV_000747,2023-02-16,STORE_8229,Göteborg Vinkällaren,Uppsala,Beer,10,3892.01
+INV_000748,2023-02-05,STORE_6406,Malmö Spritbutiken,Stockholm,Champagne,25,4089.74
+INV_000749,2023-01-08,STORE_5938,Stockholm Systembolaget,Lund,Beer,47,16416.93
+INV_000750,2023-01-11,STORE_9773,Stockholm Systembolaget,Uppsala,White Wine,40,17757.27
+INV_000751,2023-03-26,STORE_4228,Malmö Spritbutiken,Stockholm,Spirits,26,11701.94
+INV_000752,2023-02-21,STORE_1768,Malmö Spritbutiken,Stockholm,White Wine,31,4694.43
+INV_000753,2023-02-24,STORE_6838,Göteborg Vinkällaren,Stockholm,Champagne,34,14462.04
+INV_000754,2023-03-06,STORE_8763,Stockholm Systembolaget,Stockholm,Red Wine,26,9225.68
+INV_000755,2023-01-11,STORE_8062,Göteborg Vinkällaren,Stockholm,White Wine,4,541.09
+INV_000756,2023-02-22,STORE_6733,Göteborg Vinkällaren,Malmö,Beer,43,18159.0
+INV_000757,2023-03-17,STORE_6673,Stockholm Systembolaget,Malmö,Champagne,9,3465.94
+INV_000758,2023-02-23,STORE_3611,Göteborg Vinkällaren,Lund,Champagne,29,2687.49
+INV_000759,2023-03-20,STORE_8105,Stockholm Systembolaget,Uppsala,Red Wine,39,15898.27
+INV_000760,2023-03-25,STORE_8173,Göteborg Vinkällaren,Malmö,Whiskey,11,2384.72
+INV_000761,2023-02-07,STORE_1964,Malmö Spritbutiken,Malmö,Red Wine,10,4777.97
+INV_000762,2023-03-16,STORE_3039,Malmö Spritbutiken,Uppsala,Beer,4,1791.75
+INV_000763,2023-03-20,STORE_8314,Malmö Spritbutiken,Uppsala,Champagne,22,1439.41
+INV_000764,2023-02-09,STORE_4297,Malmö Spritbutiken,Uppsala,Champagne,5,1975.29
+INV_000765,2023-01-17,STORE_6793,Stockholm Systembolaget,Malmö,Beer,34,14315.89
+INV_000766,2023-02-23,STORE_9678,Göteborg Vinkällaren,Stockholm,Beer,36,2978.48
+INV_000767,2023-02-26,STORE_9320,Göteborg Vinkällaren,Lund,Beer,15,6538.04
+INV_000768,2023-03-06,STORE_7355,Malmö Spritbutiken,Lund,White Wine,24,8053.78
+INV_000769,2023-03-07,STORE_4012,Stockholm Systembolaget,Lund,Spirits,10,2382.67
+INV_000770,2023-02-26,STORE_3444,Malmö Spritbutiken,Göteborg,White Wine,14,4601.21
+INV_000771,2023-03-16,STORE_4143,Malmö Spritbutiken,Uppsala,Champagne,31,12235.09
+INV_000772,2023-03-10,STORE_4002,Malmö Spritbutiken,Uppsala,Spirits,3,477.92
+INV_000773,2023-03-10,STORE_7821,Göteborg Vinkällaren,Malmö,Whiskey,4,1231.53
+INV_000774,2023-03-25,STORE_4002,Stockholm Systembolaget,Malmö,White Wine,11,2766.3
+INV_000775,2023-03-31,STORE_2656,Stockholm Systembolaget,Lund,Whiskey,31,8739.71
+INV_000776,2023-02-23,STORE_1830,Malmö Spritbutiken,Stockholm,Spirits,2,377.25
+INV_000777,2023-01-13,STORE_2404,Göteborg Vinkällaren,Lund,Spirits,18,2132.36
+INV_000778,2023-03-01,STORE_7806,Göteborg Vinkällaren,Stockholm,Spirits,16,3993.12
+INV_000779,2023-03-14,STORE_1672,Göteborg Vinkällaren,Lund,Champagne,5,2466.53
+INV_000780,2023-03-28,STORE_2664,Malmö Spritbutiken,Malmö,White Wine,44,21927.36
+INV_000781,2023-03-27,STORE_7209,Stockholm Systembolaget,Göteborg,Whiskey,14,3080.76
+INV_000782,2023-02-22,STORE_7682,Malmö Spritbutiken,Stockholm,Champagne,1,486.92
+INV_000783,2023-01-21,STORE_7124,Stockholm Systembolaget,Malmö,White Wine,45,12223.3
+INV_000784,2023-02-18,STORE_1068,Malmö Spritbutiken,Malmö,Champagne,41,15897.32
+INV_000785,2023-01-01,STORE_6481,Stockholm Systembolaget,Uppsala,Red Wine,40,11045.73
+INV_000786,2023-01-02,STORE_2374,Göteborg Vinkällaren,Stockholm,Spirits,39,7671.53
+INV_000787,2023-02-03,STORE_9013,Malmö Spritbutiken,Stockholm,White Wine,14,5329.37
+INV_000788,2023-02-23,STORE_2074,Malmö Spritbutiken,Uppsala,Beer,28,2791.41
+INV_000789,2023-01-19,STORE_6066,Stockholm Systembolaget,Lund,Spirits,19,9130.43
+INV_000790,2023-03-01,STORE_5945,Malmö Spritbutiken,Uppsala,Whiskey,27,5486.86
+INV_000791,2023-02-24,STORE_8489,Göteborg Vinkällaren,Lund,Red Wine,40,9985.62
+INV_000792,2023-03-11,STORE_6280,Göteborg Vinkällaren,Göteborg,Red Wine,42,15421.4
+INV_000793,2023-01-08,STORE_8163,Malmö Spritbutiken,Uppsala,Red Wine,6,1812.66
+INV_000794,2023-01-22,STORE_2546,Malmö Spritbutiken,Malmö,Whiskey,3,326.81
+INV_000795,2023-03-16,STORE_8643,Göteborg Vinkällaren,Malmö,Champagne,40,19707.06
+INV_000796,2023-02-28,STORE_4687,Stockholm Systembolaget,Göteborg,Spirits,36,4162.28
+INV_000797,2023-01-30,STORE_4387,Stockholm Systembolaget,Stockholm,Beer,41,9068.17
+INV_000798,2023-03-17,STORE_5533,Malmö Spritbutiken,Stockholm,White Wine,6,1092.17
+INV_000799,2023-02-06,STORE_3954,Malmö Spritbutiken,Stockholm,Beer,40,4852.12
+INV_000800,2023-03-14,STORE_3867,Göteborg Vinkällaren,Lund,Champagne,28,1979.31
+INV_000801,2023-02-16,STORE_8650,Malmö Spritbutiken,Göteborg,Beer,40,13086.53
+INV_000802,2023-03-30,STORE_1441,Göteborg Vinkällaren,Malmö,Beer,7,2960.71
+INV_000803,2023-02-17,STORE_4216,Stockholm Systembolaget,Uppsala,Champagne,20,3496.07
+INV_000804,2023-01-21,STORE_8471,Stockholm Systembolaget,Göteborg,White Wine,43,7451.76
+INV_000805,2023-01-22,STORE_3509,Malmö Spritbutiken,Uppsala,Spirits,37,4753.37
+INV_000806,2023-03-28,STORE_5487,Göteborg Vinkällaren,Lund,Red Wine,18,6461.74
+INV_000807,2023-02-26,STORE_6137,Göteborg Vinkällaren,Lund,Spirits,30,3442.99
+INV_000808,2023-01-18,STORE_5827,Göteborg Vinkällaren,Malmö,Whiskey,22,2526.62
+INV_000809,2023-03-25,STORE_9496,Göteborg Vinkällaren,Lund,Whiskey,46,21934.94
+INV_000810,2023-02-07,STORE_1531,Göteborg Vinkällaren,Göteborg,White Wine,41,6329.21
+INV_000811,2023-02-28,STORE_3373,Stockholm Systembolaget,Lund,Beer,42,15473.16
+INV_000812,2023-01-03,STORE_5421,Stockholm Systembolaget,Göteborg,White Wine,41,18408.49
+INV_000813,2023-03-25,STORE_8191,Göteborg Vinkällaren,Göteborg,White Wine,1,233.86
+INV_000814,2023-02-21,STORE_3574,Malmö Spritbutiken,Uppsala,Beer,48,19146.64
+INV_000815,2023-01-07,STORE_1103,Göteborg Vinkällaren,Stockholm,Spirits,12,3838.95
+INV_000816,2023-02-28,STORE_7627,Malmö Spritbutiken,Malmö,Spirits,16,7770.04
+INV_000817,2023-03-17,STORE_4792,Malmö Spritbutiken,Uppsala,Beer,21,9412.34
+INV_000818,2023-01-26,STORE_2947,Malmö Spritbutiken,Göteborg,White Wine,48,8527.06
+INV_000819,2023-01-23,STORE_4619,Malmö Spritbutiken,Lund,Whiskey,5,1261.69
+INV_000820,2023-03-31,STORE_7191,Malmö Spritbutiken,Uppsala,Whiskey,35,2835.78
+INV_000821,2023-01-21,STORE_5250,Stockholm Systembolaget,Malmö,Whiskey,7,1367.36
+INV_000822,2023-03-30,STORE_9624,Göteborg Vinkällaren,Lund,Red Wine,16,7068.21
+INV_000823,2023-01-08,STORE_4262,Stockholm Systembolaget,Malmö,White Wine,1,365.12
+INV_000824,2023-03-18,STORE_4664,Stockholm Systembolaget,Lund,Champagne,34,12156.28
+INV_000825,2023-03-30,STORE_7412,Stockholm Systembolaget,Göteborg,White Wine,39,19467.57
+INV_000826,2023-02-13,STORE_6708,Göteborg Vinkällaren,Malmö,Red Wine,23,3995.51
+INV_000827,2023-01-13,STORE_8855,Malmö Spritbutiken,Uppsala,Spirits,43,3334.26
+INV_000828,2023-02-13,STORE_1112,Stockholm Systembolaget,Göteborg,Beer,43,20094.35
+INV_000829,2023-02-21,STORE_5573,Stockholm Systembolaget,Lund,Red Wine,8,1834.11
+INV_000830,2023-01-08,STORE_5441,Göteborg Vinkällaren,Malmö,Red Wine,16,3659.3
+INV_000831,2023-03-26,STORE_7489,Göteborg Vinkällaren,Lund,Spirits,21,1698.51
+INV_000832,2023-02-01,STORE_7042,Göteborg Vinkällaren,Malmö,Champagne,15,5730.5
+INV_000833,2023-01-16,STORE_2155,Malmö Spritbutiken,Malmö,Beer,17,3900.02
+INV_000834,2023-01-21,STORE_8099,Stockholm Systembolaget,Uppsala,Champagne,1,87.47
+INV_000835,2023-03-05,STORE_1151,Malmö Spritbutiken,Göteborg,Champagne,2,461.31
+INV_000836,2023-03-07,STORE_7646,Malmö Spritbutiken,Stockholm,White Wine,47,19329.99
+INV_000837,2023-02-05,STORE_6958,Göteborg Vinkällaren,Malmö,Spirits,3,1449.23
+INV_000838,2023-01-18,STORE_3404,Stockholm Systembolaget,Lund,Red Wine,34,5841.29
+INV_000839,2023-02-08,STORE_5677,Stockholm Systembolaget,Lund,Spirits,15,1847.75
+INV_000840,2023-01-08,STORE_7652,Göteborg Vinkällaren,Uppsala,Whiskey,43,2693.55
+INV_000841,2023-03-29,STORE_6317,Malmö Spritbutiken,Uppsala,Spirits,20,1861.87
+INV_000842,2023-02-17,STORE_6272,Stockholm Systembolaget,Uppsala,Red Wine,7,997.72
+INV_000843,2023-02-07,STORE_6731,Göteborg Vinkällaren,Lund,Red Wine,20,1281.62
+INV_000844,2023-02-24,STORE_1163,Stockholm Systembolaget,Stockholm,White Wine,10,1215.41
+INV_000845,2023-03-05,STORE_7029,Stockholm Systembolaget,Malmö,Red Wine,45,5163.37
+INV_000846,2023-03-04,STORE_9111,Stockholm Systembolaget,Malmö,White Wine,2,651.55
+INV_000847,2023-02-18,STORE_4704,Göteborg Vinkällaren,Uppsala,Whiskey,4,920.85
+INV_000848,2023-02-27,STORE_1292,Göteborg Vinkällaren,Uppsala,Whiskey,25,4786.42
+INV_000849,2023-01-02,STORE_9753,Stockholm Systembolaget,Uppsala,Red Wine,50,8763.05
+INV_000850,2023-03-28,STORE_1636,Göteborg Vinkällaren,Lund,Whiskey,3,1322.64
+INV_000851,2023-01-18,STORE_3583,Stockholm Systembolaget,Göteborg,Red Wine,22,7745.1
+INV_000852,2023-03-04,STORE_8336,Malmö Spritbutiken,Uppsala,Beer,24,11335.19
+INV_000853,2023-03-16,STORE_2926,Stockholm Systembolaget,Malmö,White Wine,23,4925.6
+INV_000854,2023-03-16,STORE_4688,Göteborg Vinkällaren,Lund,White Wine,13,3726.51
+INV_000855,2023-01-21,STORE_1332,Stockholm Systembolaget,Stockholm,Whiskey,26,6902.82
+INV_000856,2023-01-06,STORE_1825,Malmö Spritbutiken,Uppsala,Beer,27,3299.03
+INV_000857,2023-01-23,STORE_3631,Malmö Spritbutiken,Göteborg,Champagne,5,1162.59
+INV_000858,2023-03-16,STORE_8661,Göteborg Vinkällaren,Stockholm,Whiskey,4,1834.81
+INV_000859,2023-03-15,STORE_3848,Stockholm Systembolaget,Malmö,Whiskey,34,13942.38
+INV_000860,2023-03-18,STORE_4719,Stockholm Systembolaget,Lund,Champagne,11,4628.95
+INV_000861,2023-03-23,STORE_2290,Stockholm Systembolaget,Stockholm,Champagne,3,1345.75
+INV_000862,2023-03-19,STORE_4803,Göteborg Vinkällaren,Malmö,Spirits,18,2546.59
+INV_000863,2023-03-09,STORE_1763,Göteborg Vinkällaren,Uppsala,Red Wine,19,1703.79
+INV_000864,2023-01-07,STORE_1013,Stockholm Systembolaget,Lund,Champagne,12,1996.94
+INV_000865,2023-03-27,STORE_4184,Malmö Spritbutiken,Göteborg,Whiskey,7,1891.4
+INV_000866,2023-01-08,STORE_9775,Malmö Spritbutiken,Lund,Spirits,38,14384.6
+INV_000867,2023-01-29,STORE_4841,Göteborg Vinkällaren,Malmö,Red Wine,39,15627.38
+INV_000868,2023-03-13,STORE_1982,Göteborg Vinkällaren,Göteborg,Beer,22,3204.97
+INV_000869,2023-01-27,STORE_7232,Stockholm Systembolaget,Uppsala,Whiskey,19,7291.03
+INV_000870,2023-03-21,STORE_9178,Göteborg Vinkällaren,Malmö,Red Wine,27,7366.26
+INV_000871,2023-03-28,STORE_4548,Göteborg Vinkällaren,Göteborg,White Wine,5,1868.1
+INV_000872,2023-01-13,STORE_5855,Göteborg Vinkällaren,Malmö,Whiskey,37,2744.02
+INV_000873,2023-01-03,STORE_9236,Malmö Spritbutiken,Lund,Champagne,37,1865.59
+INV_000874,2023-02-23,STORE_2869,Stockholm Systembolaget,Uppsala,White Wine,38,9118.96
+INV_000875,2023-01-10,STORE_6490,Stockholm Systembolaget,Malmö,White Wine,49,16483.99
+INV_000876,2023-01-18,STORE_4942,Stockholm Systembolaget,Göteborg,Beer,13,4163.94
+INV_000877,2023-02-21,STORE_1334,Malmö Spritbutiken,Lund,Beer,31,2456.14
+INV_000878,2023-01-01,STORE_6305,Göteborg Vinkällaren,Lund,Whiskey,42,18079.87
+INV_000879,2023-03-12,STORE_7718,Stockholm Systembolaget,Göteborg,White Wine,40,15832.43
+INV_000880,2023-03-28,STORE_4872,Malmö Spritbutiken,Lund,Beer,4,667.75
+INV_000881,2023-02-11,STORE_1254,Stockholm Systembolaget,Malmö,Spirits,47,12891.81
+INV_000882,2023-02-16,STORE_9952,Malmö Spritbutiken,Stockholm,Red Wine,41,15134.34
+INV_000883,2023-03-10,STORE_8799,Malmö Spritbutiken,Uppsala,Red Wine,32,7848.91
+INV_000884,2023-01-29,STORE_9235,Stockholm Systembolaget,Uppsala,Whiskey,24,7320.9
+INV_000885,2023-03-15,STORE_8970,Göteborg Vinkällaren,Malmö,White Wine,21,9000.46
+INV_000886,2023-04-01,STORE_4049,Stockholm Systembolaget,Lund,Red Wine,7,2841.18
+INV_000887,2023-01-21,STORE_6500,Malmö Spritbutiken,Malmö,Whiskey,38,17656.07
+INV_000888,2023-03-28,STORE_4299,Göteborg Vinkällaren,Lund,Beer,6,316.42
+INV_000889,2023-03-03,STORE_3872,Göteborg Vinkällaren,Göteborg,Spirits,30,5552.81
+INV_000890,2023-01-11,STORE_5835,Göteborg Vinkällaren,Göteborg,White Wine,11,609.99
+INV_000891,2023-03-25,STORE_4297,Stockholm Systembolaget,Malmö,Spirits,14,714.86
+INV_000892,2023-03-26,STORE_2258,Malmö Spritbutiken,Uppsala,Red Wine,2,294.53
+INV_000893,2023-02-18,STORE_3013,Malmö Spritbutiken,Malmö,Whiskey,26,1850.01
+INV_000894,2023-02-02,STORE_6565,Malmö Spritbutiken,Uppsala,Champagne,32,5512.08
+INV_000895,2023-02-13,STORE_7004,Göteborg Vinkällaren,Göteborg,Beer,18,3707.79
+INV_000896,2023-01-07,STORE_8618,Stockholm Systembolaget,Uppsala,Whiskey,5,1086.52
+INV_000897,2023-02-11,STORE_3198,Malmö Spritbutiken,Göteborg,Champagne,31,10447.7
+INV_000898,2023-02-27,STORE_8095,Göteborg Vinkällaren,Stockholm,Beer,28,6774.77
+INV_000899,2023-03-05,STORE_8896,Göteborg Vinkällaren,Stockholm,Champagne,12,3492.8
+INV_000900,2023-03-23,STORE_5178,Stockholm Systembolaget,Stockholm,Spirits,8,2261.09
+INV_000901,2023-02-05,STORE_9063,Malmö Spritbutiken,Göteborg,Champagne,19,3043.14
+INV_000902,2023-03-24,STORE_4873,Malmö Spritbutiken,Lund,Champagne,24,2876.46
+INV_000903,2023-02-07,STORE_3340,Göteborg Vinkällaren,Lund,Spirits,23,1254.44
+INV_000904,2023-01-14,STORE_1562,Malmö Spritbutiken,Lund,Spirits,22,6718.11
+INV_000905,2023-03-15,STORE_2337,Malmö Spritbutiken,Malmö,Beer,42,19775.91
+INV_000906,2023-02-02,STORE_9091,Stockholm Systembolaget,Malmö,Whiskey,5,1272.11
+INV_000907,2023-01-24,STORE_7724,Göteborg Vinkällaren,Göteborg,Spirits,31,14678.68
+INV_000908,2023-02-20,STORE_1182,Göteborg Vinkällaren,Lund,Spirits,25,10704.02
+INV_000909,2023-03-07,STORE_7875,Göteborg Vinkällaren,Malmö,Spirits,34,3005.29
+INV_000910,2023-02-25,STORE_7453,Malmö Spritbutiken,Göteborg,Spirits,31,8944.41
+INV_000911,2023-02-23,STORE_5259,Stockholm Systembolaget,Malmö,Whiskey,40,5888.95
+INV_000912,2023-03-24,STORE_7139,Stockholm Systembolaget,Göteborg,Champagne,12,4896.01
+INV_000913,2023-03-16,STORE_6634,Malmö Spritbutiken,Stockholm,Beer,18,3406.89
+INV_000914,2023-03-18,STORE_1784,Stockholm Systembolaget,Uppsala,Spirits,26,1774.86
+INV_000915,2023-01-16,STORE_9400,Malmö Spritbutiken,Malmö,Red Wine,45,2558.47
+INV_000916,2023-01-14,STORE_5105,Malmö Spritbutiken,Stockholm,Red Wine,39,13712.38
+INV_000917,2023-01-02,STORE_2544,Malmö Spritbutiken,Stockholm,Spirits,1,124.89
+INV_000918,2023-02-01,STORE_6767,Malmö Spritbutiken,Stockholm,Spirits,46,9614.66
+INV_000919,2023-02-18,STORE_1118,Malmö Spritbutiken,Uppsala,Red Wine,16,5767.41
+INV_000920,2023-01-19,STORE_3221,Malmö Spritbutiken,Uppsala,Champagne,4,1380.52
+INV_000921,2023-02-25,STORE_8352,Göteborg Vinkällaren,Göteborg,Champagne,43,11658.66
+INV_000922,2023-02-28,STORE_2955,Göteborg Vinkällaren,Stockholm,Red Wine,46,13800.54
+INV_000923,2023-03-31,STORE_1749,Malmö Spritbutiken,Lund,Champagne,45,12438.14
+INV_000924,2023-02-01,STORE_1065,Stockholm Systembolaget,Malmö,Whiskey,28,13781.61
+INV_000925,2023-02-13,STORE_3408,Stockholm Systembolaget,Lund,Red Wine,3,920.43
+INV_000926,2023-02-14,STORE_1293,Göteborg Vinkällaren,Göteborg,Whiskey,24,1983.35
+INV_000927,2023-01-13,STORE_5960,Stockholm Systembolaget,Uppsala,Whiskey,50,17695.33
+INV_000928,2023-01-18,STORE_3310,Göteborg Vinkällaren,Göteborg,Beer,18,2462.37
+INV_000929,2023-03-18,STORE_1604,Göteborg Vinkällaren,Stockholm,White Wine,33,13815.52
+INV_000930,2023-02-06,STORE_7227,Malmö Spritbutiken,Malmö,Red Wine,29,6582.47
+INV_000931,2023-03-08,STORE_4638,Göteborg Vinkällaren,Uppsala,White Wine,7,566.48
+INV_000932,2023-03-25,STORE_6473,Malmö Spritbutiken,Uppsala,Beer,31,7221.97
+INV_000933,2023-03-18,STORE_6677,Göteborg Vinkällaren,Malmö,Champagne,48,19555.81
+INV_000934,2023-01-08,STORE_9045,Stockholm Systembolaget,Lund,White Wine,39,15012.32
+INV_000935,2023-02-21,STORE_3182,Malmö Spritbutiken,Lund,Beer,6,545.82
+INV_000936,2023-02-11,STORE_6858,Malmö Spritbutiken,Uppsala,Red Wine,35,5299.59
+INV_000937,2023-01-18,STORE_4814,Göteborg Vinkällaren,Malmö,Red Wine,32,3908.36
+INV_000938,2023-03-21,STORE_5059,Stockholm Systembolaget,Uppsala,Beer,3,208.63
+INV_000939,2023-03-08,STORE_7398,Malmö Spritbutiken,Malmö,Champagne,10,2223.72
+INV_000940,2023-01-07,STORE_8123,Göteborg Vinkällaren,Malmö,Spirits,11,1431.68
+INV_000941,2023-03-22,STORE_7122,Göteborg Vinkällaren,Uppsala,Spirits,3,585.23
+INV_000942,2023-02-19,STORE_9768,Stockholm Systembolaget,Uppsala,Whiskey,28,7305.5
+INV_000943,2023-02-15,STORE_6888,Stockholm Systembolaget,Göteborg,Whiskey,6,2128.93
+INV_000944,2023-01-08,STORE_3194,Göteborg Vinkällaren,Malmö,Beer,25,10106.06
+INV_000945,2023-02-17,STORE_8658,Malmö Spritbutiken,Stockholm,Spirits,27,6098.8
+INV_000946,2023-02-06,STORE_3503,Göteborg Vinkällaren,Uppsala,White Wine,27,12566.86
+INV_000947,2023-02-11,STORE_3554,Malmö Spritbutiken,Lund,Spirits,24,9400.35
+INV_000948,2023-03-18,STORE_7856,Stockholm Systembolaget,Lund,Champagne,25,11184.09
+INV_000949,2023-01-23,STORE_6502,Göteborg Vinkällaren,Uppsala,Whiskey,8,3234.26
+INV_000950,2023-01-26,STORE_2301,Göteborg Vinkällaren,Lund,Red Wine,12,4325.29
+INV_000951,2023-02-22,STORE_7205,Malmö Spritbutiken,Lund,White Wine,4,1270.4
+INV_000952,2023-01-17,STORE_1937,Malmö Spritbutiken,Malmö,Whiskey,9,1252.81
+INV_000953,2023-04-01,STORE_7730,Malmö Spritbutiken,Uppsala,White Wine,3,1454.31
+INV_000954,2023-03-19,STORE_1655,Göteborg Vinkällaren,Lund,Beer,15,2195.42
+INV_000955,2023-03-12,STORE_7325,Malmö Spritbutiken,Malmö,Whiskey,19,4136.33
+INV_000956,2023-02-14,STORE_7675,Stockholm Systembolaget,Lund,Champagne,40,15608.13
+INV_000957,2023-01-04,STORE_6320,Göteborg Vinkällaren,Stockholm,Whiskey,21,4807.77
+INV_000958,2023-02-14,STORE_9452,Göteborg Vinkällaren,Göteborg,Beer,13,6396.84
+INV_000959,2023-02-25,STORE_8617,Stockholm Systembolaget,Malmö,Red Wine,36,9440.16
+INV_000960,2023-03-24,STORE_8127,Malmö Spritbutiken,Lund,White Wine,36,16898.11
+INV_000961,2023-03-16,STORE_7783,Göteborg Vinkällaren,Stockholm,Red Wine,1,436.13
+INV_000962,2023-01-20,STORE_2555,Malmö Spritbutiken,Stockholm,Whiskey,34,9314.37
+INV_000963,2023-03-06,STORE_9736,Stockholm Systembolaget,Lund,Champagne,44,7936.01
+INV_000964,2023-01-03,STORE_3214,Malmö Spritbutiken,Uppsala,Beer,6,2891.03
+INV_000965,2023-03-05,STORE_3366,Stockholm Systembolaget,Malmö,Whiskey,34,11194.99
+INV_000966,2023-02-10,STORE_7538,Göteborg Vinkällaren,Malmö,Champagne,1,341.35
+INV_000967,2023-02-02,STORE_2500,Göteborg Vinkällaren,Lund,Red Wine,1,164.72
+INV_000968,2023-03-26,STORE_2597,Stockholm Systembolaget,Göteborg,Whiskey,7,2848.49
+INV_000969,2023-03-14,STORE_1298,Stockholm Systembolaget,Stockholm,Spirits,23,9598.67
+INV_000970,2023-03-25,STORE_9101,Malmö Spritbutiken,Malmö,Beer,17,4805.26
+INV_000971,2023-02-11,STORE_9613,Stockholm Systembolaget,Lund,White Wine,21,1349.99
+INV_000972,2023-01-28,STORE_4743,Göteborg Vinkällaren,Göteborg,Whiskey,41,14782.84
+INV_000973,2023-02-07,STORE_8316,Göteborg Vinkällaren,Stockholm,White Wine,38,8988.39
+INV_000974,2023-02-28,STORE_9707,Malmö Spritbutiken,Malmö,Red Wine,5,1672.79
+INV_000975,2023-01-04,STORE_4252,Malmö Spritbutiken,Uppsala,Spirits,11,1243.07
+INV_000976,2023-01-14,STORE_1492,Göteborg Vinkällaren,Stockholm,Spirits,6,1016.24
+INV_000977,2023-03-16,STORE_5259,Malmö Spritbutiken,Stockholm,Champagne,6,2156.06
+INV_000978,2023-01-29,STORE_3739,Stockholm Systembolaget,Lund,Red Wine,47,12567.29
+INV_000979,2023-03-16,STORE_1390,Stockholm Systembolaget,Lund,White Wine,19,7453.55
+INV_000980,2023-02-20,STORE_1499,Göteborg Vinkällaren,Stockholm,Beer,3,791.25
+INV_000981,2023-02-08,STORE_5632,Stockholm Systembolaget,Malmö,Beer,16,5985.89
+INV_000982,2023-03-31,STORE_8977,Malmö Spritbutiken,Stockholm,Spirits,28,4046.48
+INV_000983,2023-02-12,STORE_2552,Stockholm Systembolaget,Stockholm,White Wine,6,698.8
+INV_000984,2023-01-10,STORE_1060,Stockholm Systembolaget,Göteborg,White Wine,36,16477.17
+INV_000985,2023-02-01,STORE_2930,Stockholm Systembolaget,Stockholm,White Wine,8,2897.79
+INV_000986,2023-03-03,STORE_8193,Stockholm Systembolaget,Malmö,Beer,13,2656.34
+INV_000987,2023-03-13,STORE_1451,Malmö Spritbutiken,Uppsala,Champagne,16,7677.43
+INV_000988,2023-01-07,STORE_9227,Malmö Spritbutiken,Uppsala,Champagne,32,3098.56
+INV_000989,2023-01-20,STORE_4877,Stockholm Systembolaget,Stockholm,Beer,44,3529.12
+INV_000990,2023-01-20,STORE_8772,Stockholm Systembolaget,Lund,Red Wine,47,12267.13
+INV_000991,2023-02-13,STORE_6579,Göteborg Vinkällaren,Uppsala,Spirits,9,1024.21
+INV_000992,2023-01-16,STORE_9081,Göteborg Vinkällaren,Uppsala,White Wine,5,880.22
+INV_000993,2023-03-07,STORE_3088,Göteborg Vinkällaren,Stockholm,Spirits,3,1164.38
+INV_000994,2023-01-21,STORE_8340,Stockholm Systembolaget,Uppsala,Red Wine,33,9436.97
+INV_000995,2023-01-27,STORE_5677,Göteborg Vinkällaren,Lund,White Wine,41,8607.45
+INV_000996,2023-02-20,STORE_6965,Malmö Spritbutiken,Uppsala,Whiskey,5,396.0
+INV_000997,2023-03-12,STORE_7801,Stockholm Systembolaget,Lund,Whiskey,24,9394.92
+INV_000998,2023-02-08,STORE_1855,Malmö Spritbutiken,Malmö,Beer,24,7399.46
+INV_000999,2023-01-01,STORE_4810,Göteborg Vinkällaren,Uppsala,Champagne,28,6828.04
+INV_001000,2023-03-08,STORE_2345,Malmö Spritbutiken,Uppsala,Spirits,18,7687.1
+INV_001001,2023-01-02,STORE_4221,Göteborg Vinkällaren,Stockholm,Whiskey,43,20825.7
+INV_001002,2023-03-04,STORE_1635,Göteborg Vinkällaren,Stockholm,White Wine,12,4599.53
+INV_001003,2023-03-21,STORE_3206,Malmö Spritbutiken,Göteborg,Red Wine,27,10824.93
+INV_001004,2023-01-27,STORE_2286,Stockholm Systembolaget,Stockholm,Whiskey,49,16820.39
+INV_001005,2023-03-10,STORE_8657,Malmö Spritbutiken,Malmö,White Wine,38,11514.33
+INV_001006,2023-01-06,STORE_5913,Stockholm Systembolaget,Lund,White Wine,26,12090.52
+INV_001007,2023-03-15,STORE_5261,Göteborg Vinkällaren,Stockholm,Whiskey,9,2605.12
+INV_001008,2023-02-16,STORE_7924,Malmö Spritbutiken,Lund,Spirits,30,11163.33
+INV_001009,2023-02-03,STORE_3535,Malmö Spritbutiken,Göteborg,White Wine,7,2307.91
+INV_001010,2023-02-18,STORE_6967,Stockholm Systembolaget,Lund,Whiskey,22,8683.89
+INV_001011,2023-03-19,STORE_4632,Malmö Spritbutiken,Göteborg,Whiskey,40,4975.39
+INV_001012,2023-02-01,STORE_5701,Stockholm Systembolaget,Stockholm,Whiskey,7,2365.09
+INV_001013,2023-02-21,STORE_3364,Stockholm Systembolaget,Göteborg,White Wine,28,9152.33
+INV_001014,2023-02-06,STORE_8468,Göteborg Vinkällaren,Lund,Champagne,8,499.9
+INV_001015,2023-01-24,STORE_7282,Malmö Spritbutiken,Stockholm,Whiskey,12,1450.68
+INV_001016,2023-02-08,STORE_1686,Stockholm Systembolaget,Lund,Whiskey,49,19365.37
+INV_001017,2023-03-06,STORE_1566,Malmö Spritbutiken,Stockholm,Whiskey,41,7564.1
+INV_001018,2023-01-16,STORE_2135,Göteborg Vinkällaren,Lund,Champagne,40,16536.61
+INV_001019,2023-03-09,STORE_5274,Malmö Spritbutiken,Göteborg,Beer,5,2272.34
+INV_001020,2023-02-09,STORE_8088,Stockholm Systembolaget,Malmö,Spirits,21,4422.91
+INV_001021,2023-01-19,STORE_8370,Malmö Spritbutiken,Stockholm,Whiskey,30,9647.46
+INV_001022,2023-03-31,STORE_6671,Göteborg Vinkällaren,Stockholm,White Wine,11,4365.76
+INV_001023,2023-03-24,STORE_8869,Stockholm Systembolaget,Uppsala,Red Wine,39,19000.68
+INV_001024,2023-01-17,STORE_2856,Malmö Spritbutiken,Lund,White Wine,7,920.72
+INV_001025,2023-02-25,STORE_1798,Stockholm Systembolaget,Göteborg,White Wine,1,270.38
+INV_001026,2023-01-23,STORE_5796,Malmö Spritbutiken,Lund,Whiskey,43,19469.97
+INV_001027,2023-03-06,STORE_4189,Malmö Spritbutiken,Lund,Beer,5,1773.48
+INV_001028,2023-01-14,STORE_7307,Göteborg Vinkällaren,Malmö,Whiskey,26,9653.08
+INV_001029,2023-01-27,STORE_1886,Göteborg Vinkällaren,Malmö,Spirits,7,2084.73
+INV_001030,2023-01-11,STORE_9988,Göteborg Vinkällaren,Malmö,White Wine,29,7273.67
+INV_001031,2023-02-27,STORE_5397,Stockholm Systembolaget,Göteborg,Red Wine,10,1258.9
+INV_001032,2023-01-19,STORE_2080,Malmö Spritbutiken,Uppsala,Champagne,31,12450.73
+INV_001033,2023-03-02,STORE_5689,Malmö Spritbutiken,Lund,Champagne,32,9156.74
+INV_001034,2023-01-15,STORE_4368,Göteborg Vinkällaren,Malmö,Whiskey,13,3629.57
+INV_001035,2023-03-04,STORE_8262,Stockholm Systembolaget,Uppsala,Spirits,31,5387.44
+INV_001036,2023-04-01,STORE_1257,Malmö Spritbutiken,Stockholm,Red Wine,40,2930.12
+INV_001037,2023-01-02,STORE_7818,Malmö Spritbutiken,Stockholm,Red Wine,39,9898.79
+INV_001038,2023-02-28,STORE_8487,Göteborg Vinkällaren,Malmö,Whiskey,16,3503.82
+INV_001039,2023-03-20,STORE_1057,Stockholm Systembolaget,Lund,Red Wine,8,3727.5
+INV_001040,2023-03-28,STORE_4745,Göteborg Vinkällaren,Lund,White Wine,46,12347.22
+INV_001041,2023-02-11,STORE_5779,Malmö Spritbutiken,Stockholm,Spirits,40,8856.08
+INV_001042,2023-01-05,STORE_4430,Stockholm Systembolaget,Uppsala,Champagne,45,2943.3
+INV_001043,2023-03-11,STORE_5958,Stockholm Systembolaget,Stockholm,Red Wine,19,7747.39
+INV_001044,2023-01-21,STORE_2279,Stockholm Systembolaget,Göteborg,Red Wine,20,2307.1
+INV_001045,2023-03-12,STORE_1286,Malmö Spritbutiken,Göteborg,White Wine,22,8773.1
+INV_001046,2023-02-13,STORE_4668,Stockholm Systembolaget,Lund,Champagne,14,4202.29
+INV_001047,2023-03-07,STORE_7652,Stockholm Systembolaget,Lund,Whiskey,31,5036.84
+INV_001048,2023-02-14,STORE_5013,Göteborg Vinkällaren,Malmö,Whiskey,46,19198.23
+INV_001049,2023-03-18,STORE_7784,Malmö Spritbutiken,Lund,Whiskey,5,1823.58
+INV_001050,2023-03-14,STORE_6514,Stockholm Systembolaget,Malmö,Whiskey,17,5967.82
+INV_001051,2023-02-13,STORE_8259,Göteborg Vinkällaren,Malmö,Spirits,20,1048.25
+INV_001052,2023-03-27,STORE_3974,Stockholm Systembolaget,Lund,Beer,2,612.61
+INV_001053,2023-03-03,STORE_7646,Göteborg Vinkällaren,Stockholm,Spirits,9,1917.36
+INV_001054,2023-03-15,STORE_4463,Göteborg Vinkällaren,Uppsala,Red Wine,42,14571.55
+INV_001055,2023-02-25,STORE_2669,Malmö Spritbutiken,Göteborg,Red Wine,35,12182.05
+INV_001056,2023-01-11,STORE_5069,Göteborg Vinkällaren,Göteborg,Beer,20,3522.98
+INV_001057,2023-01-26,STORE_1606,Göteborg Vinkällaren,Uppsala,Spirits,5,1190.72
+INV_001058,2023-01-24,STORE_3218,Göteborg Vinkällaren,Göteborg,Champagne,19,8892.66
+INV_001059,2023-02-14,STORE_9094,Göteborg Vinkällaren,Stockholm,White Wine,21,6469.17
+INV_001060,2023-01-10,STORE_5863,Göteborg Vinkällaren,Stockholm,Spirits,28,6371.07
+INV_001061,2023-02-22,STORE_2183,Göteborg Vinkällaren,Lund,Champagne,16,5109.78
+INV_001062,2023-01-17,STORE_9639,Malmö Spritbutiken,Lund,Beer,36,1846.58
+INV_001063,2023-01-21,STORE_2516,Göteborg Vinkällaren,Malmö,Spirits,12,4618.97
+INV_001064,2023-01-17,STORE_7529,Göteborg Vinkällaren,Stockholm,Champagne,7,1473.39
+INV_001065,2023-03-16,STORE_6457,Malmö Spritbutiken,Lund,Champagne,44,9902.39
+INV_001066,2023-01-21,STORE_3369,Malmö Spritbutiken,Göteborg,Champagne,25,4071.34
+INV_001067,2023-03-19,STORE_5872,Göteborg Vinkällaren,Uppsala,Whiskey,11,5146.44
+INV_001068,2023-03-11,STORE_6346,Göteborg Vinkällaren,Lund,Red Wine,23,2898.25
+INV_001069,2023-01-17,STORE_2792,Stockholm Systembolaget,Lund,Red Wine,43,2859.65
+INV_001070,2023-01-03,STORE_8107,Göteborg Vinkällaren,Stockholm,Spirits,31,5599.2
+INV_001071,2023-01-26,STORE_9562,Göteborg Vinkällaren,Uppsala,Red Wine,2,689.28
+INV_001072,2023-02-05,STORE_3167,Göteborg Vinkällaren,Stockholm,Beer,4,1959.57
+INV_001073,2023-02-01,STORE_5599,Göteborg Vinkällaren,Lund,White Wine,28,4555.46
+INV_001074,2023-04-01,STORE_6427,Malmö Spritbutiken,Göteborg,Spirits,18,3597.74
+INV_001075,2023-02-16,STORE_6832,Göteborg Vinkällaren,Göteborg,Spirits,9,3979.82
+INV_001076,2023-01-21,STORE_3188,Göteborg Vinkällaren,Malmö,Red Wine,26,9814.28
+INV_001077,2023-02-18,STORE_9866,Stockholm Systembolaget,Göteborg,White Wine,34,3023.45
+INV_001078,2023-01-19,STORE_8579,Malmö Spritbutiken,Stockholm,White Wine,2,187.79
+INV_001079,2023-02-16,STORE_9451,Stockholm Systembolaget,Lund,White Wine,27,9099.58
+INV_001080,2023-01-22,STORE_3297,Malmö Spritbutiken,Göteborg,Spirits,16,7339.32
+INV_001081,2023-03-09,STORE_7097,Göteborg Vinkällaren,Stockholm,Beer,3,951.27
+INV_001082,2023-03-28,STORE_1035,Göteborg Vinkällaren,Göteborg,Beer,39,9857.86
+INV_001083,2023-02-20,STORE_6395,Göteborg Vinkällaren,Stockholm,Spirits,32,8454.27
+INV_001084,2023-02-18,STORE_1137,Göteborg Vinkällaren,Göteborg,Red Wine,34,9402.34
+INV_001085,2023-03-12,STORE_6072,Göteborg Vinkällaren,Lund,White Wine,36,9431.05
+INV_001086,2023-01-17,STORE_2833,Malmö Spritbutiken,Uppsala,Whiskey,38,10183.04
+INV_001087,2023-01-25,STORE_9469,Malmö Spritbutiken,Göteborg,Whiskey,24,10864.26
+INV_001088,2023-01-05,STORE_9892,Göteborg Vinkällaren,Göteborg,Spirits,42,5183.98
+INV_001089,2023-03-01,STORE_5972,Stockholm Systembolaget,Lund,Red Wine,14,4321.48
+INV_001090,2023-04-01,STORE_4703,Stockholm Systembolaget,Lund,Spirits,12,880.53
+INV_001091,2023-02-03,STORE_2862,Malmö Spritbutiken,Lund,Champagne,15,5184.31
+INV_001092,2023-01-06,STORE_6787,Göteborg Vinkällaren,Malmö,Champagne,6,1083.19
+INV_001093,2023-01-19,STORE_7431,Malmö Spritbutiken,Stockholm,Whiskey,29,8649.45
+INV_001094,2023-03-07,STORE_2564,Stockholm Systembolaget,Lund,Champagne,7,484.84
+INV_001095,2023-02-08,STORE_6264,Malmö Spritbutiken,Lund,Red Wine,41,4378.71
+INV_001096,2023-01-09,STORE_7116,Stockholm Systembolaget,Malmö,Champagne,37,3812.42
+INV_001097,2023-01-05,STORE_6628,Stockholm Systembolaget,Stockholm,Beer,5,1345.57
+INV_001098,2023-03-20,STORE_9152,Göteborg Vinkällaren,Malmö,White Wine,44,9449.63
+INV_001099,2023-03-10,STORE_6976,Göteborg Vinkällaren,Stockholm,Whiskey,47,17764.19
+INV_001100,2023-01-19,STORE_9231,Stockholm Systembolaget,Malmö,Beer,15,1468.73
+INV_001101,2023-03-29,STORE_7522,Stockholm Systembolaget,Malmö,Whiskey,9,4412.82
+INV_001102,2023-03-03,STORE_3612,Malmö Spritbutiken,Göteborg,Spirits,7,999.95
+INV_001103,2023-02-26,STORE_7475,Stockholm Systembolaget,Lund,Champagne,41,14454.93
+INV_001104,2023-02-11,STORE_9781,Malmö Spritbutiken,Malmö,White Wine,4,845.76
+INV_001105,2023-03-06,STORE_1027,Stockholm Systembolaget,Uppsala,Spirits,46,4489.02
+INV_001106,2023-03-12,STORE_5826,Göteborg Vinkällaren,Lund,White Wine,27,3690.47
+INV_001107,2023-03-24,STORE_6315,Malmö Spritbutiken,Malmö,Red Wine,24,4485.62
+INV_001108,2023-01-03,STORE_2692,Stockholm Systembolaget,Göteborg,White Wine,24,10892.43
+INV_001109,2023-03-26,STORE_7774,Malmö Spritbutiken,Stockholm,Spirits,38,16762.33
+INV_001110,2023-03-01,STORE_1238,Göteborg Vinkällaren,Uppsala,Whiskey,15,1591.08
+INV_001111,2023-01-27,STORE_8273,Göteborg Vinkällaren,Uppsala,Champagne,33,3726.22
+INV_001112,2023-01-08,STORE_4485,Göteborg Vinkällaren,Stockholm,Spirits,45,2859.96
+INV_001113,2023-01-17,STORE_5785,Malmö Spritbutiken,Stockholm,Beer,36,13683.55
+INV_001114,2023-02-03,STORE_3657,Stockholm Systembolaget,Stockholm,Champagne,5,1980.09
+INV_001115,2023-01-20,STORE_8319,Stockholm Systembolaget,Göteborg,Red Wine,28,4939.27
+INV_001116,2023-02-15,STORE_4564,Malmö Spritbutiken,Göteborg,Red Wine,33,14831.33
+INV_001117,2023-03-15,STORE_5231,Göteborg Vinkällaren,Göteborg,Red Wine,27,2895.94
+INV_001118,2023-03-03,STORE_6990,Malmö Spritbutiken,Malmö,Champagne,3,956.92
+INV_001119,2023-02-01,STORE_7863,Stockholm Systembolaget,Malmö,Spirits,9,2629.7
+INV_001120,2023-03-07,STORE_4142,Malmö Spritbutiken,Göteborg,Whiskey,47,10290.65
+INV_001121,2023-01-22,STORE_3927,Göteborg Vinkällaren,Lund,White Wine,17,8363.31
+INV_001122,2023-02-14,STORE_3247,Stockholm Systembolaget,Göteborg,Spirits,9,595.63
+INV_001123,2023-03-18,STORE_7162,Göteborg Vinkällaren,Malmö,White Wine,40,18701.25
+INV_001124,2023-03-07,STORE_9864,Stockholm Systembolaget,Malmö,Whiskey,19,2012.95
+INV_001125,2023-02-03,STORE_7211,Göteborg Vinkällaren,Malmö,Champagne,50,22959.85
+INV_001126,2023-01-24,STORE_8450,Malmö Spritbutiken,Malmö,Red Wine,41,8965.39
+INV_001127,2023-03-12,STORE_3744,Malmö Spritbutiken,Stockholm,Beer,18,2348.55
+INV_001128,2023-02-13,STORE_2524,Stockholm Systembolaget,Göteborg,Champagne,16,7855.9
+INV_001129,2023-02-19,STORE_2853,Stockholm Systembolaget,Lund,White Wine,48,3918.25
+INV_001130,2023-01-14,STORE_2136,Göteborg Vinkällaren,Lund,Champagne,27,4233.34
+INV_001131,2023-03-06,STORE_1525,Stockholm Systembolaget,Göteborg,Whiskey,36,2364.78
+INV_001132,2023-02-20,STORE_7149,Göteborg Vinkällaren,Stockholm,Red Wine,44,13780.73
+INV_001133,2023-03-25,STORE_6092,Göteborg Vinkällaren,Uppsala,Red Wine,35,7255.47
+INV_001134,2023-01-20,STORE_7478,Stockholm Systembolaget,Malmö,White Wine,2,156.06
+INV_001135,2023-03-20,STORE_8532,Göteborg Vinkällaren,Lund,Beer,22,7755.28
+INV_001136,2023-01-22,STORE_4846,Göteborg Vinkällaren,Göteborg,Whiskey,28,13296.26
+INV_001137,2023-03-22,STORE_2996,Malmö Spritbutiken,Stockholm,Whiskey,38,9640.53
+INV_001138,2023-03-01,STORE_5456,Stockholm Systembolaget,Lund,Spirits,3,187.76
+INV_001139,2023-02-14,STORE_1738,Stockholm Systembolaget,Lund,Spirits,30,2119.87
+INV_001140,2023-01-18,STORE_9420,Stockholm Systembolaget,Malmö,Beer,2,221.33
+INV_001141,2023-01-13,STORE_2086,Stockholm Systembolaget,Göteborg,Champagne,27,4400.34
+INV_001142,2023-02-05,STORE_4723,Malmö Spritbutiken,Malmö,Whiskey,36,4935.16
+INV_001143,2023-02-19,STORE_2203,Göteborg Vinkällaren,Lund,Whiskey,18,7898.02
+INV_001144,2023-02-03,STORE_9832,Göteborg Vinkällaren,Uppsala,Champagne,44,10260.74
+INV_001145,2023-03-12,STORE_2116,Malmö Spritbutiken,Lund,Champagne,39,14932.37
+INV_001146,2023-02-24,STORE_1596,Malmö Spritbutiken,Stockholm,White Wine,50,11719.92
+INV_001147,2023-01-22,STORE_2546,Stockholm Systembolaget,Uppsala,Beer,24,4473.92
+INV_001148,2023-01-31,STORE_1254,Göteborg Vinkällaren,Lund,Champagne,41,6651.36
+INV_001149,2023-02-13,STORE_2149,Göteborg Vinkällaren,Göteborg,Red Wine,8,3815.27
+INV_001150,2023-02-21,STORE_5781,Stockholm Systembolaget,Lund,Spirits,12,684.33
+INV_001151,2023-01-20,STORE_5789,Göteborg Vinkällaren,Uppsala,Whiskey,8,3396.01
+INV_001152,2023-03-22,STORE_7455,Stockholm Systembolaget,Göteborg,Red Wine,13,1106.24
+INV_001153,2023-02-20,STORE_6742,Stockholm Systembolaget,Stockholm,Beer,32,4455.69
+INV_001154,2023-02-14,STORE_7683,Stockholm Systembolaget,Uppsala,Champagne,40,12887.98
+INV_001155,2023-01-19,STORE_9782,Göteborg Vinkällaren,Lund,Champagne,30,11196.38
+INV_001156,2023-03-25,STORE_8824,Stockholm Systembolaget,Malmö,Spirits,25,3138.35
+INV_001157,2023-02-13,STORE_2466,Göteborg Vinkällaren,Lund,White Wine,39,16310.68
+INV_001158,2023-01-02,STORE_1351,Stockholm Systembolaget,Lund,Red Wine,46,4053.71
+INV_001159,2023-01-15,STORE_5856,Malmö Spritbutiken,Stockholm,Champagne,26,4640.3
+INV_001160,2023-02-22,STORE_7075,Göteborg Vinkällaren,Malmö,Champagne,1,238.03
+INV_001161,2023-01-05,STORE_5006,Göteborg Vinkällaren,Malmö,Red Wine,4,383.97
+INV_001162,2023-02-11,STORE_7542,Göteborg Vinkällaren,Lund,Beer,36,6396.76
+INV_001163,2023-03-30,STORE_4962,Stockholm Systembolaget,Uppsala,White Wine,48,3521.52
+INV_001164,2023-02-22,STORE_6294,Malmö Spritbutiken,Uppsala,Red Wine,5,281.96
+INV_001165,2023-03-08,STORE_9154,Malmö Spritbutiken,Uppsala,Champagne,21,2557.71
+INV_001166,2023-01-04,STORE_9955,Malmö Spritbutiken,Stockholm,Beer,31,14436.41
+INV_001167,2023-01-30,STORE_7860,Malmö Spritbutiken,Uppsala,Beer,28,6025.43
+INV_001168,2023-01-24,STORE_6896,Stockholm Systembolaget,Göteborg,Beer,50,8889.38
+INV_001169,2023-03-06,STORE_9387,Malmö Spritbutiken,Malmö,Beer,17,8168.91
+INV_001170,2023-02-19,STORE_1572,Stockholm Systembolaget,Malmö,White Wine,2,628.79
+INV_001171,2023-01-15,STORE_6769,Stockholm Systembolaget,Göteborg,Champagne,2,965.2
+INV_001172,2023-01-14,STORE_6822,Stockholm Systembolaget,Göteborg,Red Wine,20,7439.66
+INV_001173,2023-02-16,STORE_5623,Stockholm Systembolaget,Stockholm,Red Wine,21,7400.83
+INV_001174,2023-03-22,STORE_9933,Stockholm Systembolaget,Malmö,Beer,10,3257.0
+INV_001175,2023-02-04,STORE_6405,Malmö Spritbutiken,Malmö,Beer,39,8356.98
+INV_001176,2023-03-15,STORE_2289,Malmö Spritbutiken,Stockholm,Champagne,41,2071.41
+INV_001177,2023-02-06,STORE_7445,Malmö Spritbutiken,Uppsala,Red Wine,36,11425.27
+INV_001178,2023-03-22,STORE_2817,Göteborg Vinkällaren,Göteborg,Beer,43,10086.56
+INV_001179,2023-01-14,STORE_9679,Stockholm Systembolaget,Uppsala,Whiskey,37,9831.33
+INV_001180,2023-01-25,STORE_4218,Göteborg Vinkällaren,Stockholm,Whiskey,33,14508.67
+INV_001181,2023-02-14,STORE_2361,Stockholm Systembolaget,Uppsala,White Wine,38,17233.06
+INV_001182,2023-03-19,STORE_6613,Stockholm Systembolaget,Uppsala,Beer,27,7525.83
+INV_001183,2023-03-18,STORE_5257,Göteborg Vinkällaren,Göteborg,Champagne,13,1351.21
+INV_001184,2023-01-11,STORE_5848,Malmö Spritbutiken,Göteborg,Beer,24,11095.92
+INV_001185,2023-02-24,STORE_4706,Stockholm Systembolaget,Uppsala,White Wine,6,2426.52
+INV_001186,2023-01-29,STORE_3389,Stockholm Systembolaget,Göteborg,Whiskey,16,5940.78
+INV_001187,2023-01-28,STORE_2530,Stockholm Systembolaget,Göteborg,Champagne,3,1294.48
+INV_001188,2023-01-13,STORE_6968,Malmö Spritbutiken,Malmö,Whiskey,35,6088.75
+INV_001189,2023-01-18,STORE_1189,Göteborg Vinkällaren,Göteborg,Spirits,24,4580.19
+INV_001190,2023-01-24,STORE_8508,Stockholm Systembolaget,Lund,Beer,21,3794.33
+INV_001191,2023-02-21,STORE_4315,Stockholm Systembolaget,Lund,Spirits,19,5163.25
+INV_001192,2023-03-27,STORE_2141,Malmö Spritbutiken,Göteborg,Red Wine,17,7247.17
+INV_001193,2023-03-08,STORE_2997,Göteborg Vinkällaren,Lund,Spirits,18,8057.87
+INV_001194,2023-01-07,STORE_1076,Malmö Spritbutiken,Uppsala,Whiskey,24,5450.14
+INV_001195,2023-01-12,STORE_4028,Göteborg Vinkällaren,Malmö,Champagne,39,10771.53
+INV_001196,2023-01-06,STORE_4507,Göteborg Vinkällaren,Malmö,Beer,21,7149.03
+INV_001197,2023-03-11,STORE_8240,Stockholm Systembolaget,Stockholm,Red Wine,46,9656.42
+INV_001198,2023-03-25,STORE_2202,Malmö Spritbutiken,Göteborg,Beer,17,7381.26
+INV_001199,2023-03-05,STORE_3280,Stockholm Systembolaget,Stockholm,Beer,10,2004.66
+INV_001200,2023-02-24,STORE_8493,Malmö Spritbutiken,Uppsala,Red Wine,41,15457.93
+INV_001201,2023-03-23,STORE_9575,Stockholm Systembolaget,Stockholm,Champagne,33,4674.88
+INV_001202,2023-02-09,STORE_4197,Göteborg Vinkällaren,Göteborg,Champagne,21,2930.79
+INV_001203,2023-01-21,STORE_7887,Stockholm Systembolaget,Malmö,Spirits,37,8773.8
+INV_001204,2023-01-08,STORE_4815,Malmö Spritbutiken,Uppsala,Spirits,29,4419.64
+INV_001205,2023-03-28,STORE_1615,Malmö Spritbutiken,Uppsala,Whiskey,22,9080.74
+INV_001206,2023-03-03,STORE_2644,Stockholm Systembolaget,Lund,Spirits,44,10531.11
+INV_001207,2023-01-29,STORE_1117,Malmö Spritbutiken,Uppsala,Champagne,24,3047.42
+INV_001208,2023-01-12,STORE_5232,Stockholm Systembolaget,Lund,Whiskey,32,3844.21
+INV_001209,2023-03-05,STORE_2917,Göteborg Vinkällaren,Uppsala,Red Wine,45,21345.9
+INV_001210,2023-03-05,STORE_9574,Stockholm Systembolaget,Uppsala,Spirits,39,8240.02
+INV_001211,2023-02-24,STORE_9323,Stockholm Systembolaget,Göteborg,Red Wine,14,2819.57
+INV_001212,2023-01-08,STORE_5648,Göteborg Vinkällaren,Malmö,Champagne,38,13772.03
+INV_001213,2023-02-07,STORE_1208,Malmö Spritbutiken,Uppsala,Red Wine,38,18470.74
+INV_001214,2023-04-01,STORE_8105,Göteborg Vinkällaren,Uppsala,Whiskey,43,3682.75
+INV_001215,2023-03-06,STORE_3923,Göteborg Vinkällaren,Malmö,Red Wine,42,8684.66
+INV_001216,2023-01-16,STORE_2993,Malmö Spritbutiken,Lund,Champagne,46,20588.74
+INV_001217,2023-01-01,STORE_2860,Malmö Spritbutiken,Stockholm,White Wine,9,4031.29
+INV_001218,2023-02-04,STORE_4102,Malmö Spritbutiken,Stockholm,Spirits,35,8250.63
+INV_001219,2023-01-24,STORE_4213,Malmö Spritbutiken,Uppsala,Red Wine,27,8930.48
+INV_001220,2023-03-28,STORE_6500,Stockholm Systembolaget,Malmö,Spirits,39,3835.18
+INV_001221,2023-03-11,STORE_3615,Malmö Spritbutiken,Uppsala,White Wine,35,13698.86
+INV_001222,2023-01-22,STORE_2311,Malmö Spritbutiken,Malmö,White Wine,3,523.76
+INV_001223,2023-02-28,STORE_7063,Göteborg Vinkällaren,Uppsala,Whiskey,37,15680.68
+INV_001224,2023-03-13,STORE_2078,Göteborg Vinkällaren,Göteborg,Red Wine,25,9893.41
+INV_001225,2023-04-01,STORE_2505,Göteborg Vinkällaren,Malmö,Beer,49,7416.82
+INV_001226,2023-02-05,STORE_4596,Stockholm Systembolaget,Stockholm,Champagne,24,9473.82
+INV_001227,2023-03-21,STORE_9847,Stockholm Systembolaget,Lund,Champagne,22,10463.67
+INV_001228,2023-03-07,STORE_2394,Göteborg Vinkällaren,Malmö,Beer,1,59.15
+INV_001229,2023-02-27,STORE_9090,Malmö Spritbutiken,Uppsala,Red Wine,29,6525.15
+INV_001230,2023-03-16,STORE_3335,Stockholm Systembolaget,Göteborg,White Wine,28,12884.1
+INV_001231,2023-01-15,STORE_6442,Malmö Spritbutiken,Göteborg,Spirits,37,16805.31
+INV_001232,2023-03-27,STORE_6109,Stockholm Systembolaget,Uppsala,Champagne,36,14039.6
+INV_001233,2023-02-10,STORE_8179,Malmö Spritbutiken,Lund,Red Wine,12,654.65
+INV_001234,2023-02-07,STORE_3677,Malmö Spritbutiken,Malmö,Spirits,40,7981.61
+INV_001235,2023-03-10,STORE_4399,Stockholm Systembolaget,Göteborg,Beer,42,2700.53
+INV_001236,2023-02-13,STORE_1851,Malmö Spritbutiken,Göteborg,Champagne,26,6309.57
+INV_001237,2023-03-13,STORE_9731,Stockholm Systembolaget,Stockholm,Beer,26,7446.41
+INV_001238,2023-02-20,STORE_9440,Malmö Spritbutiken,Uppsala,Champagne,25,6856.52
+INV_001239,2023-02-11,STORE_2624,Malmö Spritbutiken,Stockholm,White Wine,7,1928.25
+INV_001240,2023-03-19,STORE_3347,Göteborg Vinkällaren,Uppsala,Champagne,16,4471.82
+INV_001241,2023-03-22,STORE_5600,Stockholm Systembolaget,Malmö,Red Wine,9,1336.93
+INV_001242,2023-02-16,STORE_5656,Stockholm Systembolaget,Malmö,Spirits,47,7730.49
+INV_001243,2023-01-31,STORE_5210,Stockholm Systembolaget,Göteborg,White Wine,7,642.14
+INV_001244,2023-02-11,STORE_9047,Malmö Spritbutiken,Malmö,Champagne,33,9805.39
+INV_001245,2023-03-08,STORE_4939,Göteborg Vinkällaren,Uppsala,Red Wine,40,5552.11
+INV_001246,2023-01-18,STORE_1940,Stockholm Systembolaget,Lund,White Wine,26,3038.82
+INV_001247,2023-03-04,STORE_1783,Göteborg Vinkällaren,Uppsala,White Wine,50,3298.43
+INV_001248,2023-01-03,STORE_3554,Göteborg Vinkällaren,Uppsala,White Wine,31,10244.12
+INV_001249,2023-01-23,STORE_5584,Malmö Spritbutiken,Göteborg,Spirits,16,2083.21
+INV_001250,2023-01-08,STORE_9775,Malmö Spritbutiken,Göteborg,Beer,26,10441.79
+INV_001251,2023-01-19,STORE_3424,Göteborg Vinkällaren,Uppsala,Red Wine,25,5917.26
+INV_001252,2023-03-14,STORE_7857,Malmö Spritbutiken,Lund,Whiskey,5,1731.96
+INV_001253,2023-01-01,STORE_4024,Stockholm Systembolaget,Lund,White Wine,9,4194.61
+INV_001254,2023-02-13,STORE_9898,Göteborg Vinkällaren,Lund,Champagne,14,4332.11
+INV_001255,2023-03-30,STORE_3260,Göteborg Vinkällaren,Göteborg,Beer,43,9119.03
+INV_001256,2023-01-31,STORE_3412,Malmö Spritbutiken,Uppsala,White Wine,30,10936.3
+INV_001257,2023-02-12,STORE_4648,Malmö Spritbutiken,Malmö,Whiskey,21,10308.06
+INV_001258,2023-02-13,STORE_3138,Stockholm Systembolaget,Göteborg,White Wine,40,16645.78
+INV_001259,2023-02-25,STORE_6784,Malmö Spritbutiken,Lund,Beer,41,9728.05
+INV_001260,2023-03-10,STORE_7765,Göteborg Vinkällaren,Uppsala,Beer,10,1448.95
+INV_001261,2023-01-06,STORE_1869,Göteborg Vinkällaren,Göteborg,Red Wine,46,17875.78
+INV_001262,2023-03-01,STORE_9844,Malmö Spritbutiken,Uppsala,Beer,7,2680.66
+INV_001263,2023-01-02,STORE_6261,Göteborg Vinkällaren,Malmö,Beer,29,14480.27
+INV_001264,2023-02-28,STORE_2911,Göteborg Vinkällaren,Stockholm,Red Wine,26,1843.77
+INV_001265,2023-01-16,STORE_3629,Göteborg Vinkällaren,Lund,Spirits,33,12615.54
+INV_001266,2023-02-04,STORE_7328,Göteborg Vinkällaren,Uppsala,Red Wine,13,727.52
+INV_001267,2023-02-11,STORE_5035,Malmö Spritbutiken,Lund,Whiskey,41,9450.47
+INV_001268,2023-03-19,STORE_2055,Stockholm Systembolaget,Stockholm,Whiskey,12,814.26
+INV_001269,2023-01-23,STORE_8286,Göteborg Vinkällaren,Lund,Red Wine,10,994.62
+INV_001270,2023-03-26,STORE_4445,Malmö Spritbutiken,Göteborg,Whiskey,22,3970.74
+INV_001271,2023-03-03,STORE_7682,Malmö Spritbutiken,Lund,Beer,37,12785.59
+INV_001272,2023-01-21,STORE_2066,Göteborg Vinkällaren,Uppsala,Red Wine,45,15693.13
+INV_001273,2023-01-18,STORE_2626,Stockholm Systembolaget,Göteborg,White Wine,2,273.27
+INV_001274,2023-01-24,STORE_4544,Göteborg Vinkällaren,Göteborg,Whiskey,28,12787.35
+INV_001275,2023-02-11,STORE_1558,Stockholm Systembolaget,Göteborg,Red Wine,25,8106.17
+INV_001276,2023-03-18,STORE_5516,Malmö Spritbutiken,Lund,Champagne,23,10774.28
+INV_001277,2023-01-28,STORE_7010,Göteborg Vinkällaren,Lund,Red Wine,15,3054.98
+INV_001278,2023-01-01,STORE_5953,Göteborg Vinkällaren,Stockholm,Spirits,26,10745.13
+INV_001279,2023-03-21,STORE_1606,Malmö Spritbutiken,Göteborg,Red Wine,38,5243.31
+INV_001280,2023-02-01,STORE_4878,Göteborg Vinkällaren,Göteborg,Champagne,38,2702.98
+INV_001281,2023-01-13,STORE_4967,Stockholm Systembolaget,Göteborg,Whiskey,23,11026.6
+INV_001282,2023-03-19,STORE_9299,Malmö Spritbutiken,Stockholm,White Wine,32,3114.37
+INV_001283,2023-02-20,STORE_4066,Stockholm Systembolaget,Uppsala,White Wine,33,15019.86
+INV_001284,2023-03-03,STORE_4629,Malmö Spritbutiken,Göteborg,Beer,35,15943.22
+INV_001285,2023-01-26,STORE_6951,Stockholm Systembolaget,Malmö,Champagne,36,2890.29
+INV_001286,2023-01-28,STORE_4984,Göteborg Vinkällaren,Göteborg,White Wine,50,17135.98
+INV_001287,2023-03-05,STORE_3429,Malmö Spritbutiken,Göteborg,White Wine,33,6446.64
+INV_001288,2023-02-06,STORE_2459,Stockholm Systembolaget,Lund,Champagne,8,2715.07
+INV_001289,2023-03-07,STORE_3792,Malmö Spritbutiken,Malmö,Beer,18,3902.01
+INV_001290,2023-03-03,STORE_2930,Göteborg Vinkällaren,Uppsala,Spirits,50,11663.37
+INV_001291,2023-02-05,STORE_9937,Stockholm Systembolaget,Lund,Beer,31,1691.36
+INV_001292,2023-03-23,STORE_3609,Stockholm Systembolaget,Lund,Red Wine,8,1222.87
+INV_001293,2023-03-21,STORE_2294,Stockholm Systembolaget,Malmö,White Wine,35,8397.23
+INV_001294,2023-02-28,STORE_2911,Malmö Spritbutiken,Malmö,Whiskey,29,11847.11
+INV_001295,2023-01-04,STORE_6198,Stockholm Systembolaget,Malmö,Beer,19,2829.19
+INV_001296,2023-01-15,STORE_4478,Stockholm Systembolaget,Lund,Champagne,8,1704.79
+INV_001297,2023-02-04,STORE_8392,Göteborg Vinkällaren,Stockholm,Beer,40,9180.02
+INV_001298,2023-01-02,STORE_7309,Göteborg Vinkällaren,Lund,Whiskey,25,11152.17
+INV_001299,2023-03-14,STORE_2542,Stockholm Systembolaget,Malmö,White Wine,7,1366.91
+INV_001300,2023-03-23,STORE_6102,Malmö Spritbutiken,Uppsala,Champagne,22,7753.21
+INV_001301,2023-01-05,STORE_3847,Malmö Spritbutiken,Göteborg,Whiskey,31,4828.27
+INV_001302,2023-02-25,STORE_6773,Göteborg Vinkällaren,Uppsala,White Wine,44,6027.53
+INV_001303,2023-02-06,STORE_7392,Göteborg Vinkällaren,Göteborg,Whiskey,50,5626.79
+INV_001304,2023-01-21,STORE_3799,Göteborg Vinkällaren,Stockholm,Red Wine,17,3505.69
+INV_001305,2023-01-26,STORE_8312,Stockholm Systembolaget,Uppsala,Beer,47,17883.53
+INV_001306,2023-03-13,STORE_3721,Stockholm Systembolaget,Lund,Spirits,26,2375.33
+INV_001307,2023-01-30,STORE_4479,Göteborg Vinkällaren,Lund,Whiskey,2,508.66
+INV_001308,2023-01-27,STORE_8829,Malmö Spritbutiken,Malmö,Champagne,18,2902.38
+INV_001309,2023-03-09,STORE_1939,Malmö Spritbutiken,Stockholm,Beer,25,11530.46
+INV_001310,2023-02-05,STORE_5598,Malmö Spritbutiken,Lund,Beer,28,2308.8
+INV_001311,2023-01-22,STORE_8945,Malmö Spritbutiken,Malmö,Whiskey,5,2314.63
+INV_001312,2023-01-24,STORE_1069,Malmö Spritbutiken,Lund,White Wine,15,2152.81
+INV_001313,2023-02-03,STORE_6432,Göteborg Vinkällaren,Uppsala,Beer,22,3004.67
+INV_001314,2023-02-13,STORE_7990,Malmö Spritbutiken,Uppsala,Red Wine,23,1722.63
+INV_001315,2023-01-05,STORE_4618,Göteborg Vinkällaren,Lund,White Wine,48,12840.91
+INV_001316,2023-02-19,STORE_8966,Malmö Spritbutiken,Göteborg,Champagne,42,12610.81
+INV_001317,2023-03-08,STORE_2101,Göteborg Vinkällaren,Malmö,White Wine,27,8739.64
+INV_001318,2023-01-23,STORE_8947,Göteborg Vinkällaren,Lund,Whiskey,11,4869.0
+INV_001319,2023-03-24,STORE_5423,Malmö Spritbutiken,Stockholm,Whiskey,11,4986.68
+INV_001320,2023-02-02,STORE_8300,Stockholm Systembolaget,Göteborg,Beer,23,7217.48
+INV_001321,2023-01-30,STORE_9091,Malmö Spritbutiken,Göteborg,Beer,18,6270.88
+INV_001322,2023-01-06,STORE_8057,Göteborg Vinkällaren,Uppsala,Spirits,41,11320.44
+INV_001323,2023-01-20,STORE_9671,Malmö Spritbutiken,Lund,White Wine,24,11781.12
+INV_001324,2023-02-14,STORE_3711,Stockholm Systembolaget,Malmö,Champagne,26,10603.58
+INV_001325,2023-01-20,STORE_7277,Malmö Spritbutiken,Göteborg,Spirits,18,4236.87
+INV_001326,2023-03-06,STORE_5165,Malmö Spritbutiken,Uppsala,Whiskey,47,16830.68
+INV_001327,2023-03-29,STORE_5381,Stockholm Systembolaget,Lund,Red Wine,45,12238.64
+INV_001328,2023-02-26,STORE_7188,Göteborg Vinkällaren,Uppsala,Beer,35,8138.44
+INV_001329,2023-03-30,STORE_7441,Malmö Spritbutiken,Göteborg,Spirits,6,2660.44
+INV_001330,2023-01-29,STORE_9338,Malmö Spritbutiken,Göteborg,Champagne,13,4356.7
+INV_001331,2023-03-26,STORE_6432,Malmö Spritbutiken,Lund,Champagne,18,6127.04
+INV_001332,2023-02-15,STORE_9227,Malmö Spritbutiken,Lund,White Wine,50,5190.33
+INV_001333,2023-01-21,STORE_1742,Malmö Spritbutiken,Uppsala,Spirits,16,2271.87
+INV_001334,2023-03-14,STORE_9357,Stockholm Systembolaget,Stockholm,Beer,8,3633.93
+INV_001335,2023-03-09,STORE_3239,Stockholm Systembolaget,Göteborg,Spirits,18,3729.96
+INV_001336,2023-01-07,STORE_5118,Göteborg Vinkällaren,Malmö,White Wine,44,8803.13
+INV_001337,2023-02-10,STORE_1662,Stockholm Systembolaget,Lund,Beer,16,5595.59
+INV_001338,2023-02-15,STORE_8467,Göteborg Vinkällaren,Uppsala,Beer,42,16699.61
+INV_001339,2023-03-24,STORE_5485,Stockholm Systembolaget,Lund,Beer,21,9032.38
+INV_001340,2023-02-10,STORE_9246,Malmö Spritbutiken,Malmö,Beer,15,915.3
+INV_001341,2023-01-06,STORE_2029,Göteborg Vinkällaren,Göteborg,Spirits,9,2426.26
+INV_001342,2023-03-08,STORE_8315,Stockholm Systembolaget,Stockholm,Spirits,3,732.42
+INV_001343,2023-01-09,STORE_1311,Göteborg Vinkällaren,Lund,Champagne,40,4881.35
+INV_001344,2023-01-22,STORE_9974,Malmö Spritbutiken,Malmö,Beer,25,7708.74
+INV_001345,2023-01-03,STORE_3180,Malmö Spritbutiken,Lund,Red Wine,44,15696.82
+INV_001346,2023-02-23,STORE_5210,Göteborg Vinkällaren,Lund,Whiskey,20,9790.91
+INV_001347,2023-02-10,STORE_3601,Stockholm Systembolaget,Göteborg,Spirits,49,20417.67
+INV_001348,2023-02-20,STORE_3439,Göteborg Vinkällaren,Göteborg,Red Wine,19,7942.0
+INV_001349,2023-02-02,STORE_1792,Göteborg Vinkällaren,Malmö,Spirits,7,1956.18
+INV_001350,2023-03-18,STORE_1452,Göteborg Vinkällaren,Uppsala,Beer,36,5675.67
+INV_001351,2023-01-06,STORE_1745,Göteborg Vinkällaren,Stockholm,Whiskey,6,2424.7
+INV_001352,2023-02-23,STORE_2280,Göteborg Vinkällaren,Stockholm,Whiskey,8,705.52
+INV_001353,2023-03-27,STORE_8439,Göteborg Vinkällaren,Göteborg,White Wine,36,8417.79
+INV_001354,2023-01-25,STORE_3722,Malmö Spritbutiken,Malmö,White Wine,22,4463.85
+INV_001355,2023-02-14,STORE_1063,Malmö Spritbutiken,Göteborg,White Wine,13,3715.0
+INV_001356,2023-01-28,STORE_7522,Göteborg Vinkällaren,Lund,Beer,37,13055.48
+INV_001357,2023-02-16,STORE_8382,Malmö Spritbutiken,Lund,Champagne,47,14570.09
+INV_001358,2023-01-28,STORE_7538,Stockholm Systembolaget,Uppsala,White Wine,45,20719.27
+INV_001359,2023-02-02,STORE_5305,Stockholm Systembolaget,Stockholm,Red Wine,34,16646.64
+INV_001360,2023-03-05,STORE_8135,Göteborg Vinkällaren,Malmö,Whiskey,33,7500.88
+INV_001361,2023-02-19,STORE_7298,Malmö Spritbutiken,Stockholm,Spirits,30,14128.17
+INV_001362,2023-02-21,STORE_7410,Göteborg Vinkällaren,Malmö,Champagne,15,2510.98
+INV_001363,2023-01-04,STORE_5177,Malmö Spritbutiken,Malmö,Whiskey,32,9007.74
+INV_001364,2023-02-26,STORE_3643,Stockholm Systembolaget,Uppsala,White Wine,28,10729.07
+INV_001365,2023-01-23,STORE_8680,Göteborg Vinkällaren,Malmö,Whiskey,35,6248.83
+INV_001366,2023-01-06,STORE_6663,Stockholm Systembolaget,Uppsala,White Wine,10,1487.6
+INV_001367,2023-01-19,STORE_4033,Stockholm Systembolaget,Uppsala,Beer,45,7816.35
+INV_001368,2023-02-04,STORE_3167,Stockholm Systembolaget,Göteborg,Whiskey,41,19630.3
+INV_001369,2023-02-24,STORE_3797,Göteborg Vinkällaren,Lund,White Wine,43,11737.02
+INV_001370,2023-03-30,STORE_3916,Göteborg Vinkällaren,Malmö,Beer,35,1793.09
+INV_001371,2023-01-07,STORE_9435,Malmö Spritbutiken,Stockholm,Champagne,8,3483.32
+INV_001372,2023-01-06,STORE_3248,Stockholm Systembolaget,Lund,Beer,39,14440.58
+INV_001373,2023-01-08,STORE_3538,Göteborg Vinkällaren,Stockholm,Whiskey,6,1556.3
+INV_001374,2023-03-14,STORE_7846,Malmö Spritbutiken,Stockholm,Spirits,44,11692.54
+INV_001375,2023-03-26,STORE_1102,Malmö Spritbutiken,Stockholm,Beer,15,6888.64
+INV_001376,2023-03-18,STORE_2559,Stockholm Systembolaget,Göteborg,Red Wine,7,3219.8
+INV_001377,2023-02-18,STORE_3671,Malmö Spritbutiken,Stockholm,Beer,22,5791.72
+INV_001378,2023-01-06,STORE_7262,Göteborg Vinkällaren,Lund,White Wine,21,3397.31
+INV_001379,2023-03-15,STORE_1774,Malmö Spritbutiken,Lund,Whiskey,48,15208.51
+INV_001380,2023-01-20,STORE_4637,Malmö Spritbutiken,Malmö,Champagne,19,4404.64
+INV_001381,2023-03-12,STORE_6917,Göteborg Vinkällaren,Göteborg,Champagne,41,15791.61
+INV_001382,2023-02-23,STORE_9591,Malmö Spritbutiken,Malmö,Spirits,28,2138.99
+INV_001383,2023-02-04,STORE_9656,Malmö Spritbutiken,Lund,White Wine,15,6483.59
+INV_001384,2023-03-06,STORE_2696,Malmö Spritbutiken,Uppsala,White Wine,25,2515.63
+INV_001385,2023-02-22,STORE_1356,Göteborg Vinkällaren,Göteborg,White Wine,11,3033.9
+INV_001386,2023-03-29,STORE_7718,Malmö Spritbutiken,Uppsala,Spirits,20,6529.96
+INV_001387,2023-01-29,STORE_4638,Göteborg Vinkällaren,Stockholm,Whiskey,22,5764.02
+INV_001388,2023-02-09,STORE_3441,Stockholm Systembolaget,Uppsala,Champagne,25,9228.52
+INV_001389,2023-03-04,STORE_1252,Malmö Spritbutiken,Uppsala,Spirits,48,14917.87
+INV_001390,2023-01-25,STORE_5055,Malmö Spritbutiken,Lund,Beer,29,7385.63
+INV_001391,2023-03-08,STORE_8853,Stockholm Systembolaget,Göteborg,Whiskey,3,919.09
+INV_001392,2023-02-23,STORE_2224,Stockholm Systembolaget,Lund,Whiskey,21,8589.63
+INV_001393,2023-02-02,STORE_8349,Stockholm Systembolaget,Stockholm,Whiskey,39,4204.04
+INV_001394,2023-03-10,STORE_9733,Göteborg Vinkällaren,Lund,Champagne,50,8964.32
+INV_001395,2023-01-03,STORE_2653,Stockholm Systembolaget,Göteborg,Champagne,37,2895.18
+INV_001396,2023-01-18,STORE_5823,Göteborg Vinkällaren,Göteborg,Spirits,7,3227.92
+INV_001397,2023-02-10,STORE_4742,Stockholm Systembolaget,Lund,Beer,22,9014.84
+INV_001398,2023-02-26,STORE_6243,Malmö Spritbutiken,Göteborg,White Wine,24,10126.86
+INV_001399,2023-01-24,STORE_3967,Stockholm Systembolaget,Uppsala,Spirits,12,2790.29
+INV_001400,2023-02-15,STORE_4201,Malmö Spritbutiken,Stockholm,Spirits,3,994.66
+INV_001401,2023-01-02,STORE_4234,Malmö Spritbutiken,Göteborg,Red Wine,19,8630.04
+INV_001402,2023-03-15,STORE_6921,Göteborg Vinkällaren,Lund,Beer,32,3950.07
+INV_001403,2023-02-02,STORE_4842,Malmö Spritbutiken,Lund,Whiskey,16,1899.88
+INV_001404,2023-02-23,STORE_6706,Malmö Spritbutiken,Uppsala,Red Wine,21,5228.6
+INV_001405,2023-02-01,STORE_2377,Stockholm Systembolaget,Stockholm,Champagne,37,6210.89
+INV_001406,2023-03-04,STORE_4689,Göteborg Vinkällaren,Lund,White Wine,11,3136.25
+INV_001407,2023-01-30,STORE_9134,Malmö Spritbutiken,Uppsala,White Wine,14,6934.63
+INV_001408,2023-03-02,STORE_2347,Göteborg Vinkällaren,Lund,White Wine,46,2869.88
+INV_001409,2023-03-13,STORE_2423,Göteborg Vinkällaren,Stockholm,Red Wine,32,6477.92
+INV_001410,2023-01-14,STORE_1931,Malmö Spritbutiken,Lund,White Wine,7,3042.78
+INV_001411,2023-01-07,STORE_5138,Göteborg Vinkällaren,Malmö,Whiskey,29,13205.91
+INV_001412,2023-01-28,STORE_6478,Malmö Spritbutiken,Göteborg,Red Wine,16,4645.71
+INV_001413,2023-02-25,STORE_9638,Malmö Spritbutiken,Stockholm,Champagne,2,163.81
+INV_001414,2023-01-24,STORE_1829,Göteborg Vinkällaren,Malmö,Champagne,41,14936.53
+INV_001415,2023-03-06,STORE_4727,Stockholm Systembolaget,Uppsala,Red Wine,8,3951.43
+INV_001416,2023-03-15,STORE_5141,Göteborg Vinkällaren,Uppsala,Spirits,12,1461.75
+INV_001417,2023-02-13,STORE_8507,Stockholm Systembolaget,Göteborg,Champagne,38,18776.2
+INV_001418,2023-01-12,STORE_5245,Göteborg Vinkällaren,Göteborg,Beer,49,11157.22
+INV_001419,2023-04-01,STORE_4756,Göteborg Vinkällaren,Uppsala,Whiskey,21,2015.77
+INV_001420,2023-01-02,STORE_4466,Göteborg Vinkällaren,Malmö,Whiskey,42,4688.2
+INV_001421,2023-02-15,STORE_3765,Stockholm Systembolaget,Lund,Red Wine,46,15623.88
+INV_001422,2023-03-23,STORE_7666,Malmö Spritbutiken,Göteborg,Champagne,13,4495.18
+INV_001423,2023-02-10,STORE_3677,Göteborg Vinkällaren,Lund,Spirits,29,10515.43
+INV_001424,2023-01-05,STORE_2554,Göteborg Vinkällaren,Stockholm,Spirits,41,8319.87
+INV_001425,2023-02-24,STORE_3516,Stockholm Systembolaget,Malmö,Beer,26,5190.46
+INV_001426,2023-03-28,STORE_2795,Stockholm Systembolaget,Malmö,Spirits,4,1258.92
+INV_001427,2023-01-28,STORE_4114,Malmö Spritbutiken,Stockholm,Champagne,37,18123.36
+INV_001428,2023-01-27,STORE_5973,Stockholm Systembolaget,Stockholm,White Wine,11,2811.35
+INV_001429,2023-02-12,STORE_1172,Stockholm Systembolaget,Malmö,Spirits,45,16468.44
+INV_001430,2023-02-06,STORE_9804,Göteborg Vinkällaren,Göteborg,Beer,45,17407.32
+INV_001431,2023-03-20,STORE_4743,Malmö Spritbutiken,Göteborg,Whiskey,45,21550.77
+INV_001432,2023-02-14,STORE_6237,Göteborg Vinkällaren,Malmö,White Wine,31,10866.79
+INV_001433,2023-03-15,STORE_7132,Stockholm Systembolaget,Lund,Red Wine,34,7282.44
+INV_001434,2023-01-27,STORE_3482,Malmö Spritbutiken,Lund,Red Wine,44,12686.1
+INV_001435,2023-03-03,STORE_5063,Malmö Spritbutiken,Lund,Champagne,33,13317.49
+INV_001436,2023-01-29,STORE_1060,Göteborg Vinkällaren,Lund,Spirits,15,2454.69
+INV_001437,2023-01-24,STORE_5120,Göteborg Vinkällaren,Uppsala,Beer,34,12657.57
+INV_001438,2023-01-31,STORE_1411,Malmö Spritbutiken,Göteborg,Red Wine,8,3590.81
+INV_001439,2023-03-02,STORE_7330,Göteborg Vinkällaren,Göteborg,Red Wine,15,3811.24
+INV_001440,2023-01-08,STORE_1828,Stockholm Systembolaget,Malmö,White Wine,30,6275.19
+INV_001441,2023-02-05,STORE_6207,Göteborg Vinkällaren,Göteborg,Spirits,48,15190.84
+INV_001442,2023-01-27,STORE_9227,Malmö Spritbutiken,Stockholm,Whiskey,1,144.35
+INV_001443,2023-03-10,STORE_3277,Stockholm Systembolaget,Uppsala,Whiskey,45,12562.68
+INV_001444,2023-02-23,STORE_9153,Göteborg Vinkällaren,Uppsala,Spirits,24,1462.87
+INV_001445,2023-03-03,STORE_8793,Göteborg Vinkällaren,Malmö,Whiskey,40,9499.57
+INV_001446,2023-01-21,STORE_4905,Göteborg Vinkällaren,Göteborg,Whiskey,43,6989.62
+INV_001447,2023-03-27,STORE_4262,Stockholm Systembolaget,Göteborg,White Wine,26,1766.25
+INV_001448,2023-03-19,STORE_1826,Stockholm Systembolaget,Göteborg,Whiskey,48,4173.01
+INV_001449,2023-02-22,STORE_6316,Göteborg Vinkällaren,Uppsala,Red Wine,34,6177.19
+INV_001450,2023-02-01,STORE_9822,Göteborg Vinkällaren,Stockholm,White Wine,28,10649.27
+INV_001451,2023-03-29,STORE_4594,Malmö Spritbutiken,Malmö,Spirits,38,6472.21
+INV_001452,2023-03-20,STORE_5229,Malmö Spritbutiken,Göteborg,Champagne,1,177.29
+INV_001453,2023-03-20,STORE_8191,Stockholm Systembolaget,Lund,Beer,26,2487.07
+INV_001454,2023-01-07,STORE_5004,Malmö Spritbutiken,Stockholm,Spirits,31,7414.74
+INV_001455,2023-03-20,STORE_3288,Stockholm Systembolaget,Göteborg,White Wine,28,9166.83
+INV_001456,2023-03-21,STORE_5971,Göteborg Vinkällaren,Lund,Red Wine,40,18002.05
+INV_001457,2023-02-13,STORE_7908,Stockholm Systembolaget,Lund,White Wine,39,12848.16
+INV_001458,2023-02-05,STORE_8831,Göteborg Vinkällaren,Göteborg,Champagne,16,4054.8
+INV_001459,2023-03-19,STORE_3524,Göteborg Vinkällaren,Malmö,White Wine,26,10050.2
+INV_001460,2023-01-13,STORE_7255,Malmö Spritbutiken,Lund,Spirits,36,13943.43
+INV_001461,2023-03-23,STORE_1091,Stockholm Systembolaget,Uppsala,White Wine,8,3731.66
+INV_001462,2023-02-14,STORE_3593,Stockholm Systembolaget,Malmö,Beer,42,19383.82
+INV_001463,2023-03-04,STORE_5849,Malmö Spritbutiken,Göteborg,Champagne,11,3917.78
+INV_001464,2023-03-24,STORE_2999,Göteborg Vinkällaren,Uppsala,Spirits,44,6433.37
+INV_001465,2023-01-17,STORE_8620,Malmö Spritbutiken,Stockholm,Beer,4,1827.73
+INV_001466,2023-01-22,STORE_8083,Stockholm Systembolaget,Lund,Spirits,39,16768.6
+INV_001467,2023-01-17,STORE_5545,Göteborg Vinkällaren,Stockholm,White Wine,23,10206.31
+INV_001468,2023-02-13,STORE_4450,Malmö Spritbutiken,Stockholm,Champagne,26,9625.87
+INV_001469,2023-03-28,STORE_7097,Stockholm Systembolaget,Stockholm,Beer,38,5841.11
+INV_001470,2023-03-30,STORE_3435,Malmö Spritbutiken,Lund,Whiskey,44,7770.86
+INV_001471,2023-01-22,STORE_2836,Stockholm Systembolaget,Stockholm,White Wine,50,19692.09
+INV_001472,2023-01-13,STORE_4557,Malmö Spritbutiken,Malmö,Beer,2,355.27
+INV_001473,2023-02-09,STORE_8495,Göteborg Vinkällaren,Uppsala,Beer,48,14052.51
+INV_001474,2023-03-13,STORE_1877,Stockholm Systembolaget,Stockholm,White Wine,7,2720.35
+INV_001475,2023-03-20,STORE_4803,Stockholm Systembolaget,Göteborg,White Wine,28,4073.15
+INV_001476,2023-02-20,STORE_4704,Stockholm Systembolaget,Uppsala,Champagne,12,3834.06
+INV_001477,2023-03-16,STORE_5141,Göteborg Vinkällaren,Stockholm,Beer,22,6085.08
+INV_001478,2023-01-17,STORE_2506,Stockholm Systembolaget,Lund,Champagne,46,9250.43
+INV_001479,2023-01-01,STORE_9131,Stockholm Systembolaget,Malmö,Whiskey,35,16353.95
+INV_001480,2023-01-04,STORE_8663,Malmö Spritbutiken,Stockholm,Whiskey,41,3972.44
+INV_001481,2023-02-22,STORE_8325,Malmö Spritbutiken,Göteborg,Whiskey,46,2602.6
+INV_001482,2023-02-06,STORE_9428,Göteborg Vinkällaren,Malmö,Red Wine,3,1088.94
+INV_001483,2023-03-25,STORE_3743,Göteborg Vinkällaren,Malmö,Champagne,25,9237.22
+INV_001484,2023-03-18,STORE_7051,Stockholm Systembolaget,Uppsala,Whiskey,20,9270.71
+INV_001485,2023-03-14,STORE_9704,Göteborg Vinkällaren,Uppsala,White Wine,9,3284.67
+INV_001486,2023-02-01,STORE_2318,Göteborg Vinkällaren,Uppsala,Whiskey,15,4615.07
+INV_001487,2023-02-27,STORE_1298,Malmö Spritbutiken,Uppsala,Beer,43,13517.03
+INV_001488,2023-02-13,STORE_4995,Stockholm Systembolaget,Göteborg,White Wine,39,8186.23
+INV_001489,2023-03-25,STORE_4702,Malmö Spritbutiken,Lund,Red Wine,39,11486.24
+INV_001490,2023-02-04,STORE_1129,Stockholm Systembolaget,Stockholm,Whiskey,16,2289.8
+INV_001491,2023-03-17,STORE_3074,Malmö Spritbutiken,Uppsala,Whiskey,20,8477.64
+INV_001492,2023-02-14,STORE_4112,Stockholm Systembolaget,Uppsala,Champagne,29,4855.08
+INV_001493,2023-03-27,STORE_2447,Göteborg Vinkällaren,Göteborg,Red Wine,18,8185.02
+INV_001494,2023-03-14,STORE_4086,Stockholm Systembolaget,Stockholm,Spirits,35,16963.95
+INV_001495,2023-02-26,STORE_7881,Stockholm Systembolaget,Stockholm,Whiskey,9,2312.57
+INV_001496,2023-01-29,STORE_6660,Stockholm Systembolaget,Malmö,Spirits,20,5387.36
+INV_001497,2023-03-25,STORE_7698,Stockholm Systembolaget,Göteborg,Spirits,35,15439.56
+INV_001498,2023-03-28,STORE_7912,Malmö Spritbutiken,Stockholm,Spirits,45,19935.51
+INV_001499,2023-03-29,STORE_2247,Malmö Spritbutiken,Uppsala,White Wine,24,11178.84
+INV_001500,2023-03-01,STORE_5075,Göteborg Vinkällaren,Lund,Whiskey,37,17773.75
+INV_001501,2023-03-13,STORE_3507,Malmö Spritbutiken,Malmö,Beer,42,2849.65
+INV_001502,2023-03-18,STORE_3091,Göteborg Vinkällaren,Malmö,White Wine,13,3849.22
+INV_001503,2023-01-13,STORE_6642,Stockholm Systembolaget,Göteborg,Beer,36,2622.29
+INV_001504,2023-03-08,STORE_7079,Malmö Spritbutiken,Göteborg,Spirits,47,8359.35
+INV_001505,2023-01-31,STORE_5852,Malmö Spritbutiken,Uppsala,Red Wine,9,2447.64
+INV_001506,2023-02-25,STORE_4461,Göteborg Vinkällaren,Malmö,Spirits,35,10423.88
+INV_001507,2023-01-04,STORE_1424,Malmö Spritbutiken,Stockholm,White Wine,3,1110.68
+INV_001508,2023-02-27,STORE_8838,Stockholm Systembolaget,Uppsala,Red Wine,5,1239.1
+INV_001509,2023-02-16,STORE_8602,Stockholm Systembolaget,Lund,Spirits,39,12760.08
+INV_001510,2023-02-04,STORE_3833,Stockholm Systembolaget,Malmö,Whiskey,33,5858.6
+INV_001511,2023-03-11,STORE_7336,Stockholm Systembolaget,Uppsala,White Wine,24,5972.2
+INV_001512,2023-02-17,STORE_3515,Malmö Spritbutiken,Göteborg,Whiskey,16,3234.37
+INV_001513,2023-03-06,STORE_2139,Stockholm Systembolaget,Stockholm,Champagne,37,5278.36
+INV_001514,2023-01-23,STORE_1854,Malmö Spritbutiken,Uppsala,Champagne,27,9676.66
+INV_001515,2023-02-23,STORE_4217,Göteborg Vinkällaren,Uppsala,Red Wine,2,455.0
+INV_001516,2023-02-04,STORE_5163,Stockholm Systembolaget,Göteborg,Spirits,11,4572.84
+INV_001517,2023-03-02,STORE_5516,Göteborg Vinkällaren,Uppsala,Spirits,20,9170.47
+INV_001518,2023-03-28,STORE_5381,Göteborg Vinkällaren,Stockholm,Spirits,33,9105.06
+INV_001519,2023-01-10,STORE_8717,Malmö Spritbutiken,Göteborg,Whiskey,17,3941.88
+INV_001520,2023-03-29,STORE_9017,Malmö Spritbutiken,Lund,Whiskey,49,24246.26
+INV_001521,2023-01-25,STORE_1666,Göteborg Vinkällaren,Lund,Spirits,36,14561.3
+INV_001522,2023-03-16,STORE_4275,Göteborg Vinkällaren,Uppsala,Red Wine,47,7651.47
+INV_001523,2023-01-11,STORE_8396,Stockholm Systembolaget,Uppsala,Champagne,1,352.82
+INV_001524,2023-01-07,STORE_8148,Stockholm Systembolaget,Malmö,Champagne,29,6995.96
+INV_001525,2023-01-23,STORE_1457,Stockholm Systembolaget,Malmö,Champagne,4,1172.41
+INV_001526,2023-03-19,STORE_2599,Stockholm Systembolaget,Uppsala,Red Wine,4,372.82
+INV_001527,2023-02-23,STORE_5365,Stockholm Systembolaget,Lund,Champagne,10,1583.1
+INV_001528,2023-02-03,STORE_1264,Stockholm Systembolaget,Uppsala,White Wine,26,3187.67
+INV_001529,2023-01-27,STORE_6475,Stockholm Systembolaget,Göteborg,Spirits,10,1346.2
+INV_001530,2023-02-25,STORE_7780,Malmö Spritbutiken,Göteborg,Red Wine,37,4035.68
+INV_001531,2023-03-29,STORE_9387,Göteborg Vinkällaren,Malmö,Beer,49,16441.45
+INV_001532,2023-02-01,STORE_1144,Malmö Spritbutiken,Stockholm,Beer,50,22977.77
+INV_001533,2023-02-21,STORE_5573,Malmö Spritbutiken,Göteborg,Red Wine,3,317.59
+INV_001534,2023-02-26,STORE_2175,Stockholm Systembolaget,Stockholm,Red Wine,15,7441.38
+INV_001535,2023-03-17,STORE_9693,Malmö Spritbutiken,Uppsala,White Wine,6,615.95
+INV_001536,2023-03-16,STORE_8189,Stockholm Systembolaget,Uppsala,Beer,29,10013.49
+INV_001537,2023-01-10,STORE_4473,Göteborg Vinkällaren,Malmö,Beer,30,11402.47
+INV_001538,2023-01-16,STORE_4798,Göteborg Vinkällaren,Lund,Beer,17,6774.25
+INV_001539,2023-02-24,STORE_1037,Göteborg Vinkällaren,Stockholm,Red Wine,49,16767.66
+INV_001540,2023-03-17,STORE_1974,Göteborg Vinkällaren,Göteborg,Beer,5,918.99
+INV_001541,2023-03-04,STORE_6947,Stockholm Systembolaget,Göteborg,Beer,16,4707.52
+INV_001542,2023-02-21,STORE_4889,Stockholm Systembolaget,Stockholm,Whiskey,4,885.38
+INV_001543,2023-01-15,STORE_2270,Göteborg Vinkällaren,Uppsala,Spirits,42,8474.45
+INV_001544,2023-03-10,STORE_9305,Stockholm Systembolaget,Stockholm,White Wine,45,16679.65
+INV_001545,2023-03-20,STORE_7831,Göteborg Vinkällaren,Göteborg,Beer,20,9357.57
+INV_001546,2023-02-12,STORE_3535,Stockholm Systembolaget,Uppsala,Whiskey,49,17511.83
+INV_001547,2023-03-16,STORE_2876,Stockholm Systembolaget,Lund,White Wine,12,3504.55
+INV_001548,2023-01-19,STORE_1253,Malmö Spritbutiken,Stockholm,Beer,21,9630.37
+INV_001549,2023-02-13,STORE_1481,Stockholm Systembolaget,Göteborg,Spirits,47,17957.36
+INV_001550,2023-03-10,STORE_7914,Malmö Spritbutiken,Malmö,Champagne,41,12884.63
+INV_001551,2023-03-31,STORE_4330,Göteborg Vinkällaren,Göteborg,Champagne,16,3309.94
+INV_001552,2023-02-26,STORE_1498,Göteborg Vinkällaren,Uppsala,Red Wine,15,4803.18
+INV_001553,2023-03-31,STORE_6421,Stockholm Systembolaget,Malmö,Champagne,36,17879.89
+INV_001554,2023-03-23,STORE_7937,Stockholm Systembolaget,Lund,Whiskey,11,5346.33
+INV_001555,2023-02-08,STORE_5061,Stockholm Systembolaget,Uppsala,Champagne,19,3688.95
+INV_001556,2023-01-24,STORE_4996,Göteborg Vinkällaren,Malmö,Beer,18,4796.86
+INV_001557,2023-01-27,STORE_4189,Malmö Spritbutiken,Stockholm,White Wine,35,9027.8
+INV_001558,2023-02-26,STORE_4535,Stockholm Systembolaget,Stockholm,Whiskey,26,12701.48
+INV_001559,2023-03-09,STORE_9107,Göteborg Vinkällaren,Göteborg,Whiskey,34,16720.62
+INV_001560,2023-01-04,STORE_6122,Malmö Spritbutiken,Uppsala,Beer,47,16109.85
+INV_001561,2023-01-18,STORE_2167,Malmö Spritbutiken,Uppsala,Champagne,42,3945.39
+INV_001562,2023-03-07,STORE_8051,Stockholm Systembolaget,Lund,Champagne,2,641.3
+INV_001563,2023-03-23,STORE_9001,Göteborg Vinkällaren,Stockholm,White Wine,40,11945.35
+INV_001564,2023-02-28,STORE_7043,Göteborg Vinkällaren,Göteborg,Whiskey,11,970.11
+INV_001565,2023-01-05,STORE_3954,Stockholm Systembolaget,Lund,Beer,2,297.47
+INV_001566,2023-02-17,STORE_3850,Göteborg Vinkällaren,Lund,Whiskey,34,5761.63
+INV_001567,2023-01-19,STORE_5211,Stockholm Systembolaget,Göteborg,Beer,33,5353.28
+INV_001568,2023-01-29,STORE_2081,Göteborg Vinkällaren,Malmö,Red Wine,49,17394.85
+INV_001569,2023-03-11,STORE_7684,Malmö Spritbutiken,Malmö,Red Wine,30,6259.32
+INV_001570,2023-02-12,STORE_9559,Göteborg Vinkällaren,Uppsala,Beer,48,16917.25
+INV_001571,2023-02-28,STORE_7588,Malmö Spritbutiken,Göteborg,White Wine,7,1115.41
+INV_001572,2023-03-30,STORE_7327,Stockholm Systembolaget,Göteborg,White Wine,5,1679.0
+INV_001573,2023-01-08,STORE_3964,Stockholm Systembolaget,Uppsala,Champagne,34,15419.64
+INV_001574,2023-01-16,STORE_1320,Malmö Spritbutiken,Lund,Whiskey,49,21019.58
+INV_001575,2023-02-28,STORE_6641,Malmö Spritbutiken,Stockholm,Spirits,33,15236.68
+INV_001576,2023-03-17,STORE_2063,Stockholm Systembolaget,Uppsala,Champagne,1,91.7
+INV_001577,2023-03-18,STORE_2932,Malmö Spritbutiken,Uppsala,White Wine,33,12505.88
+INV_001578,2023-01-15,STORE_9147,Göteborg Vinkällaren,Uppsala,Beer,22,4722.24
+INV_001579,2023-01-05,STORE_1346,Göteborg Vinkällaren,Uppsala,Beer,46,13236.01
+INV_001580,2023-03-01,STORE_2661,Malmö Spritbutiken,Göteborg,White Wine,28,12838.29
+INV_001581,2023-03-12,STORE_4697,Stockholm Systembolaget,Göteborg,White Wine,32,5759.93
+INV_001582,2023-03-15,STORE_4200,Göteborg Vinkällaren,Uppsala,Whiskey,41,17478.0
+INV_001583,2023-03-28,STORE_3275,Stockholm Systembolaget,Malmö,Champagne,34,3286.28
+INV_001584,2023-02-27,STORE_8575,Göteborg Vinkällaren,Malmö,Spirits,2,440.56
+INV_001585,2023-02-24,STORE_3245,Stockholm Systembolaget,Malmö,Whiskey,2,377.87
+INV_001586,2023-02-12,STORE_6877,Malmö Spritbutiken,Stockholm,Beer,50,18983.53
+INV_001587,2023-02-06,STORE_5493,Stockholm Systembolaget,Stockholm,Beer,39,18802.98
+INV_001588,2023-01-13,STORE_6622,Göteborg Vinkällaren,Göteborg,Whiskey,49,4615.78
+INV_001589,2023-03-05,STORE_5277,Göteborg Vinkällaren,Uppsala,Whiskey,6,1596.22
+INV_001590,2023-02-08,STORE_6959,Malmö Spritbutiken,Stockholm,Beer,20,5015.2
+INV_001591,2023-02-06,STORE_7096,Göteborg Vinkällaren,Uppsala,Spirits,9,1397.76
+INV_001592,2023-03-22,STORE_7185,Stockholm Systembolaget,Lund,Champagne,6,552.32
+INV_001593,2023-01-03,STORE_5508,Göteborg Vinkällaren,Göteborg,Spirits,42,7605.9
+INV_001594,2023-03-04,STORE_6737,Malmö Spritbutiken,Lund,Whiskey,45,19241.15
+INV_001595,2023-02-04,STORE_9787,Stockholm Systembolaget,Göteborg,Beer,24,4640.47
+INV_001596,2023-01-17,STORE_1618,Göteborg Vinkällaren,Lund,Beer,50,5319.32
+INV_001597,2023-01-19,STORE_5748,Malmö Spritbutiken,Göteborg,Red Wine,37,15891.51
+INV_001598,2023-02-05,STORE_2062,Malmö Spritbutiken,Göteborg,Spirits,39,12609.53
+INV_001599,2023-03-13,STORE_1024,Stockholm Systembolaget,Lund,Beer,43,20229.72
+INV_001600,2023-03-06,STORE_9736,Stockholm Systembolaget,Malmö,Champagne,30,7489.1
+INV_001601,2023-01-31,STORE_2312,Göteborg Vinkällaren,Lund,Spirits,32,3656.65
+INV_001602,2023-02-08,STORE_4393,Göteborg Vinkällaren,Uppsala,Spirits,22,9780.15
+INV_001603,2023-03-05,STORE_1530,Göteborg Vinkällaren,Lund,White Wine,39,7695.72
+INV_001604,2023-01-22,STORE_4220,Malmö Spritbutiken,Göteborg,Champagne,4,1723.66
+INV_001605,2023-01-23,STORE_5360,Göteborg Vinkällaren,Malmö,Champagne,30,3138.25
+INV_001606,2023-02-07,STORE_8972,Göteborg Vinkällaren,Stockholm,White Wine,43,17737.82
+INV_001607,2023-02-10,STORE_1569,Malmö Spritbutiken,Göteborg,Spirits,45,20209.4
+INV_001608,2023-02-16,STORE_2930,Malmö Spritbutiken,Uppsala,Champagne,12,1977.59
+INV_001609,2023-02-28,STORE_9367,Stockholm Systembolaget,Malmö,Spirits,24,6377.91
+INV_001610,2023-03-29,STORE_4513,Stockholm Systembolaget,Uppsala,Whiskey,13,5359.02
+INV_001611,2023-03-24,STORE_4756,Malmö Spritbutiken,Uppsala,Whiskey,26,4537.34
+INV_001612,2023-03-25,STORE_3682,Göteborg Vinkällaren,Göteborg,Red Wine,33,14727.88
+INV_001613,2023-02-19,STORE_7092,Stockholm Systembolaget,Uppsala,Champagne,40,3061.64
+INV_001614,2023-03-24,STORE_1341,Stockholm Systembolaget,Stockholm,Whiskey,10,607.14
+INV_001615,2023-01-16,STORE_1298,Malmö Spritbutiken,Göteborg,Whiskey,5,790.31
+INV_001616,2023-02-12,STORE_5307,Malmö Spritbutiken,Göteborg,Red Wine,14,4442.62
+INV_001617,2023-03-28,STORE_7074,Malmö Spritbutiken,Stockholm,Spirits,25,4373.38
+INV_001618,2023-01-27,STORE_4375,Malmö Spritbutiken,Göteborg,Red Wine,36,5801.68
+INV_001619,2023-02-01,STORE_3146,Malmö Spritbutiken,Stockholm,Spirits,26,9179.83
+INV_001620,2023-02-07,STORE_6229,Göteborg Vinkällaren,Malmö,Champagne,34,15701.8
+INV_001621,2023-01-26,STORE_2212,Malmö Spritbutiken,Malmö,Whiskey,44,10395.29
+INV_001622,2023-01-31,STORE_3348,Göteborg Vinkällaren,Malmö,Red Wine,17,1858.89
+INV_001623,2023-01-11,STORE_6087,Göteborg Vinkällaren,Lund,Champagne,3,705.99
+INV_001624,2023-02-27,STORE_1271,Malmö Spritbutiken,Malmö,Spirits,39,18367.9
+INV_001625,2023-02-20,STORE_9866,Malmö Spritbutiken,Stockholm,Beer,20,9361.27
+INV_001626,2023-03-03,STORE_6841,Malmö Spritbutiken,Göteborg,Whiskey,49,2974.93
+INV_001627,2023-02-01,STORE_1346,Göteborg Vinkällaren,Stockholm,Red Wine,21,2087.87
+INV_001628,2023-01-13,STORE_4549,Stockholm Systembolaget,Stockholm,White Wine,16,6499.47
+INV_001629,2023-01-04,STORE_3770,Stockholm Systembolaget,Malmö,White Wine,8,1902.52
+INV_001630,2023-02-28,STORE_6237,Stockholm Systembolaget,Lund,Champagne,33,7193.09
+INV_001631,2023-02-15,STORE_9650,Göteborg Vinkällaren,Stockholm,Beer,44,20465.65
+INV_001632,2023-02-14,STORE_6254,Malmö Spritbutiken,Lund,Whiskey,35,6676.43
+INV_001633,2023-02-03,STORE_7151,Malmö Spritbutiken,Göteborg,Spirits,30,13602.11
+INV_001634,2023-03-26,STORE_9815,Stockholm Systembolaget,Göteborg,White Wine,16,2675.2
+INV_001635,2023-02-26,STORE_1469,Göteborg Vinkällaren,Uppsala,Spirits,40,16981.55
+INV_001636,2023-03-25,STORE_4158,Malmö Spritbutiken,Stockholm,Champagne,46,13933.08
+INV_001637,2023-02-05,STORE_7949,Göteborg Vinkällaren,Stockholm,Champagne,47,14335.52
+INV_001638,2023-01-15,STORE_4730,Göteborg Vinkällaren,Lund,Beer,23,10752.58
+INV_001639,2023-01-28,STORE_2374,Stockholm Systembolaget,Göteborg,Champagne,18,1966.47
+INV_001640,2023-03-03,STORE_9777,Malmö Spritbutiken,Malmö,Red Wine,50,22180.92
+INV_001641,2023-01-17,STORE_6807,Stockholm Systembolaget,Stockholm,White Wine,44,16559.62
+INV_001642,2023-01-18,STORE_5797,Stockholm Systembolaget,Uppsala,White Wine,30,4150.79
+INV_001643,2023-02-22,STORE_8913,Malmö Spritbutiken,Uppsala,Whiskey,14,1663.01
+INV_001644,2023-01-17,STORE_9681,Göteborg Vinkällaren,Stockholm,White Wine,44,14540.37
+INV_001645,2023-02-13,STORE_9529,Göteborg Vinkällaren,Stockholm,Red Wine,43,19009.72
+INV_001646,2023-03-07,STORE_2468,Malmö Spritbutiken,Stockholm,Red Wine,11,922.4
+INV_001647,2023-03-28,STORE_5523,Göteborg Vinkällaren,Uppsala,Spirits,34,4807.15
+INV_001648,2023-02-08,STORE_7543,Malmö Spritbutiken,Lund,Champagne,27,8481.36
+INV_001649,2023-03-14,STORE_8570,Göteborg Vinkällaren,Malmö,Whiskey,16,3100.0
+INV_001650,2023-03-26,STORE_3349,Malmö Spritbutiken,Uppsala,Champagne,46,6694.69
+INV_001651,2023-02-12,STORE_7502,Stockholm Systembolaget,Malmö,Spirits,4,1069.57
+INV_001652,2023-02-16,STORE_4564,Stockholm Systembolaget,Göteborg,White Wine,39,14888.26
+INV_001653,2023-01-10,STORE_9023,Stockholm Systembolaget,Lund,Beer,6,1016.47
+INV_001654,2023-02-19,STORE_7582,Göteborg Vinkällaren,Malmö,Red Wine,12,2953.51
+INV_001655,2023-03-14,STORE_6038,Göteborg Vinkällaren,Uppsala,Beer,38,8103.39
+INV_001656,2023-01-28,STORE_3439,Göteborg Vinkällaren,Stockholm,White Wine,50,11254.82
+INV_001657,2023-02-15,STORE_7701,Stockholm Systembolaget,Malmö,Whiskey,31,3902.17
+INV_001658,2023-01-06,STORE_4552,Malmö Spritbutiken,Malmö,Beer,11,3418.72
+INV_001659,2023-03-10,STORE_6215,Malmö Spritbutiken,Göteborg,White Wine,18,2057.09
+INV_001660,2023-01-24,STORE_4685,Göteborg Vinkällaren,Lund,Beer,7,2521.98
+INV_001661,2023-03-08,STORE_3306,Göteborg Vinkällaren,Malmö,Champagne,32,10971.71
+INV_001662,2023-01-07,STORE_6103,Göteborg Vinkällaren,Uppsala,Whiskey,42,10101.61
+INV_001663,2023-02-09,STORE_9607,Göteborg Vinkällaren,Lund,Red Wine,31,9424.13
+INV_001664,2023-02-16,STORE_3071,Göteborg Vinkällaren,Malmö,Red Wine,15,4898.52
+INV_001665,2023-02-23,STORE_2597,Göteborg Vinkällaren,Göteborg,Red Wine,16,1856.08
+INV_001666,2023-03-10,STORE_5633,Malmö Spritbutiken,Lund,Beer,39,17227.9
+INV_001667,2023-02-11,STORE_5232,Stockholm Systembolaget,Uppsala,Whiskey,12,934.08
+INV_001668,2023-03-29,STORE_1907,Stockholm Systembolaget,Uppsala,Beer,6,982.63
+INV_001669,2023-02-22,STORE_9526,Göteborg Vinkällaren,Göteborg,White Wine,21,8128.37
+INV_001670,2023-03-13,STORE_2654,Göteborg Vinkällaren,Lund,Champagne,45,18656.4
+INV_001671,2023-01-25,STORE_8261,Göteborg Vinkällaren,Malmö,Beer,47,23445.88
+INV_001672,2023-02-23,STORE_5129,Malmö Spritbutiken,Stockholm,Beer,28,4773.52
+INV_001673,2023-03-23,STORE_4801,Malmö Spritbutiken,Uppsala,Champagne,14,1533.01
+INV_001674,2023-01-15,STORE_3334,Göteborg Vinkällaren,Lund,Red Wine,20,5385.38
+INV_001675,2023-03-30,STORE_3400,Malmö Spritbutiken,Uppsala,Beer,38,18894.43
+INV_001676,2023-03-25,STORE_3765,Malmö Spritbutiken,Stockholm,Beer,4,1691.7
+INV_001677,2023-03-30,STORE_7343,Göteborg Vinkällaren,Göteborg,Champagne,15,3684.35
+INV_001678,2023-02-05,STORE_1576,Göteborg Vinkällaren,Malmö,Champagne,9,2205.42
+INV_001679,2023-01-12,STORE_2745,Stockholm Systembolaget,Göteborg,Champagne,16,6791.98
+INV_001680,2023-03-27,STORE_9300,Göteborg Vinkällaren,Stockholm,Beer,38,10299.54
+INV_001681,2023-03-14,STORE_7006,Malmö Spritbutiken,Uppsala,Red Wine,36,5976.97
+INV_001682,2023-02-02,STORE_5467,Stockholm Systembolaget,Göteborg,Red Wine,21,7883.65
+INV_001683,2023-04-01,STORE_3726,Malmö Spritbutiken,Malmö,White Wine,31,3729.01
+INV_001684,2023-03-11,STORE_4060,Malmö Spritbutiken,Göteborg,White Wine,22,6138.41
+INV_001685,2023-01-03,STORE_9798,Malmö Spritbutiken,Göteborg,White Wine,19,1194.09
+INV_001686,2023-01-31,STORE_8493,Stockholm Systembolaget,Uppsala,Spirits,13,5458.0
+INV_001687,2023-01-21,STORE_5138,Stockholm Systembolaget,Stockholm,Red Wine,25,8218.94
+INV_001688,2023-02-27,STORE_7011,Malmö Spritbutiken,Lund,Whiskey,43,17145.53
+INV_001689,2023-01-17,STORE_1564,Malmö Spritbutiken,Göteborg,Whiskey,40,8856.6
+INV_001690,2023-03-30,STORE_5084,Stockholm Systembolaget,Lund,Beer,32,14839.18
+INV_001691,2023-01-31,STORE_2428,Göteborg Vinkällaren,Göteborg,White Wine,24,8069.2
+INV_001692,2023-03-01,STORE_1981,Stockholm Systembolaget,Stockholm,Red Wine,26,6994.82
+INV_001693,2023-01-19,STORE_8789,Stockholm Systembolaget,Stockholm,White Wine,36,15899.62
+INV_001694,2023-03-18,STORE_4225,Malmö Spritbutiken,Lund,Whiskey,41,12810.7
+INV_001695,2023-03-05,STORE_4547,Göteborg Vinkällaren,Göteborg,Spirits,21,7382.3
+INV_001696,2023-02-14,STORE_3690,Göteborg Vinkällaren,Stockholm,Whiskey,46,21541.13
+INV_001697,2023-01-03,STORE_8912,Stockholm Systembolaget,Göteborg,Beer,39,18921.01
+INV_001698,2023-02-26,STORE_1615,Stockholm Systembolaget,Göteborg,Red Wine,37,18109.83
+INV_001699,2023-03-19,STORE_2003,Malmö Spritbutiken,Uppsala,Red Wine,7,2440.37
+INV_001700,2023-02-04,STORE_3973,Stockholm Systembolaget,Lund,Champagne,23,7821.6
+INV_001701,2023-02-02,STORE_1038,Stockholm Systembolaget,Malmö,Spirits,10,3721.52
+INV_001702,2023-02-07,STORE_3778,Göteborg Vinkällaren,Lund,Red Wine,35,5727.98
+INV_001703,2023-02-12,STORE_6396,Göteborg Vinkällaren,Malmö,Whiskey,37,2166.51
+INV_001704,2023-02-10,STORE_8085,Malmö Spritbutiken,Malmö,Red Wine,32,2793.39
+INV_001705,2023-02-17,STORE_6066,Malmö Spritbutiken,Stockholm,Champagne,17,7362.52
+INV_001706,2023-03-13,STORE_2645,Stockholm Systembolaget,Uppsala,Beer,5,1187.2
+INV_001707,2023-04-01,STORE_6031,Göteborg Vinkällaren,Lund,Beer,14,3948.69
+INV_001708,2023-03-17,STORE_8924,Göteborg Vinkällaren,Stockholm,Spirits,35,7452.98
+INV_001709,2023-03-21,STORE_5919,Stockholm Systembolaget,Uppsala,Spirits,10,1434.39
+INV_001710,2023-01-06,STORE_6417,Stockholm Systembolaget,Uppsala,Beer,32,9623.84
+INV_001711,2023-03-06,STORE_1950,Malmö Spritbutiken,Göteborg,White Wine,4,1781.52
+INV_001712,2023-01-18,STORE_4915,Stockholm Systembolaget,Uppsala,Beer,22,8032.38
+INV_001713,2023-01-28,STORE_3860,Göteborg Vinkällaren,Uppsala,Whiskey,33,7309.42
+INV_001714,2023-02-21,STORE_1930,Göteborg Vinkällaren,Stockholm,Beer,43,16662.71
+INV_001715,2023-03-25,STORE_2486,Malmö Spritbutiken,Stockholm,Spirits,17,7319.96
+INV_001716,2023-01-02,STORE_7983,Malmö Spritbutiken,Malmö,Champagne,2,253.55
+INV_001717,2023-03-22,STORE_7338,Malmö Spritbutiken,Stockholm,Beer,29,13106.15
+INV_001718,2023-02-22,STORE_4146,Göteborg Vinkällaren,Uppsala,Champagne,27,12782.99
+INV_001719,2023-03-10,STORE_8875,Malmö Spritbutiken,Malmö,White Wine,11,1445.24
+INV_001720,2023-01-22,STORE_9185,Göteborg Vinkällaren,Lund,Spirits,16,6687.23
+INV_001721,2023-01-18,STORE_8145,Malmö Spritbutiken,Uppsala,Spirits,25,5824.99
+INV_001722,2023-01-08,STORE_1482,Stockholm Systembolaget,Malmö,Whiskey,24,4150.38
+INV_001723,2023-02-07,STORE_4922,Göteborg Vinkällaren,Uppsala,White Wine,40,12031.98
+INV_001724,2023-03-31,STORE_3658,Göteborg Vinkällaren,Uppsala,Beer,4,1856.22
+INV_001725,2023-02-09,STORE_4148,Malmö Spritbutiken,Lund,Beer,13,5315.27
+INV_001726,2023-02-15,STORE_7338,Göteborg Vinkällaren,Stockholm,White Wine,26,10879.32
+INV_001727,2023-03-23,STORE_4009,Stockholm Systembolaget,Lund,Whiskey,33,5622.22
+INV_001728,2023-01-10,STORE_9560,Stockholm Systembolaget,Malmö,Whiskey,37,18074.01
+INV_001729,2023-02-15,STORE_7849,Stockholm Systembolaget,Stockholm,Beer,41,8555.73
+INV_001730,2023-02-25,STORE_7030,Stockholm Systembolaget,Malmö,Red Wine,36,10761.51
+INV_001731,2023-02-11,STORE_9358,Malmö Spritbutiken,Stockholm,Red Wine,23,7300.84
+INV_001732,2023-02-12,STORE_8410,Göteborg Vinkällaren,Malmö,Champagne,25,11919.43
+INV_001733,2023-01-09,STORE_1984,Malmö Spritbutiken,Malmö,Beer,33,4951.31
+INV_001734,2023-01-06,STORE_8682,Stockholm Systembolaget,Göteborg,Beer,13,1070.0
+INV_001735,2023-01-22,STORE_4667,Göteborg Vinkällaren,Lund,Red Wine,5,834.76
+INV_001736,2023-03-05,STORE_8044,Stockholm Systembolaget,Stockholm,Beer,8,2131.89
+INV_001737,2023-02-19,STORE_5036,Göteborg Vinkällaren,Uppsala,Whiskey,31,15416.02
+INV_001738,2023-04-01,STORE_5557,Malmö Spritbutiken,Uppsala,White Wine,16,2907.21
+INV_001739,2023-01-29,STORE_9236,Stockholm Systembolaget,Lund,Red Wine,14,3030.58
+INV_001740,2023-02-16,STORE_3253,Malmö Spritbutiken,Stockholm,Whiskey,21,5321.67
+INV_001741,2023-01-20,STORE_8392,Stockholm Systembolaget,Göteborg,Champagne,24,10417.84
+INV_001742,2023-01-24,STORE_1327,Stockholm Systembolaget,Lund,Red Wine,48,5198.43
+INV_001743,2023-03-30,STORE_4528,Stockholm Systembolaget,Malmö,Spirits,34,14013.78
+INV_001744,2023-03-31,STORE_3174,Göteborg Vinkällaren,Malmö,Spirits,39,12563.76
+INV_001745,2023-01-22,STORE_9911,Stockholm Systembolaget,Göteborg,White Wine,16,1199.07
+INV_001746,2023-03-10,STORE_7681,Göteborg Vinkällaren,Göteborg,Spirits,34,11082.21
+INV_001747,2023-02-10,STORE_9743,Göteborg Vinkällaren,Uppsala,Red Wine,19,7058.64
+INV_001748,2023-01-10,STORE_4735,Göteborg Vinkällaren,Malmö,Beer,38,3713.77
+INV_001749,2023-01-07,STORE_1762,Stockholm Systembolaget,Stockholm,Beer,18,2963.8
+INV_001750,2023-03-25,STORE_9448,Göteborg Vinkällaren,Lund,Whiskey,39,11246.75
+INV_001751,2023-02-17,STORE_6599,Göteborg Vinkällaren,Malmö,Spirits,35,9386.28
+INV_001752,2023-01-21,STORE_1269,Stockholm Systembolaget,Göteborg,Champagne,48,14584.0
+INV_001753,2023-01-09,STORE_1675,Stockholm Systembolaget,Uppsala,White Wine,7,2812.61
+INV_001754,2023-01-02,STORE_1309,Stockholm Systembolaget,Göteborg,Champagne,17,5333.11
+INV_001755,2023-03-26,STORE_9846,Göteborg Vinkällaren,Stockholm,Whiskey,5,1050.59
+INV_001756,2023-01-05,STORE_3729,Malmö Spritbutiken,Göteborg,Spirits,17,1482.77
+INV_001757,2023-03-05,STORE_9144,Malmö Spritbutiken,Uppsala,Spirits,49,5197.46
+INV_001758,2023-01-21,STORE_8058,Stockholm Systembolaget,Uppsala,Spirits,5,797.59
+INV_001759,2023-02-20,STORE_1514,Malmö Spritbutiken,Stockholm,Champagne,27,4702.01
+INV_001760,2023-03-22,STORE_6896,Stockholm Systembolaget,Malmö,Champagne,5,726.4
+INV_001761,2023-02-06,STORE_7715,Stockholm Systembolaget,Uppsala,Spirits,23,10310.66
+INV_001762,2023-01-01,STORE_4579,Malmö Spritbutiken,Lund,Whiskey,41,20494.27
+INV_001763,2023-03-02,STORE_8833,Göteborg Vinkällaren,Göteborg,Whiskey,6,1947.7
+INV_001764,2023-03-14,STORE_4726,Göteborg Vinkällaren,Lund,White Wine,18,2111.06
+INV_001765,2023-03-18,STORE_7503,Malmö Spritbutiken,Lund,Whiskey,44,14030.4
+INV_001766,2023-03-15,STORE_1314,Göteborg Vinkällaren,Malmö,Red Wine,50,14893.39
+INV_001767,2023-02-10,STORE_8814,Malmö Spritbutiken,Göteborg,Spirits,22,10458.62
+INV_001768,2023-02-12,STORE_1741,Malmö Spritbutiken,Malmö,Beer,50,12389.41
+INV_001769,2023-03-25,STORE_4436,Göteborg Vinkällaren,Uppsala,Beer,31,4360.35
+INV_001770,2023-03-31,STORE_5812,Stockholm Systembolaget,Lund,Beer,26,2024.8
+INV_001771,2023-03-05,STORE_7806,Stockholm Systembolaget,Malmö,Beer,12,1522.45
+INV_001772,2023-01-15,STORE_3630,Malmö Spritbutiken,Malmö,Spirits,7,1330.48
+INV_001773,2023-03-25,STORE_2866,Malmö Spritbutiken,Lund,Beer,42,14442.55
+INV_001774,2023-02-28,STORE_9528,Stockholm Systembolaget,Lund,Red Wine,36,5167.08
+INV_001775,2023-01-23,STORE_7931,Stockholm Systembolaget,Lund,Beer,2,612.39
+INV_001776,2023-01-02,STORE_4857,Göteborg Vinkällaren,Lund,Spirits,18,6497.6
+INV_001777,2023-03-29,STORE_8097,Stockholm Systembolaget,Göteborg,Whiskey,21,4678.16
+INV_001778,2023-02-25,STORE_7419,Malmö Spritbutiken,Stockholm,Beer,45,4166.27
+INV_001779,2023-02-06,STORE_1425,Göteborg Vinkällaren,Malmö,Red Wine,20,9197.14
+INV_001780,2023-02-12,STORE_9950,Malmö Spritbutiken,Göteborg,Whiskey,48,8074.65
+INV_001781,2023-03-20,STORE_4685,Malmö Spritbutiken,Lund,Whiskey,36,16561.32
+INV_001782,2023-03-24,STORE_3578,Malmö Spritbutiken,Stockholm,Red Wine,11,3338.96
+INV_001783,2023-01-29,STORE_1687,Stockholm Systembolaget,Stockholm,Beer,18,1050.61
+INV_001784,2023-03-13,STORE_3860,Malmö Spritbutiken,Uppsala,White Wine,6,1659.38
+INV_001785,2023-01-01,STORE_2942,Stockholm Systembolaget,Uppsala,Spirits,16,7728.97
+INV_001786,2023-01-15,STORE_7316,Malmö Spritbutiken,Stockholm,White Wine,27,6370.59
+INV_001787,2023-03-02,STORE_8312,Stockholm Systembolaget,Stockholm,Champagne,37,9512.31
+INV_001788,2023-03-02,STORE_1208,Malmö Spritbutiken,Uppsala,Spirits,4,643.39
+INV_001789,2023-03-19,STORE_9112,Stockholm Systembolaget,Stockholm,Beer,2,947.94
+INV_001790,2023-02-02,STORE_7130,Göteborg Vinkällaren,Lund,Spirits,8,1345.4
+INV_001791,2023-02-09,STORE_5583,Stockholm Systembolaget,Lund,Champagne,28,4306.71
+INV_001792,2023-01-17,STORE_8063,Malmö Spritbutiken,Stockholm,Red Wine,38,3402.12
+INV_001793,2023-03-15,STORE_3483,Malmö Spritbutiken,Uppsala,Whiskey,33,4077.17
+INV_001794,2023-03-18,STORE_5671,Göteborg Vinkällaren,Stockholm,Champagne,14,3216.73
+INV_001795,2023-02-10,STORE_1894,Göteborg Vinkällaren,Stockholm,White Wine,41,17525.01
+INV_001796,2023-01-17,STORE_1590,Stockholm Systembolaget,Lund,Beer,3,823.43
+INV_001797,2023-02-15,STORE_1032,Stockholm Systembolaget,Stockholm,Spirits,42,18486.04
+INV_001798,2023-01-16,STORE_5644,Stockholm Systembolaget,Malmö,Whiskey,25,6816.88
+INV_001799,2023-02-10,STORE_8623,Göteborg Vinkällaren,Göteborg,Champagne,28,5730.47
+INV_001800,2023-02-11,STORE_7131,Stockholm Systembolaget,Lund,Whiskey,42,9355.07
+INV_001801,2023-03-30,STORE_6892,Göteborg Vinkällaren,Lund,Whiskey,39,3759.31
+INV_001802,2023-01-07,STORE_8652,Malmö Spritbutiken,Malmö,Champagne,14,5791.49
+INV_001803,2023-01-10,STORE_4780,Stockholm Systembolaget,Uppsala,White Wine,47,17198.14
+INV_001804,2023-02-25,STORE_3989,Malmö Spritbutiken,Göteborg,Spirits,31,13103.03
+INV_001805,2023-01-31,STORE_6924,Göteborg Vinkällaren,Göteborg,Whiskey,4,1288.99
+INV_001806,2023-02-20,STORE_8960,Göteborg Vinkällaren,Göteborg,Whiskey,45,6269.3
+INV_001807,2023-01-27,STORE_9453,Stockholm Systembolaget,Stockholm,Red Wine,32,3510.14
+INV_001808,2023-02-27,STORE_7228,Stockholm Systembolaget,Göteborg,Whiskey,2,575.62
+INV_001809,2023-03-30,STORE_4533,Göteborg Vinkällaren,Lund,Red Wine,42,8134.72
+INV_001810,2023-02-03,STORE_2742,Stockholm Systembolaget,Malmö,Red Wine,5,2097.13
+INV_001811,2023-03-18,STORE_3125,Malmö Spritbutiken,Malmö,White Wine,33,13539.96
+INV_001812,2023-02-01,STORE_7166,Malmö Spritbutiken,Malmö,White Wine,47,8431.73
+INV_001813,2023-03-16,STORE_6382,Stockholm Systembolaget,Uppsala,Red Wine,31,10180.81
+INV_001814,2023-01-03,STORE_8984,Stockholm Systembolaget,Stockholm,Whiskey,41,9865.25
+INV_001815,2023-03-20,STORE_5231,Göteborg Vinkällaren,Uppsala,Beer,41,5733.59
+INV_001816,2023-03-07,STORE_5166,Göteborg Vinkällaren,Uppsala,Whiskey,1,389.99
+INV_001817,2023-01-27,STORE_7727,Göteborg Vinkällaren,Stockholm,Red Wine,3,1389.94
+INV_001818,2023-03-14,STORE_9580,Stockholm Systembolaget,Lund,White Wine,25,4130.21
+INV_001819,2023-03-29,STORE_3537,Malmö Spritbutiken,Stockholm,Beer,26,7478.77
+INV_001820,2023-03-23,STORE_5143,Malmö Spritbutiken,Stockholm,Beer,17,3703.68
+INV_001821,2023-03-26,STORE_2396,Stockholm Systembolaget,Malmö,Beer,27,2408.44
+INV_001822,2023-03-15,STORE_9212,Stockholm Systembolaget,Uppsala,Champagne,48,6961.75
+INV_001823,2023-02-10,STORE_9576,Göteborg Vinkällaren,Uppsala,Spirits,31,4082.23
+INV_001824,2023-02-13,STORE_7843,Göteborg Vinkällaren,Göteborg,Red Wine,28,8253.32
+INV_001825,2023-03-26,STORE_6032,Stockholm Systembolaget,Uppsala,Red Wine,18,4511.38
+INV_001826,2023-01-06,STORE_6520,Malmö Spritbutiken,Uppsala,Beer,49,9134.92
+INV_001827,2023-02-08,STORE_6010,Göteborg Vinkällaren,Malmö,Spirits,32,12779.93
+INV_001828,2023-03-02,STORE_5992,Stockholm Systembolaget,Lund,Champagne,21,1454.16
+INV_001829,2023-01-19,STORE_9059,Göteborg Vinkällaren,Malmö,Beer,34,2979.82
+INV_001830,2023-01-11,STORE_3047,Malmö Spritbutiken,Stockholm,Red Wine,31,12096.33
+INV_001831,2023-01-21,STORE_5908,Göteborg Vinkällaren,Stockholm,Whiskey,28,11224.71
+INV_001832,2023-01-30,STORE_9269,Göteborg Vinkällaren,Lund,Red Wine,14,1749.29
+INV_001833,2023-02-19,STORE_6036,Stockholm Systembolaget,Malmö,Spirits,41,7323.07
+INV_001834,2023-01-06,STORE_8248,Malmö Spritbutiken,Lund,White Wine,15,3920.45
+INV_001835,2023-03-24,STORE_5051,Stockholm Systembolaget,Stockholm,Spirits,6,1411.23
+INV_001836,2023-01-29,STORE_7197,Göteborg Vinkällaren,Malmö,Whiskey,32,7860.02
+INV_001837,2023-02-11,STORE_9366,Göteborg Vinkällaren,Göteborg,White Wine,11,2129.22
+INV_001838,2023-02-07,STORE_4115,Malmö Spritbutiken,Uppsala,Spirits,39,17603.19
+INV_001839,2023-01-14,STORE_4100,Stockholm Systembolaget,Lund,Spirits,3,164.49
+INV_001840,2023-02-27,STORE_8875,Göteborg Vinkällaren,Stockholm,Champagne,1,330.9
+INV_001841,2023-01-09,STORE_9457,Göteborg Vinkällaren,Göteborg,Red Wine,30,12504.81
+INV_001842,2023-02-12,STORE_9880,Malmö Spritbutiken,Göteborg,Champagne,11,5422.05
+INV_001843,2023-03-25,STORE_9698,Malmö Spritbutiken,Malmö,White Wine,37,17714.71
+INV_001844,2023-01-11,STORE_2402,Stockholm Systembolaget,Göteborg,Whiskey,44,2335.63
+INV_001845,2023-03-12,STORE_5757,Stockholm Systembolaget,Malmö,Spirits,22,4303.97
+INV_001846,2023-02-18,STORE_1079,Malmö Spritbutiken,Göteborg,Whiskey,12,5501.01
+INV_001847,2023-03-03,STORE_4093,Göteborg Vinkällaren,Stockholm,Spirits,32,15882.07
+INV_001848,2023-01-01,STORE_8903,Malmö Spritbutiken,Uppsala,Whiskey,1,361.29
+INV_001849,2023-01-22,STORE_9213,Göteborg Vinkällaren,Uppsala,Champagne,22,6816.27
+INV_001850,2023-03-12,STORE_2505,Malmö Spritbutiken,Stockholm,Champagne,40,16504.57
+INV_001851,2023-02-25,STORE_6613,Malmö Spritbutiken,Lund,Champagne,47,19493.01
+INV_001852,2023-01-23,STORE_3152,Stockholm Systembolaget,Göteborg,Champagne,34,7696.7
+INV_001853,2023-02-09,STORE_1934,Stockholm Systembolaget,Lund,Champagne,24,11464.02
+INV_001854,2023-01-14,STORE_1892,Göteborg Vinkällaren,Uppsala,Whiskey,4,538.94
+INV_001855,2023-01-06,STORE_4996,Malmö Spritbutiken,Göteborg,White Wine,22,5331.58
+INV_001856,2023-01-02,STORE_2465,Malmö Spritbutiken,Lund,Red Wine,21,7673.7
+INV_001857,2023-01-25,STORE_1917,Göteborg Vinkällaren,Uppsala,Champagne,42,18731.13
+INV_001858,2023-01-01,STORE_5704,Malmö Spritbutiken,Lund,Spirits,45,4366.88
+INV_001859,2023-02-18,STORE_6084,Göteborg Vinkällaren,Malmö,Champagne,44,21542.58
+INV_001860,2023-03-06,STORE_1294,Göteborg Vinkällaren,Lund,White Wine,9,3936.86
+INV_001861,2023-01-27,STORE_7526,Göteborg Vinkällaren,Stockholm,White Wine,29,14288.53
+INV_001862,2023-03-26,STORE_4188,Göteborg Vinkällaren,Göteborg,Red Wine,8,1359.81
+INV_001863,2023-02-18,STORE_1318,Stockholm Systembolaget,Malmö,White Wine,8,1528.76
+INV_001864,2023-01-28,STORE_6367,Stockholm Systembolaget,Uppsala,Red Wine,43,7870.33
+INV_001865,2023-03-30,STORE_1664,Malmö Spritbutiken,Stockholm,Red Wine,48,10857.74
+INV_001866,2023-01-01,STORE_9728,Malmö Spritbutiken,Göteborg,Beer,50,3547.54
+INV_001867,2023-03-14,STORE_5266,Göteborg Vinkällaren,Stockholm,Champagne,46,20013.44
+INV_001868,2023-02-08,STORE_6583,Malmö Spritbutiken,Lund,Beer,23,4268.54
+INV_001869,2023-03-14,STORE_9890,Malmö Spritbutiken,Uppsala,Champagne,13,3158.43
+INV_001870,2023-02-09,STORE_6009,Göteborg Vinkällaren,Uppsala,White Wine,33,13100.56
+INV_001871,2023-03-21,STORE_8406,Malmö Spritbutiken,Göteborg,White Wine,2,360.04
+INV_001872,2023-02-06,STORE_4689,Stockholm Systembolaget,Uppsala,White Wine,4,1867.76
+INV_001873,2023-03-21,STORE_8658,Göteborg Vinkällaren,Uppsala,Red Wine,36,1901.65
+INV_001874,2023-01-07,STORE_4212,Stockholm Systembolaget,Stockholm,Beer,8,731.03
+INV_001875,2023-03-01,STORE_5523,Göteborg Vinkällaren,Stockholm,Whiskey,7,3117.74
+INV_001876,2023-03-23,STORE_1556,Malmö Spritbutiken,Uppsala,Whiskey,48,11883.93
+INV_001877,2023-03-15,STORE_9334,Malmö Spritbutiken,Uppsala,Whiskey,11,613.62
+INV_001878,2023-01-27,STORE_6051,Malmö Spritbutiken,Uppsala,Spirits,48,16372.63
+INV_001879,2023-03-27,STORE_9613,Göteborg Vinkällaren,Göteborg,Beer,39,18728.08
+INV_001880,2023-02-19,STORE_2205,Malmö Spritbutiken,Lund,Whiskey,22,2114.11
+INV_001881,2023-04-01,STORE_6374,Göteborg Vinkällaren,Uppsala,Whiskey,14,4571.57
+INV_001882,2023-01-25,STORE_1866,Stockholm Systembolaget,Lund,White Wine,19,5349.87
+INV_001883,2023-03-27,STORE_5887,Stockholm Systembolaget,Göteborg,Whiskey,47,17044.31
+INV_001884,2023-03-22,STORE_1264,Göteborg Vinkällaren,Lund,Champagne,19,6351.32
+INV_001885,2023-03-01,STORE_6853,Stockholm Systembolaget,Stockholm,Beer,50,24132.83
+INV_001886,2023-03-11,STORE_5212,Göteborg Vinkällaren,Lund,Whiskey,15,3325.76
+INV_001887,2023-02-23,STORE_4484,Malmö Spritbutiken,Göteborg,White Wine,31,4762.81
+INV_001888,2023-01-04,STORE_6490,Malmö Spritbutiken,Stockholm,Whiskey,32,7094.16
+INV_001889,2023-02-17,STORE_6818,Stockholm Systembolaget,Malmö,Red Wine,20,2042.4
+INV_001890,2023-01-15,STORE_3176,Malmö Spritbutiken,Uppsala,Spirits,15,4748.36
+INV_001891,2023-01-12,STORE_3942,Göteborg Vinkällaren,Lund,Spirits,48,15568.92
+INV_001892,2023-03-03,STORE_3633,Stockholm Systembolaget,Malmö,Spirits,22,7323.91
+INV_001893,2023-01-09,STORE_9922,Göteborg Vinkällaren,Stockholm,Red Wine,29,2116.93
+INV_001894,2023-03-13,STORE_5917,Stockholm Systembolaget,Lund,Spirits,11,5034.68
+INV_001895,2023-01-06,STORE_6340,Malmö Spritbutiken,Lund,Beer,21,6817.97
+INV_001896,2023-02-16,STORE_2355,Göteborg Vinkällaren,Göteborg,Beer,3,795.41
+INV_001897,2023-03-13,STORE_8984,Stockholm Systembolaget,Uppsala,White Wine,15,775.74
+INV_001898,2023-02-03,STORE_9763,Stockholm Systembolaget,Lund,White Wine,7,2549.49
+INV_001899,2023-03-30,STORE_6957,Göteborg Vinkällaren,Göteborg,Whiskey,23,4252.31
+INV_001900,2023-02-09,STORE_7337,Göteborg Vinkällaren,Göteborg,White Wine,21,5332.89
+INV_001901,2023-03-06,STORE_8969,Malmö Spritbutiken,Göteborg,Spirits,14,2737.84
+INV_001902,2023-03-29,STORE_6169,Stockholm Systembolaget,Lund,Beer,7,2929.97
+INV_001903,2023-03-19,STORE_3412,Göteborg Vinkällaren,Göteborg,Spirits,2,589.38
+INV_001904,2023-03-10,STORE_2980,Malmö Spritbutiken,Malmö,White Wine,36,13393.49
+INV_001905,2023-02-10,STORE_6414,Malmö Spritbutiken,Göteborg,Spirits,15,1441.31
+INV_001906,2023-03-29,STORE_6935,Malmö Spritbutiken,Stockholm,Beer,47,7549.14
+INV_001907,2023-03-08,STORE_2256,Göteborg Vinkällaren,Stockholm,Whiskey,16,1058.1
+INV_001908,2023-01-05,STORE_7628,Göteborg Vinkällaren,Göteborg,Spirits,39,13207.29
+INV_001909,2023-02-06,STORE_3812,Stockholm Systembolaget,Malmö,Whiskey,49,13292.76
+INV_001910,2023-01-09,STORE_1585,Stockholm Systembolaget,Göteborg,Champagne,28,12378.34
+INV_001911,2023-01-19,STORE_1202,Stockholm Systembolaget,Stockholm,Beer,46,18251.4
+INV_001912,2023-03-19,STORE_3868,Malmö Spritbutiken,Uppsala,Beer,11,4064.32
+INV_001913,2023-02-14,STORE_9825,Stockholm Systembolaget,Malmö,Spirits,33,10476.63
+INV_001914,2023-01-29,STORE_5834,Göteborg Vinkällaren,Stockholm,White Wine,47,11083.84
+INV_001915,2023-02-17,STORE_2464,Stockholm Systembolaget,Malmö,Spirits,6,545.99
+INV_001916,2023-03-28,STORE_4923,Malmö Spritbutiken,Göteborg,White Wine,21,3726.05
+INV_001917,2023-02-04,STORE_5426,Malmö Spritbutiken,Malmö,Whiskey,13,5533.16
+INV_001918,2023-02-21,STORE_5989,Göteborg Vinkällaren,Uppsala,Whiskey,18,6892.38
+INV_001919,2023-02-25,STORE_6912,Stockholm Systembolaget,Stockholm,Beer,24,11944.01
+INV_001920,2023-02-08,STORE_8839,Malmö Spritbutiken,Lund,Beer,46,6988.86
+INV_001921,2023-01-24,STORE_9417,Malmö Spritbutiken,Uppsala,Champagne,43,19252.51
+INV_001922,2023-03-21,STORE_6986,Malmö Spritbutiken,Stockholm,Champagne,49,6403.99
+INV_001923,2023-02-20,STORE_2448,Göteborg Vinkällaren,Göteborg,Champagne,11,3667.87
+INV_001924,2023-02-23,STORE_1980,Stockholm Systembolaget,Lund,Spirits,22,6333.76
+INV_001925,2023-02-01,STORE_1341,Göteborg Vinkällaren,Uppsala,White Wine,4,313.59
+INV_001926,2023-02-27,STORE_2120,Göteborg Vinkällaren,Malmö,White Wine,29,12986.53
+INV_001927,2023-01-18,STORE_5428,Malmö Spritbutiken,Göteborg,Red Wine,12,4100.99
+INV_001928,2023-02-15,STORE_9988,Göteborg Vinkällaren,Malmö,Red Wine,47,17459.45
+INV_001929,2023-03-07,STORE_7522,Göteborg Vinkällaren,Malmö,Beer,44,9330.19
+INV_001930,2023-03-16,STORE_6121,Göteborg Vinkällaren,Malmö,White Wine,16,6510.26
+INV_001931,2023-03-20,STORE_7094,Malmö Spritbutiken,Stockholm,Whiskey,5,2220.21
+INV_001932,2023-02-09,STORE_9824,Stockholm Systembolaget,Uppsala,Whiskey,48,4626.61
+INV_001933,2023-01-30,STORE_5320,Malmö Spritbutiken,Malmö,Red Wine,50,8116.71
+INV_001934,2023-03-25,STORE_6444,Malmö Spritbutiken,Lund,Spirits,12,3105.54
+INV_001935,2023-03-12,STORE_6945,Stockholm Systembolaget,Uppsala,Champagne,34,5575.22
+INV_001936,2023-03-02,STORE_5749,Göteborg Vinkällaren,Göteborg,Beer,25,8198.93
+INV_001937,2023-02-15,STORE_1890,Göteborg Vinkällaren,Stockholm,Beer,18,1088.58
+INV_001938,2023-01-31,STORE_2395,Göteborg Vinkällaren,Malmö,Whiskey,49,20547.73
+INV_001939,2023-01-04,STORE_5626,Göteborg Vinkällaren,Malmö,Champagne,9,1588.23
+INV_001940,2023-01-31,STORE_5338,Göteborg Vinkällaren,Stockholm,Beer,4,1353.36
+INV_001941,2023-02-08,STORE_5652,Malmö Spritbutiken,Malmö,White Wine,30,10430.27
+INV_001942,2023-01-29,STORE_6232,Stockholm Systembolaget,Göteborg,Spirits,39,4222.87
+INV_001943,2023-02-17,STORE_7133,Malmö Spritbutiken,Uppsala,Beer,26,12501.2
+INV_001944,2023-02-15,STORE_6604,Göteborg Vinkällaren,Lund,Red Wine,16,2309.9
+INV_001945,2023-02-12,STORE_6046,Stockholm Systembolaget,Lund,White Wine,41,6127.78
+INV_001946,2023-03-12,STORE_7590,Malmö Spritbutiken,Malmö,Beer,18,6335.65
+INV_001947,2023-03-14,STORE_4226,Stockholm Systembolaget,Lund,Spirits,31,6516.97
+INV_001948,2023-02-13,STORE_5426,Göteborg Vinkällaren,Malmö,Spirits,11,3312.99
+INV_001949,2023-03-17,STORE_4080,Stockholm Systembolaget,Stockholm,Red Wine,31,2246.49
+INV_001950,2023-03-09,STORE_7502,Malmö Spritbutiken,Uppsala,Spirits,39,19464.41
+INV_001951,2023-01-08,STORE_5818,Göteborg Vinkällaren,Malmö,Whiskey,2,738.03
+INV_001952,2023-02-26,STORE_6971,Göteborg Vinkällaren,Lund,Champagne,2,735.71
+INV_001953,2023-03-14,STORE_8562,Malmö Spritbutiken,Göteborg,Spirits,24,7474.64
+INV_001954,2023-02-20,STORE_7360,Göteborg Vinkällaren,Göteborg,Whiskey,48,22855.95
+INV_001955,2023-01-05,STORE_6351,Stockholm Systembolaget,Malmö,White Wine,32,10368.7
+INV_001956,2023-01-12,STORE_9031,Stockholm Systembolaget,Malmö,White Wine,16,5311.2
+INV_001957,2023-01-24,STORE_3425,Malmö Spritbutiken,Stockholm,Spirits,8,2245.32
+INV_001958,2023-01-09,STORE_6281,Göteborg Vinkällaren,Uppsala,White Wine,39,6325.21
+INV_001959,2023-04-01,STORE_3904,Göteborg Vinkällaren,Lund,Red Wine,6,997.14
+INV_001960,2023-01-13,STORE_4467,Malmö Spritbutiken,Göteborg,Beer,43,21290.56
+INV_001961,2023-03-10,STORE_5589,Göteborg Vinkällaren,Stockholm,White Wine,50,19571.51
+INV_001962,2023-02-16,STORE_6084,Stockholm Systembolaget,Lund,Beer,15,2029.42
+INV_001963,2023-02-07,STORE_7284,Stockholm Systembolaget,Göteborg,Red Wine,45,5099.91
+INV_001964,2023-02-15,STORE_9608,Malmö Spritbutiken,Uppsala,Whiskey,39,12602.68
+INV_001965,2023-03-05,STORE_1417,Stockholm Systembolaget,Göteborg,Spirits,50,19812.46
+INV_001966,2023-03-11,STORE_7338,Malmö Spritbutiken,Uppsala,Champagne,36,15359.96
+INV_001967,2023-02-27,STORE_2072,Malmö Spritbutiken,Malmö,Spirits,39,5055.93
+INV_001968,2023-02-13,STORE_3923,Malmö Spritbutiken,Stockholm,White Wine,5,2180.91
+INV_001969,2023-02-05,STORE_6656,Stockholm Systembolaget,Uppsala,Whiskey,40,9595.4
+INV_001970,2023-01-30,STORE_9607,Stockholm Systembolaget,Uppsala,Red Wine,4,1984.93
+INV_001971,2023-01-15,STORE_2120,Malmö Spritbutiken,Lund,Red Wine,46,11898.94
+INV_001972,2023-02-13,STORE_3500,Göteborg Vinkällaren,Malmö,Red Wine,32,5260.94
+INV_001973,2023-03-24,STORE_2389,Göteborg Vinkällaren,Uppsala,Beer,46,2361.29
+INV_001974,2023-01-23,STORE_5890,Malmö Spritbutiken,Stockholm,Whiskey,44,15332.77
+INV_001975,2023-01-02,STORE_8503,Malmö Spritbutiken,Stockholm,Spirits,13,5623.02
+INV_001976,2023-03-12,STORE_8274,Stockholm Systembolaget,Uppsala,White Wine,3,1454.7
+INV_001977,2023-02-21,STORE_4277,Göteborg Vinkällaren,Göteborg,Beer,40,2752.4
+INV_001978,2023-01-29,STORE_9175,Göteborg Vinkällaren,Lund,Spirits,44,7458.05
+INV_001979,2023-03-09,STORE_8968,Stockholm Systembolaget,Stockholm,Whiskey,23,9538.6
+INV_001980,2023-01-28,STORE_1327,Göteborg Vinkällaren,Göteborg,Champagne,31,11521.01
+INV_001981,2023-02-10,STORE_6999,Malmö Spritbutiken,Göteborg,Red Wine,12,2879.68
+INV_001982,2023-03-19,STORE_9466,Stockholm Systembolaget,Malmö,White Wine,7,1755.84
+INV_001983,2023-02-16,STORE_5778,Malmö Spritbutiken,Malmö,Beer,41,4879.51
+INV_001984,2023-02-26,STORE_2459,Malmö Spritbutiken,Uppsala,White Wine,26,9733.83
+INV_001985,2023-03-29,STORE_7445,Göteborg Vinkällaren,Stockholm,Spirits,43,3797.48
+INV_001986,2023-02-01,STORE_8726,Stockholm Systembolaget,Malmö,Spirits,21,1291.0
+INV_001987,2023-03-27,STORE_8295,Malmö Spritbutiken,Lund,White Wine,23,3468.99
+INV_001988,2023-02-22,STORE_9082,Göteborg Vinkällaren,Göteborg,Champagne,38,17851.28
+INV_001989,2023-02-14,STORE_2387,Malmö Spritbutiken,Lund,White Wine,18,8511.7
+INV_001990,2023-02-12,STORE_7996,Stockholm Systembolaget,Lund,Whiskey,27,1950.82
+INV_001991,2023-01-07,STORE_2944,Göteborg Vinkällaren,Uppsala,Whiskey,12,5504.37
+INV_001992,2023-03-01,STORE_3700,Stockholm Systembolaget,Malmö,White Wine,1,342.58
+INV_001993,2023-03-21,STORE_1465,Göteborg Vinkällaren,Stockholm,Spirits,48,11298.11
+INV_001994,2023-03-03,STORE_5473,Göteborg Vinkällaren,Göteborg,Red Wine,34,10154.95
+INV_001995,2023-03-07,STORE_9153,Stockholm Systembolaget,Malmö,White Wine,43,19511.08
+INV_001996,2023-02-22,STORE_5998,Stockholm Systembolaget,Stockholm,Whiskey,29,2827.4
+INV_001997,2023-01-26,STORE_7233,Malmö Spritbutiken,Stockholm,Beer,3,514.55
+INV_001998,2023-01-12,STORE_8192,Göteborg Vinkällaren,Uppsala,Champagne,2,788.37
+INV_001999,2023-03-10,STORE_1211,Malmö Spritbutiken,Malmö,Red Wine,4,254.97

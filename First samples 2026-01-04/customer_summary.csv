@@ -1,0 +1,1001 @@
+customer_id,total_sessions,total_transactions,total_revenue_sek,total_pageviews,avg_time_on_site,first_traffic_source,primary_device,country
+CLIENT_100022,1,3,36044.38,23,1636.0,google,mobile,United States
+CLIENT_100100,1,1,6040.6,48,479.0,direct,tablet,Sweden
+CLIENT_100107,1,1,17731.74,42,1713.0,google,tablet,France
+CLIENT_100550,1,1,38895.32,45,817.0,google,tablet,France
+CLIENT_100658,1,1,14999.28,3,885.0,google,tablet,Sweden
+CLIENT_101108,1,3,8382.16,46,1146.0,referral,tablet,Germany
+CLIENT_101495,1,1,43545.88,7,306.0,referral,mobile,United Kingdom
+CLIENT_102426,1,1,34414.82,16,155.0,email,desktop,France
+CLIENT_102798,1,1,31347.43,28,1450.0,google,mobile,United States
+CLIENT_103218,1,1,41808.84,5,872.0,direct,tablet,United Kingdom
+CLIENT_105668,1,3,36632.84,46,954.0,google,tablet,United States
+CLIENT_106467,1,3,39734.8,44,1517.0,email,desktop,Germany
+CLIENT_110100,1,3,36126.9,24,1101.0,email,tablet,United States
+CLIENT_112549,1,2,27609.42,9,1048.0,google,desktop,Germany
+CLIENT_112559,1,1,36117.97,26,664.0,direct,tablet,United Kingdom
+CLIENT_112880,1,1,41005.72,41,514.0,email,desktop,United Kingdom
+CLIENT_113855,1,1,11060.6,34,231.0,facebook,mobile,United Kingdom
+CLIENT_115230,1,1,36676.28,21,1424.0,direct,desktop,United States
+CLIENT_115498,1,3,16423.11,23,677.0,google,desktop,France
+CLIENT_115515,1,1,32105.63,13,1136.0,email,desktop,Germany
+CLIENT_116416,1,1,16378.06,40,83.0,direct,desktop,United States
+CLIENT_117657,1,3,9560.39,22,589.0,referral,mobile,France
+CLIENT_118267,1,1,35285.55,36,1551.0,google,tablet,Germany
+CLIENT_121336,1,1,15237.91,24,502.0,direct,tablet,United Kingdom
+CLIENT_121822,1,1,47185.0,6,1489.0,direct,desktop,France
+CLIENT_122275,1,3,26168.94,8,781.0,direct,tablet,Sweden
+CLIENT_122407,1,1,16628.77,18,131.0,facebook,tablet,France
+CLIENT_123419,1,3,34332.08,38,135.0,direct,mobile,Germany
+CLIENT_127532,1,1,48368.88,20,1105.0,direct,tablet,Germany
+CLIENT_128353,1,2,40671.81,7,704.0,facebook,mobile,Germany
+CLIENT_130153,1,1,15902.43,17,815.0,direct,mobile,Germany
+CLIENT_131345,1,1,28096.69,46,46.0,google,desktop,Sweden
+CLIENT_131452,1,2,30869.24,38,1178.0,facebook,desktop,United States
+CLIENT_131475,1,2,3459.21,44,1416.0,email,mobile,France
+CLIENT_131616,1,2,41215.17,2,424.0,facebook,desktop,Germany
+CLIENT_132283,1,1,38997.92,40,138.0,direct,desktop,United States
+CLIENT_132753,1,1,2536.88,12,699.0,email,tablet,France
+CLIENT_133143,1,1,44041.17,3,1480.0,referral,mobile,France
+CLIENT_133625,1,1,9853.69,10,369.0,referral,mobile,United Kingdom
+CLIENT_133881,1,3,48703.94,34,431.0,google,tablet,Germany
+CLIENT_135079,1,2,15911.07,28,803.0,referral,mobile,United Kingdom
+CLIENT_137655,1,1,13575.29,16,1761.0,google,tablet,France
+CLIENT_138501,1,1,33541.51,46,1230.0,google,desktop,United States
+CLIENT_139597,1,1,18455.88,20,251.0,referral,mobile,Sweden
+CLIENT_141241,1,3,46427.85,50,1085.0,facebook,desktop,France
+CLIENT_142100,1,1,3176.42,22,1435.0,referral,tablet,Germany
+CLIENT_142482,1,1,44426.18,23,443.0,direct,tablet,United States
+CLIENT_142659,1,3,29981.76,35,874.0,facebook,tablet,United Kingdom
+CLIENT_144007,1,3,9901.72,6,572.0,direct,mobile,France
+CLIENT_145018,1,1,32182.06,48,944.0,referral,mobile,United Kingdom
+CLIENT_145777,1,1,14802.85,26,314.0,google,desktop,United States
+CLIENT_146571,1,1,25254.14,21,1587.0,direct,mobile,France
+CLIENT_149035,1,2,3453.41,24,1376.0,referral,mobile,France
+CLIENT_149737,1,3,30878.69,29,108.0,email,mobile,France
+CLIENT_151647,1,3,19055.38,6,257.0,referral,desktop,France
+CLIENT_153388,1,1,7009.18,15,879.0,facebook,mobile,Germany
+CLIENT_155172,1,3,20099.9,4,298.0,referral,mobile,United States
+CLIENT_156382,1,2,38362.93,39,1665.0,google,tablet,United States
+CLIENT_157401,1,2,12777.81,32,1689.0,facebook,mobile,France
+CLIENT_157621,1,1,8749.16,43,1266.0,referral,desktop,France
+CLIENT_158038,1,3,11139.09,36,1018.0,referral,desktop,United States
+CLIENT_159053,1,1,13128.25,25,1545.0,facebook,tablet,Sweden
+CLIENT_160882,1,1,20518.52,43,276.0,direct,mobile,France
+CLIENT_161469,1,1,37743.07,10,1206.0,referral,tablet,Sweden
+CLIENT_163271,1,1,35599.65,16,1539.0,direct,desktop,Sweden
+CLIENT_164466,1,1,39005.89,6,1262.0,facebook,mobile,United Kingdom
+CLIENT_166699,1,3,29956.21,24,101.0,referral,mobile,Germany
+CLIENT_168826,1,1,31132.63,48,1610.0,google,desktop,United States
+CLIENT_170330,1,1,35401.91,44,1309.0,email,desktop,Germany
+CLIENT_170640,1,3,12345.57,40,1224.0,google,desktop,United Kingdom
+CLIENT_171060,1,1,30596.02,37,1656.0,direct,desktop,France
+CLIENT_171963,1,1,38659.82,23,1432.0,direct,tablet,Germany
+CLIENT_172210,1,3,47295.7,18,646.0,google,mobile,United Kingdom
+CLIENT_172276,1,1,44075.46,6,685.0,email,tablet,United States
+CLIENT_174661,1,1,12144.12,18,1729.0,direct,tablet,France
+CLIENT_175823,1,1,24783.48,11,1460.0,google,mobile,United Kingdom
+CLIENT_176601,1,2,38494.38,8,1661.0,email,mobile,Sweden
+CLIENT_176699,1,1,6928.59,10,1616.0,referral,mobile,United Kingdom
+CLIENT_176987,1,3,3844.65,39,1200.0,facebook,tablet,United Kingdom
+CLIENT_177041,1,1,27193.07,34,651.0,google,desktop,Sweden
+CLIENT_177136,1,1,15264.9,13,1362.0,email,desktop,Sweden
+CLIENT_177967,1,1,36369.93,35,1483.0,referral,mobile,Germany
+CLIENT_178463,1,2,49223.72,12,1093.0,google,desktop,Germany
+CLIENT_178658,1,1,42661.27,40,1393.0,email,tablet,Sweden
+CLIENT_180501,1,1,14392.5,28,53.0,direct,desktop,Germany
+CLIENT_180648,1,1,18915.45,41,964.0,referral,tablet,Sweden
+CLIENT_180675,1,1,47391.06,37,1426.0,direct,mobile,United States
+CLIENT_180942,1,1,37830.21,48,1142.0,email,mobile,Germany
+CLIENT_181316,1,2,14812.74,49,1761.0,email,desktop,United Kingdom
+CLIENT_182064,1,3,35312.57,28,259.0,facebook,mobile,Sweden
+CLIENT_182199,1,1,7288.53,16,1561.0,referral,desktop,Sweden
+CLIENT_182300,1,1,37583.45,2,1164.0,google,mobile,Germany
+CLIENT_182953,1,1,2372.78,7,559.0,direct,tablet,United States
+CLIENT_184508,1,1,10165.1,16,740.0,referral,mobile,France
+CLIENT_185754,1,1,9898.48,17,1217.0,google,desktop,Germany
+CLIENT_186170,1,1,27797.99,47,605.0,facebook,mobile,United Kingdom
+CLIENT_186896,1,1,25519.86,14,1231.0,direct,desktop,Sweden
+CLIENT_187171,1,2,38005.62,21,828.0,email,tablet,Sweden
+CLIENT_187574,1,1,42632.14,2,970.0,facebook,desktop,Germany
+CLIENT_188496,1,1,49635.52,24,1212.0,direct,desktop,Germany
+CLIENT_188593,1,2,25909.42,35,1327.0,email,desktop,Germany
+CLIENT_188718,1,1,33139.73,21,387.0,facebook,desktop,Germany
+CLIENT_189103,1,2,16050.04,50,989.0,facebook,desktop,United Kingdom
+CLIENT_192979,1,2,20748.08,12,36.0,email,tablet,Sweden
+CLIENT_193590,1,3,9609.06,44,712.0,direct,tablet,Sweden
+CLIENT_195909,1,1,46740.74,41,1568.0,email,tablet,United Kingdom
+CLIENT_196866,1,3,24697.43,13,1456.0,direct,desktop,Sweden
+CLIENT_197313,1,1,11140.28,11,1000.0,direct,tablet,Germany
+CLIENT_198530,1,1,9001.28,48,1359.0,direct,mobile,United States
+CLIENT_198741,1,3,30237.8,40,723.0,facebook,desktop,United Kingdom
+CLIENT_199087,1,3,44905.63,20,178.0,referral,tablet,Sweden
+CLIENT_200512,1,3,17093.81,26,1755.0,google,tablet,United Kingdom
+CLIENT_200777,1,2,41475.29,28,1623.0,direct,desktop,France
+CLIENT_201265,1,1,9028.75,8,1149.0,facebook,desktop,France
+CLIENT_201684,1,1,45240.23,15,343.0,email,tablet,Germany
+CLIENT_202174,1,1,15050.6,26,1038.0,email,desktop,United States
+CLIENT_202727,1,2,11955.22,48,1769.0,referral,mobile,Germany
+CLIENT_202969,1,1,21359.09,49,1018.0,facebook,mobile,United States
+CLIENT_203037,1,1,28385.57,28,374.0,facebook,tablet,United States
+CLIENT_203200,1,2,37687.59,46,1527.0,email,mobile,United Kingdom
+CLIENT_203734,1,2,49127.33,9,1079.0,referral,tablet,United Kingdom
+CLIENT_204651,1,1,23134.92,14,776.0,facebook,mobile,United Kingdom
+CLIENT_205079,1,2,29212.29,46,930.0,facebook,tablet,France
+CLIENT_205149,1,3,7359.65,7,223.0,direct,tablet,France
+CLIENT_206221,1,1,36748.79,3,1489.0,direct,tablet,France
+CLIENT_206986,1,3,24757.73,44,40.0,referral,tablet,United Kingdom
+CLIENT_207775,1,3,39466.95,36,525.0,referral,tablet,Germany
+CLIENT_207829,1,1,9403.95,45,159.0,direct,desktop,Germany
+CLIENT_207893,1,3,16809.01,39,1211.0,email,mobile,United Kingdom
+CLIENT_208365,1,1,23755.33,19,921.0,direct,desktop,France
+CLIENT_208892,1,1,29234.67,4,1591.0,google,tablet,France
+CLIENT_210837,1,2,11242.27,28,1191.0,referral,desktop,United Kingdom
+CLIENT_211066,1,3,6210.22,18,1230.0,referral,tablet,Germany
+CLIENT_212488,1,2,43086.4,47,1330.0,facebook,desktop,Sweden
+CLIENT_212865,1,1,34387.78,31,497.0,facebook,tablet,United Kingdom
+CLIENT_212868,1,2,49389.15,15,483.0,referral,mobile,Sweden
+CLIENT_213965,1,1,20338.67,22,777.0,referral,desktop,France
+CLIENT_215050,1,3,10637.89,20,286.0,google,tablet,France
+CLIENT_215814,1,1,47854.0,20,1129.0,facebook,mobile,France
+CLIENT_216456,1,3,17962.33,26,1611.0,google,mobile,United States
+CLIENT_219743,1,1,18422.06,22,1790.0,direct,desktop,United States
+CLIENT_220365,1,1,35484.76,20,551.0,email,tablet,Germany
+CLIENT_220988,1,2,48124.25,50,437.0,google,desktop,United Kingdom
+CLIENT_221309,1,1,9425.95,13,267.0,facebook,tablet,France
+CLIENT_221680,1,1,24043.28,13,458.0,google,mobile,United States
+CLIENT_224174,1,1,10034.74,5,1495.0,facebook,desktop,United States
+CLIENT_224271,1,3,18555.08,46,1058.0,google,tablet,Sweden
+CLIENT_224533,1,3,9606.91,39,1754.0,referral,tablet,Germany
+CLIENT_224702,1,2,49479.11,34,1565.0,facebook,mobile,United Kingdom
+CLIENT_227644,1,1,17495.96,33,1089.0,google,tablet,Sweden
+CLIENT_227946,1,1,46757.86,27,1561.0,google,tablet,United States
+CLIENT_228270,1,3,22378.08,3,544.0,referral,desktop,United Kingdom
+CLIENT_228346,1,3,38819.44,10,1245.0,email,tablet,Germany
+CLIENT_230203,1,1,25792.98,46,1055.0,email,mobile,United States
+CLIENT_230551,1,1,42002.61,33,416.0,direct,desktop,Germany
+CLIENT_230726,1,1,16087.22,43,1335.0,referral,mobile,United States
+CLIENT_231047,1,1,21366.13,13,1630.0,email,mobile,France
+CLIENT_231275,1,1,36104.33,4,416.0,direct,tablet,Sweden
+CLIENT_231394,1,1,33218.53,25,180.0,google,mobile,Sweden
+CLIENT_234247,1,1,20006.91,41,247.0,referral,mobile,Germany
+CLIENT_235689,1,1,15628.26,30,1543.0,google,desktop,Germany
+CLIENT_236345,1,1,37542.64,6,896.0,direct,tablet,Sweden
+CLIENT_236555,1,1,46157.46,6,381.0,facebook,desktop,Germany
+CLIENT_238359,1,2,23098.58,12,1702.0,google,tablet,United Kingdom
+CLIENT_238985,1,1,27822.28,22,1482.0,direct,mobile,Sweden
+CLIENT_246741,1,3,21555.06,22,719.0,referral,tablet,United Kingdom
+CLIENT_247623,1,1,39935.1,3,396.0,referral,desktop,United Kingdom
+CLIENT_247661,1,1,32384.35,13,1167.0,referral,mobile,Sweden
+CLIENT_248233,1,1,30648.25,50,1524.0,direct,desktop,Sweden
+CLIENT_251007,1,3,26666.76,33,879.0,referral,tablet,United States
+CLIENT_251034,1,2,11425.67,34,468.0,google,mobile,Sweden
+CLIENT_251105,1,1,40452.08,46,1586.0,email,desktop,Germany
+CLIENT_252612,1,1,16825.45,36,1567.0,google,tablet,Sweden
+CLIENT_256039,1,3,46961.38,33,712.0,direct,desktop,Germany
+CLIENT_257529,1,1,7360.55,40,586.0,referral,tablet,Sweden
+CLIENT_258076,1,3,22323.96,8,841.0,facebook,desktop,Germany
+CLIENT_258135,1,1,34468.5,8,578.0,facebook,desktop,France
+CLIENT_258595,1,1,7003.64,47,1437.0,direct,mobile,France
+CLIENT_259810,1,3,29164.05,32,901.0,referral,tablet,United States
+CLIENT_260260,1,3,29916.93,43,657.0,email,mobile,United States
+CLIENT_260886,1,1,31437.49,16,49.0,facebook,mobile,United States
+CLIENT_261829,1,3,5029.25,23,389.0,google,mobile,France
+CLIENT_262945,1,1,37772.62,20,1041.0,direct,tablet,Germany
+CLIENT_265160,1,1,33508.21,26,1232.0,google,mobile,United Kingdom
+CLIENT_267240,1,1,5106.74,3,1293.0,facebook,desktop,Sweden
+CLIENT_267746,1,1,18796.95,16,722.0,facebook,desktop,Sweden
+CLIENT_269467,1,3,28803.44,4,1751.0,direct,tablet,United States
+CLIENT_270175,1,3,6633.32,21,1164.0,referral,tablet,United States
+CLIENT_270423,1,1,25671.16,15,188.0,email,mobile,France
+CLIENT_270748,1,1,9599.88,10,1146.0,referral,tablet,United States
+CLIENT_271464,1,1,11555.92,4,1327.0,email,tablet,Germany
+CLIENT_272607,1,1,36406.91,37,766.0,referral,desktop,Germany
+CLIENT_273450,1,2,20614.06,45,674.0,email,tablet,Germany
+CLIENT_274530,1,1,38894.74,38,1366.0,facebook,mobile,France
+CLIENT_274571,1,1,21990.01,34,942.0,referral,tablet,United States
+CLIENT_275913,1,1,32725.34,26,1624.0,referral,desktop,Germany
+CLIENT_276292,1,3,25375.96,26,107.0,direct,tablet,France
+CLIENT_276970,1,1,47601.78,17,632.0,email,tablet,United Kingdom
+CLIENT_277107,1,2,35707.34,30,146.0,facebook,tablet,Sweden
+CLIENT_280568,1,3,5077.4,15,564.0,facebook,mobile,United States
+CLIENT_282923,1,1,21565.24,4,1033.0,direct,desktop,United Kingdom
+CLIENT_283003,1,2,10618.68,12,1475.0,facebook,mobile,United States
+CLIENT_284674,1,1,14203.26,20,1774.0,email,tablet,United Kingdom
+CLIENT_285478,1,1,44367.54,29,1519.0,referral,tablet,United Kingdom
+CLIENT_288485,1,3,21224.69,36,325.0,email,tablet,United Kingdom
+CLIENT_290113,1,3,3730.29,46,1014.0,email,desktop,United Kingdom
+CLIENT_291704,1,3,1215.82,38,1120.0,google,desktop,United States
+CLIENT_292418,1,1,21514.61,28,778.0,direct,tablet,United States
+CLIENT_293499,1,2,27770.23,7,1543.0,google,tablet,United States
+CLIENT_295025,1,1,48717.93,17,831.0,email,mobile,Sweden
+CLIENT_296940,1,1,40821.65,26,206.0,google,mobile,France
+CLIENT_298458,1,2,24611.38,50,1517.0,referral,tablet,Sweden
+CLIENT_299559,1,3,13493.15,21,1106.0,facebook,mobile,United Kingdom
+CLIENT_301536,1,1,21107.5,40,736.0,facebook,desktop,France
+CLIENT_304234,1,1,21381.86,26,515.0,email,tablet,United Kingdom
+CLIENT_304289,1,1,4078.69,18,1136.0,google,desktop,France
+CLIENT_305941,1,3,40875.89,2,437.0,referral,tablet,Germany
+CLIENT_310696,1,2,9537.95,49,1299.0,email,mobile,France
+CLIENT_310896,1,1,24023.25,27,172.0,direct,tablet,Sweden
+CLIENT_311485,1,1,30358.31,44,1287.0,referral,desktop,United Kingdom
+CLIENT_314092,1,1,37242.58,23,207.0,google,tablet,United Kingdom
+CLIENT_314503,1,1,39803.18,18,1175.0,direct,tablet,Sweden
+CLIENT_316812,1,1,30098.23,39,902.0,email,mobile,United Kingdom
+CLIENT_317030,1,3,6476.79,25,833.0,referral,mobile,Germany
+CLIENT_318378,1,3,21958.38,24,570.0,email,tablet,Sweden
+CLIENT_318633,1,1,18487.77,43,1654.0,facebook,mobile,United States
+CLIENT_320282,1,1,37871.11,35,621.0,google,mobile,United States
+CLIENT_321139,1,3,26861.09,20,415.0,referral,desktop,Germany
+CLIENT_322138,1,1,36371.51,29,1756.0,google,desktop,United States
+CLIENT_323440,1,2,42257.66,25,719.0,direct,mobile,United States
+CLIENT_323604,1,1,34237.14,8,199.0,email,tablet,United Kingdom
+CLIENT_326224,1,3,25706.33,29,777.0,direct,mobile,Germany
+CLIENT_326307,1,3,42228.13,3,588.0,direct,mobile,United Kingdom
+CLIENT_326399,1,1,17653.95,22,438.0,direct,tablet,France
+CLIENT_326460,1,1,34238.36,32,1054.0,email,desktop,Sweden
+CLIENT_327346,1,3,42029.41,48,789.0,email,tablet,France
+CLIENT_328409,1,2,20679.49,49,1224.0,google,tablet,United States
+CLIENT_328599,1,3,34476.71,45,342.0,direct,mobile,United Kingdom
+CLIENT_329413,1,1,26690.11,39,452.0,email,desktop,Sweden
+CLIENT_329568,1,1,45706.44,6,955.0,facebook,desktop,Germany
+CLIENT_329887,1,1,30029.05,6,391.0,google,mobile,France
+CLIENT_329983,1,3,44285.44,2,678.0,direct,tablet,United States
+CLIENT_330160,1,1,24607.58,28,401.0,direct,desktop,France
+CLIENT_330565,1,2,1832.61,35,1644.0,direct,tablet,United States
+CLIENT_331306,1,1,8564.74,9,635.0,facebook,tablet,United States
+CLIENT_331476,1,3,32454.3,32,1718.0,facebook,tablet,Sweden
+CLIENT_332525,1,1,23656.28,9,1570.0,referral,tablet,United Kingdom
+CLIENT_333065,1,3,11344.0,44,565.0,referral,desktop,Sweden
+CLIENT_334566,1,2,42673.37,28,1402.0,referral,mobile,France
+CLIENT_334834,1,1,8716.51,38,902.0,email,desktop,Germany
+CLIENT_336659,1,1,24172.5,42,1278.0,google,desktop,France
+CLIENT_336838,1,3,8486.28,46,716.0,email,tablet,United Kingdom
+CLIENT_338343,1,1,20589.24,18,955.0,facebook,mobile,United Kingdom
+CLIENT_340784,1,1,6191.14,14,1219.0,email,mobile,United States
+CLIENT_341236,1,1,46178.63,3,766.0,referral,desktop,Germany
+CLIENT_341481,1,1,20416.95,38,1779.0,referral,tablet,France
+CLIENT_342068,1,1,28464.11,42,808.0,direct,mobile,Germany
+CLIENT_342096,1,2,9727.02,11,1276.0,facebook,mobile,Germany
+CLIENT_342412,1,1,10054.0,24,572.0,referral,mobile,Sweden
+CLIENT_342494,1,1,21821.84,29,292.0,direct,tablet,United Kingdom
+CLIENT_342698,1,2,11227.51,50,1219.0,facebook,mobile,United Kingdom
+CLIENT_343554,1,1,12384.74,10,747.0,direct,tablet,Germany
+CLIENT_343628,1,1,49163.28,42,1582.0,email,mobile,United Kingdom
+CLIENT_344514,1,3,4142.12,28,154.0,google,tablet,United Kingdom
+CLIENT_345166,1,1,37931.92,10,1406.0,email,desktop,United States
+CLIENT_347598,1,3,47461.88,13,61.0,google,tablet,Germany
+CLIENT_347964,1,1,5322.08,36,1369.0,referral,mobile,France
+CLIENT_347995,1,2,18774.87,11,1487.0,referral,mobile,Germany
+CLIENT_351344,1,2,6359.78,20,260.0,referral,mobile,Sweden
+CLIENT_353025,1,1,49029.9,35,1249.0,direct,mobile,Germany
+CLIENT_353539,1,1,18935.35,15,1547.0,google,tablet,United Kingdom
+CLIENT_356513,1,1,37140.45,23,794.0,referral,desktop,Sweden
+CLIENT_357145,1,1,36653.87,35,71.0,google,tablet,Germany
+CLIENT_357812,1,2,41673.41,30,1352.0,referral,desktop,Germany
+CLIENT_361980,1,3,22229.74,18,52.0,direct,tablet,United Kingdom
+CLIENT_362519,1,2,1344.12,47,1297.0,email,mobile,Sweden
+CLIENT_362803,1,1,45510.53,16,597.0,facebook,tablet,United States
+CLIENT_364522,1,1,46031.78,10,1026.0,email,desktop,United States
+CLIENT_367522,1,2,10804.97,29,812.0,referral,desktop,United Kingdom
+CLIENT_368274,1,1,49504.95,9,388.0,email,desktop,United States
+CLIENT_368677,1,3,41460.64,24,103.0,direct,desktop,France
+CLIENT_368766,1,1,1061.58,39,48.0,email,tablet,United Kingdom
+CLIENT_369603,1,1,39639.06,19,557.0,referral,desktop,United Kingdom
+CLIENT_370191,1,2,30780.21,37,471.0,direct,desktop,Sweden
+CLIENT_370819,1,1,1210.23,20,1211.0,direct,mobile,United Kingdom
+CLIENT_371855,1,1,46405.03,28,346.0,referral,tablet,United States
+CLIENT_373171,1,1,19161.12,40,1149.0,google,mobile,United Kingdom
+CLIENT_374294,1,3,4231.98,12,363.0,google,tablet,Sweden
+CLIENT_374345,1,2,36092.24,44,503.0,referral,desktop,Sweden
+CLIENT_374513,1,3,39538.33,20,1117.0,direct,desktop,United States
+CLIENT_375025,1,1,37357.68,18,298.0,facebook,desktop,United Kingdom
+CLIENT_377048,1,1,11632.75,43,1318.0,direct,tablet,France
+CLIENT_377064,1,1,33463.7,29,284.0,referral,tablet,United States
+CLIENT_377132,1,3,48542.94,33,1303.0,facebook,mobile,United States
+CLIENT_377449,1,1,15265.41,29,1442.0,email,tablet,Germany
+CLIENT_378090,1,1,17927.08,12,930.0,google,desktop,United States
+CLIENT_378336,1,2,44836.93,29,1698.0,direct,mobile,France
+CLIENT_379130,1,1,43820.28,33,330.0,google,mobile,France
+CLIENT_379313,1,1,12082.05,43,536.0,facebook,mobile,United Kingdom
+CLIENT_382774,1,3,21104.7,35,1001.0,facebook,tablet,France
+CLIENT_383520,1,1,47600.42,23,571.0,direct,tablet,France
+CLIENT_383675,1,1,8419.0,43,1582.0,email,mobile,France
+CLIENT_383774,1,1,25339.96,29,471.0,facebook,mobile,United Kingdom
+CLIENT_384183,1,1,22137.2,41,1094.0,email,tablet,Germany
+CLIENT_384194,1,2,14544.47,37,696.0,direct,tablet,France
+CLIENT_385004,1,2,40912.07,33,489.0,direct,mobile,Germany
+CLIENT_387249,1,2,9314.35,2,1383.0,email,desktop,France
+CLIENT_389510,1,1,14101.45,19,686.0,referral,tablet,Sweden
+CLIENT_389608,1,1,21823.16,19,1371.0,referral,mobile,Germany
+CLIENT_390212,1,2,5087.4,7,801.0,email,mobile,United States
+CLIENT_390358,1,1,21712.01,44,1057.0,direct,mobile,France
+CLIENT_391101,1,2,18550.1,27,1016.0,referral,desktop,United Kingdom
+CLIENT_392509,1,2,11713.33,19,198.0,direct,tablet,Germany
+CLIENT_394170,1,2,49437.71,20,114.0,google,mobile,United States
+CLIENT_394482,1,1,9149.6,22,616.0,direct,mobile,United States
+CLIENT_395250,1,2,37599.04,28,392.0,facebook,mobile,Sweden
+CLIENT_395519,1,2,33344.05,18,401.0,facebook,tablet,United Kingdom
+CLIENT_396310,1,2,36010.52,8,457.0,email,tablet,France
+CLIENT_397848,1,1,21217.7,48,476.0,google,tablet,France
+CLIENT_398556,1,1,6821.46,30,519.0,direct,desktop,United States
+CLIENT_400565,1,1,21179.12,12,876.0,facebook,desktop,Sweden
+CLIENT_400838,1,1,29817.6,15,1204.0,facebook,desktop,United States
+CLIENT_401575,1,2,10679.68,40,590.0,google,mobile,Sweden
+CLIENT_401673,1,1,45751.58,22,1225.0,facebook,tablet,United States
+CLIENT_402998,1,1,37126.72,15,376.0,facebook,mobile,France
+CLIENT_403421,1,2,6990.71,12,461.0,facebook,mobile,France
+CLIENT_404737,1,1,41110.31,26,356.0,direct,mobile,United States
+CLIENT_405615,1,2,48397.66,23,1488.0,google,desktop,United States
+CLIENT_407963,1,1,5616.43,5,556.0,direct,desktop,Sweden
+CLIENT_410390,1,1,29265.23,8,1206.0,email,tablet,France
+CLIENT_412418,1,1,2198.68,48,620.0,facebook,tablet,France
+CLIENT_415054,1,1,7094.91,44,1714.0,facebook,desktop,Sweden
+CLIENT_416197,1,2,46006.27,25,226.0,direct,mobile,France
+CLIENT_417138,1,2,12954.93,33,1215.0,email,mobile,France
+CLIENT_417144,1,3,26584.97,2,631.0,facebook,mobile,Germany
+CLIENT_417559,1,1,14858.86,12,704.0,google,tablet,United States
+CLIENT_417632,1,1,45518.27,2,1732.0,facebook,tablet,Germany
+CLIENT_419662,1,2,5110.43,28,1701.0,google,tablet,Germany
+CLIENT_419726,1,2,26634.55,36,582.0,direct,tablet,United States
+CLIENT_419938,1,1,24141.81,49,1151.0,google,desktop,Germany
+CLIENT_421178,1,3,49687.95,35,30.0,email,tablet,Sweden
+CLIENT_421191,1,1,27952.19,3,285.0,direct,tablet,United States
+CLIENT_423334,1,1,34772.4,43,1170.0,referral,mobile,Sweden
+CLIENT_423532,1,1,30920.36,16,1508.0,referral,tablet,Germany
+CLIENT_426559,1,1,42254.77,13,1434.0,direct,desktop,United States
+CLIENT_429641,1,1,35833.71,19,1540.0,google,tablet,Germany
+CLIENT_432430,1,1,15182.94,16,1129.0,direct,mobile,France
+CLIENT_432487,1,1,6749.66,20,525.0,referral,desktop,United Kingdom
+CLIENT_432938,1,2,31822.69,13,1184.0,email,desktop,United States
+CLIENT_437523,1,1,36048.16,41,715.0,google,tablet,Sweden
+CLIENT_439116,1,3,31064.47,49,767.0,referral,mobile,United States
+CLIENT_439270,1,1,20290.02,29,1277.0,email,desktop,Sweden
+CLIENT_440471,1,3,20320.29,10,1768.0,referral,tablet,France
+CLIENT_441170,1,1,36546.31,22,1589.0,referral,tablet,France
+CLIENT_441409,1,1,32291.21,10,872.0,direct,desktop,United States
+CLIENT_441458,1,3,11705.88,9,1044.0,facebook,desktop,France
+CLIENT_441466,1,1,24649.09,10,1052.0,facebook,tablet,United Kingdom
+CLIENT_442852,1,3,34097.7,42,80.0,email,mobile,Sweden
+CLIENT_443306,1,1,14561.73,34,943.0,google,tablet,United Kingdom
+CLIENT_444110,1,3,35418.52,4,767.0,direct,mobile,Germany
+CLIENT_444839,1,2,9278.36,47,1731.0,referral,mobile,France
+CLIENT_447103,1,3,8062.54,15,1288.0,facebook,desktop,France
+CLIENT_448433,1,2,44258.67,50,1117.0,direct,mobile,Sweden
+CLIENT_449849,1,1,3353.49,37,884.0,email,tablet,Sweden
+CLIENT_450636,1,3,23511.1,23,187.0,facebook,desktop,United Kingdom
+CLIENT_452102,1,1,47586.68,27,292.0,direct,mobile,United States
+CLIENT_453078,1,1,47445.59,21,710.0,referral,tablet,United States
+CLIENT_455065,1,1,41453.7,50,1084.0,referral,mobile,United States
+CLIENT_455215,1,1,38562.52,8,262.0,facebook,desktop,Sweden
+CLIENT_455470,1,1,1702.94,44,283.0,google,tablet,United States
+CLIENT_456116,1,1,49327.68,4,602.0,email,tablet,United States
+CLIENT_456603,1,3,45835.61,45,1355.0,email,mobile,United Kingdom
+CLIENT_457741,1,3,14765.83,28,515.0,facebook,desktop,France
+CLIENT_459466,1,1,12080.9,10,30.0,facebook,desktop,Germany
+CLIENT_460247,1,1,23943.64,43,545.0,email,mobile,Sweden
+CLIENT_460407,1,1,11044.74,45,249.0,email,tablet,Sweden
+CLIENT_460911,1,3,47715.68,11,368.0,direct,mobile,Sweden
+CLIENT_461552,1,1,45405.92,15,532.0,referral,tablet,Sweden
+CLIENT_462007,1,1,6669.23,18,356.0,facebook,mobile,Sweden
+CLIENT_462403,1,1,33051.22,9,1161.0,email,tablet,United States
+CLIENT_462756,1,1,48298.16,41,223.0,referral,tablet,United Kingdom
+CLIENT_463972,1,1,44885.17,45,1485.0,referral,tablet,France
+CLIENT_464870,1,1,2367.46,17,292.0,email,mobile,United States
+CLIENT_464889,1,1,48503.76,27,1519.0,email,desktop,Sweden
+CLIENT_464923,1,1,6305.26,19,1291.0,google,desktop,France
+CLIENT_465164,1,1,4955.19,29,170.0,facebook,desktop,United Kingdom
+CLIENT_465585,1,1,8023.49,27,99.0,referral,tablet,France
+CLIENT_465814,1,2,12737.51,7,109.0,referral,desktop,United Kingdom
+CLIENT_466460,1,1,11456.57,3,1394.0,referral,desktop,United Kingdom
+CLIENT_466860,1,1,23072.54,15,717.0,email,mobile,Germany
+CLIENT_468284,1,1,45606.88,21,632.0,email,desktop,United Kingdom
+CLIENT_469392,1,1,9768.61,29,1526.0,referral,mobile,United States
+CLIENT_472112,1,1,40018.68,37,536.0,google,mobile,United Kingdom
+CLIENT_472621,1,3,18176.38,45,1024.0,google,desktop,Sweden
+CLIENT_472655,1,1,41847.79,26,1353.0,direct,desktop,Germany
+CLIENT_472783,1,3,1135.39,18,714.0,direct,mobile,United Kingdom
+CLIENT_480811,1,1,44687.74,21,311.0,google,mobile,United States
+CLIENT_481664,1,1,38106.58,6,1080.0,referral,mobile,United Kingdom
+CLIENT_481718,1,1,25110.22,3,1527.0,referral,mobile,Sweden
+CLIENT_481977,1,1,41370.97,6,1478.0,referral,tablet,United States
+CLIENT_482243,1,1,39687.79,25,999.0,email,mobile,France
+CLIENT_482475,1,1,26491.17,26,344.0,referral,desktop,Germany
+CLIENT_482909,1,1,46521.86,36,292.0,facebook,desktop,United States
+CLIENT_484205,1,1,39835.96,6,771.0,referral,tablet,United Kingdom
+CLIENT_485796,1,1,35164.36,25,1468.0,facebook,tablet,United States
+CLIENT_485922,1,2,26704.75,19,1691.0,email,tablet,France
+CLIENT_486795,1,3,3401.78,31,287.0,direct,mobile,United States
+CLIENT_486894,1,1,47247.39,43,1487.0,referral,desktop,Germany
+CLIENT_487075,1,2,13516.25,32,410.0,facebook,tablet,Sweden
+CLIENT_488983,1,1,8304.39,32,1586.0,direct,desktop,Germany
+CLIENT_490094,1,1,5607.43,47,1298.0,referral,tablet,Sweden
+CLIENT_490310,1,1,36338.76,24,1124.0,email,desktop,Sweden
+CLIENT_494807,1,1,38220.04,32,901.0,facebook,tablet,United States
+CLIENT_495624,1,1,32553.82,21,432.0,facebook,mobile,Germany
+CLIENT_495787,1,2,42022.29,37,429.0,direct,tablet,United Kingdom
+CLIENT_497136,1,2,2297.94,45,559.0,referral,desktop,Germany
+CLIENT_498293,1,2,25244.39,42,562.0,direct,tablet,United States
+CLIENT_498487,1,1,27579.12,22,865.0,direct,desktop,Sweden
+CLIENT_499357,1,1,48167.08,35,871.0,facebook,desktop,Germany
+CLIENT_499523,1,3,43109.12,35,1214.0,facebook,desktop,France
+CLIENT_499645,1,1,40475.48,37,472.0,email,desktop,Germany
+CLIENT_499806,1,1,12527.83,24,829.0,facebook,mobile,Germany
+CLIENT_500323,1,1,16145.87,36,506.0,email,tablet,France
+CLIENT_501498,1,1,43222.58,8,1045.0,email,mobile,United States
+CLIENT_501577,1,1,24217.65,43,823.0,direct,tablet,United States
+CLIENT_503391,1,1,5190.05,3,556.0,referral,desktop,United Kingdom
+CLIENT_504136,1,3,27176.93,8,1139.0,referral,tablet,United States
+CLIENT_506683,1,1,22661.8,7,759.0,facebook,mobile,United States
+CLIENT_506730,1,1,40742.66,9,846.0,referral,mobile,United Kingdom
+CLIENT_506855,1,1,22244.8,19,142.0,google,tablet,Germany
+CLIENT_507599,1,1,46333.71,40,1058.0,google,tablet,Sweden
+CLIENT_507828,1,1,37868.87,40,1783.0,direct,mobile,United Kingdom
+CLIENT_507845,1,1,24025.01,30,587.0,direct,tablet,France
+CLIENT_508226,1,2,27472.42,48,879.0,facebook,desktop,France
+CLIENT_508451,1,1,22362.95,6,529.0,google,mobile,United Kingdom
+CLIENT_508776,1,2,5011.37,32,874.0,email,mobile,United Kingdom
+CLIENT_509023,1,1,15988.38,6,517.0,email,tablet,France
+CLIENT_512987,1,1,46250.53,43,884.0,direct,tablet,Sweden
+CLIENT_512999,1,3,8221.76,27,552.0,google,mobile,United Kingdom
+CLIENT_513668,1,1,44778.6,40,764.0,referral,desktop,France
+CLIENT_513974,1,3,39911.01,16,1200.0,google,mobile,Sweden
+CLIENT_516805,1,1,1623.9,5,885.0,email,tablet,United States
+CLIENT_518471,1,1,32445.66,17,818.0,google,desktop,United States
+CLIENT_518972,1,1,33022.57,15,1018.0,referral,mobile,United States
+CLIENT_519686,1,1,29721.76,45,1190.0,referral,mobile,France
+CLIENT_520130,1,1,36804.7,11,1261.0,referral,tablet,France
+CLIENT_523507,1,1,10250.38,46,789.0,google,desktop,Germany
+CLIENT_525544,1,1,26277.93,21,720.0,email,tablet,Germany
+CLIENT_527744,1,3,32630.98,34,1469.0,google,tablet,Sweden
+CLIENT_527934,1,3,19559.86,45,1494.0,email,desktop,France
+CLIENT_528810,1,1,16410.38,30,883.0,direct,mobile,Germany
+CLIENT_529214,1,1,29798.23,26,63.0,facebook,desktop,Germany
+CLIENT_530386,1,1,19580.96,48,294.0,referral,tablet,Sweden
+CLIENT_530837,1,1,3153.84,39,410.0,google,desktop,Germany
+CLIENT_530959,1,1,40215.48,47,1239.0,facebook,mobile,Germany
+CLIENT_531837,1,1,1689.38,7,1451.0,email,mobile,United States
+CLIENT_533117,1,2,42977.4,44,1513.0,google,tablet,Germany
+CLIENT_533300,1,2,20254.88,38,1027.0,google,desktop,Sweden
+CLIENT_533334,1,1,33176.61,35,1257.0,email,tablet,United Kingdom
+CLIENT_534732,1,3,14127.35,34,712.0,direct,tablet,Sweden
+CLIENT_536171,1,1,34305.72,25,358.0,referral,mobile,France
+CLIENT_536190,1,1,25852.12,34,1154.0,facebook,mobile,France
+CLIENT_536234,1,3,26390.4,9,1289.0,facebook,tablet,United States
+CLIENT_537439,1,3,12908.48,11,981.0,direct,desktop,United Kingdom
+CLIENT_537480,1,3,44668.07,2,1397.0,facebook,mobile,Sweden
+CLIENT_537654,1,1,47574.04,45,131.0,referral,mobile,France
+CLIENT_537966,1,2,30949.9,3,1420.0,google,mobile,United States
+CLIENT_538590,1,1,33718.79,25,1549.0,referral,mobile,Germany
+CLIENT_539382,1,3,27157.09,3,1673.0,direct,desktop,Sweden
+CLIENT_539527,1,1,46805.97,42,752.0,google,mobile,Germany
+CLIENT_539692,1,1,49602.49,12,1235.0,direct,tablet,Germany
+CLIENT_540469,1,3,5691.48,2,526.0,email,mobile,Sweden
+CLIENT_542370,1,1,46270.55,29,1539.0,direct,mobile,United Kingdom
+CLIENT_542472,1,2,39417.15,16,1295.0,referral,desktop,United Kingdom
+CLIENT_542724,1,1,34365.37,28,1422.0,direct,mobile,Germany
+CLIENT_543364,1,3,11874.88,4,785.0,email,desktop,United States
+CLIENT_543414,1,1,28468.37,35,1102.0,facebook,tablet,United States
+CLIENT_544442,1,1,11771.26,49,271.0,email,mobile,United States
+CLIENT_546275,1,2,27611.22,26,50.0,direct,mobile,United States
+CLIENT_546570,1,1,36426.21,24,805.0,facebook,desktop,Germany
+CLIENT_547648,1,1,48987.94,32,1452.0,facebook,tablet,France
+CLIENT_548106,1,2,4233.92,2,134.0,referral,desktop,France
+CLIENT_548412,1,2,5379.27,50,440.0,facebook,mobile,Sweden
+CLIENT_549310,1,1,20465.54,11,406.0,referral,mobile,Germany
+CLIENT_551712,1,2,31163.23,18,1067.0,google,tablet,Sweden
+CLIENT_553571,1,1,37603.83,13,1374.0,referral,mobile,France
+CLIENT_553684,1,1,39763.54,33,704.0,referral,mobile,United States
+CLIENT_554277,1,2,41551.22,45,552.0,email,tablet,Germany
+CLIENT_555866,1,1,18685.64,31,385.0,direct,tablet,Germany
+CLIENT_555986,1,1,41555.44,6,529.0,email,desktop,United States
+CLIENT_556387,1,1,18103.02,19,1018.0,facebook,tablet,Sweden
+CLIENT_558650,1,1,28099.16,14,1385.0,referral,tablet,Sweden
+CLIENT_559629,1,1,25299.23,33,472.0,direct,desktop,United States
+CLIENT_559854,1,1,34238.76,35,1335.0,referral,desktop,United States
+CLIENT_560764,1,2,26816.63,22,1544.0,referral,mobile,Germany
+CLIENT_561229,1,1,19022.12,48,837.0,google,mobile,Sweden
+CLIENT_561979,1,1,19473.35,40,403.0,facebook,mobile,United Kingdom
+CLIENT_562154,1,1,37470.37,40,271.0,referral,desktop,United States
+CLIENT_563765,1,1,11323.66,18,663.0,direct,desktop,Sweden
+CLIENT_564925,1,1,7938.0,29,202.0,google,desktop,United States
+CLIENT_567588,1,1,41823.48,8,245.0,email,desktop,United Kingdom
+CLIENT_568502,1,1,26577.13,27,710.0,email,tablet,Sweden
+CLIENT_568735,1,1,26178.62,45,1783.0,facebook,tablet,Germany
+CLIENT_571800,1,1,31725.89,40,1744.0,email,mobile,United Kingdom
+CLIENT_572998,1,1,18881.61,45,1230.0,referral,mobile,Sweden
+CLIENT_573742,1,1,36446.05,48,1330.0,google,desktop,Germany
+CLIENT_573874,1,1,35988.8,3,499.0,referral,tablet,France
+CLIENT_574624,1,1,47749.47,12,614.0,email,tablet,Sweden
+CLIENT_575416,1,1,40949.24,22,628.0,facebook,tablet,United Kingdom
+CLIENT_575941,1,1,24945.9,44,1252.0,google,mobile,Germany
+CLIENT_576393,1,3,33205.74,35,233.0,email,tablet,United States
+CLIENT_576531,1,1,46158.69,29,1790.0,email,tablet,France
+CLIENT_576571,1,1,46147.6,4,643.0,google,desktop,United Kingdom
+CLIENT_576793,1,1,42377.95,3,1581.0,google,mobile,United States
+CLIENT_577986,1,1,39785.92,8,373.0,email,tablet,United States
+CLIENT_578490,1,2,25075.42,41,212.0,google,mobile,United States
+CLIENT_581136,1,1,8346.71,27,359.0,referral,mobile,Germany
+CLIENT_582685,1,1,26514.1,28,1697.0,google,desktop,France
+CLIENT_583756,1,3,36152.33,42,613.0,google,tablet,Germany
+CLIENT_583955,1,2,11262.3,30,1753.0,referral,mobile,Sweden
+CLIENT_584123,1,3,48806.16,6,33.0,email,mobile,France
+CLIENT_584427,1,1,14484.78,44,1478.0,direct,tablet,Germany
+CLIENT_584718,1,3,48629.07,37,663.0,facebook,tablet,Sweden
+CLIENT_584923,1,3,37525.01,45,64.0,google,mobile,United States
+CLIENT_585355,1,2,37447.55,28,1599.0,email,desktop,France
+CLIENT_585628,1,3,29839.92,46,1109.0,google,mobile,France
+CLIENT_586087,1,1,26026.65,2,1341.0,referral,tablet,Germany
+CLIENT_588748,1,3,40026.81,32,986.0,email,desktop,United Kingdom
+CLIENT_590040,1,1,9056.74,10,1177.0,email,tablet,France
+CLIENT_590178,1,2,20872.25,38,530.0,google,desktop,Sweden
+CLIENT_591086,1,1,43151.04,34,1049.0,google,tablet,United States
+CLIENT_591647,1,2,15144.03,3,1538.0,direct,tablet,France
+CLIENT_591949,1,3,1476.85,33,862.0,direct,tablet,France
+CLIENT_593092,1,1,46957.0,30,869.0,email,desktop,Germany
+CLIENT_593301,1,1,48250.85,38,1219.0,facebook,mobile,France
+CLIENT_593335,1,1,29664.13,32,1026.0,google,mobile,United States
+CLIENT_594043,1,2,21981.58,3,1531.0,direct,tablet,Germany
+CLIENT_595759,1,3,45257.24,24,396.0,google,tablet,Germany
+CLIENT_596874,1,1,20352.24,35,1293.0,direct,tablet,France
+CLIENT_599587,1,1,27262.31,32,1621.0,email,tablet,Sweden
+CLIENT_601598,1,3,33839.09,14,1715.0,google,mobile,France
+CLIENT_602564,1,3,25348.02,19,1070.0,email,tablet,Germany
+CLIENT_603802,1,1,40211.88,43,1135.0,referral,desktop,Sweden
+CLIENT_607122,1,3,27996.44,38,1156.0,google,mobile,United Kingdom
+CLIENT_607697,1,3,35501.05,39,1623.0,google,desktop,Sweden
+CLIENT_608717,1,1,39350.6,23,1510.0,referral,desktop,United Kingdom
+CLIENT_608917,1,1,29563.8,43,1075.0,email,desktop,United Kingdom
+CLIENT_610312,1,1,37904.92,25,498.0,google,desktop,Sweden
+CLIENT_613237,1,1,23086.72,43,596.0,email,desktop,Sweden
+CLIENT_614651,1,1,46682.67,23,116.0,facebook,desktop,United Kingdom
+CLIENT_615020,1,3,40202.85,32,1185.0,facebook,desktop,Sweden
+CLIENT_615549,1,3,3930.57,37,319.0,referral,desktop,France
+CLIENT_616696,1,3,24364.48,6,1357.0,facebook,mobile,Sweden
+CLIENT_617151,1,1,23782.64,13,1621.0,direct,desktop,Sweden
+CLIENT_618033,1,2,28966.86,47,1627.0,direct,mobile,United Kingdom
+CLIENT_618207,1,1,47616.39,24,1580.0,direct,desktop,Germany
+CLIENT_618247,1,1,44894.03,26,890.0,facebook,tablet,Germany
+CLIENT_618405,1,2,16102.76,23,718.0,referral,mobile,Germany
+CLIENT_619143,1,2,14118.59,33,1154.0,google,tablet,United Kingdom
+CLIENT_619447,1,1,29064.22,8,1487.0,email,desktop,France
+CLIENT_620669,1,1,4737.63,12,1195.0,facebook,mobile,United Kingdom
+CLIENT_620826,1,1,24947.76,45,1449.0,direct,tablet,United Kingdom
+CLIENT_623449,1,2,46277.76,40,907.0,email,tablet,United Kingdom
+CLIENT_626206,1,1,1716.32,50,914.0,google,desktop,Sweden
+CLIENT_627119,1,1,41613.07,27,1437.0,google,desktop,United Kingdom
+CLIENT_630965,1,1,31377.39,44,425.0,email,mobile,United Kingdom
+CLIENT_631180,1,3,4421.61,2,867.0,direct,tablet,United States
+CLIENT_631803,1,3,35447.87,45,1297.0,referral,mobile,United Kingdom
+CLIENT_632981,1,2,16496.92,5,1013.0,facebook,tablet,United Kingdom
+CLIENT_633202,1,1,29767.71,38,460.0,referral,tablet,United Kingdom
+CLIENT_633522,1,1,38334.0,43,1790.0,email,desktop,Sweden
+CLIENT_633920,1,1,16110.74,5,1290.0,email,desktop,United States
+CLIENT_634826,1,3,25769.75,37,809.0,direct,mobile,Germany
+CLIENT_637579,1,1,8246.24,40,1307.0,google,desktop,United States
+CLIENT_639509,1,1,20998.25,5,1194.0,referral,tablet,France
+CLIENT_639861,1,1,42907.95,6,1526.0,google,mobile,United States
+CLIENT_640407,1,1,15623.56,23,875.0,facebook,tablet,United Kingdom
+CLIENT_641216,1,1,8293.8,50,1522.0,direct,mobile,France
+CLIENT_642171,1,2,43850.33,46,473.0,referral,tablet,Sweden
+CLIENT_642270,1,1,14755.92,3,591.0,referral,tablet,United Kingdom
+CLIENT_643312,1,1,33004.88,23,404.0,email,desktop,France
+CLIENT_643755,1,1,24083.55,37,1226.0,direct,desktop,United Kingdom
+CLIENT_644175,1,1,22481.99,45,1526.0,facebook,tablet,United States
+CLIENT_644694,1,2,32790.86,2,674.0,email,tablet,United Kingdom
+CLIENT_644785,1,1,34787.76,14,394.0,referral,mobile,United Kingdom
+CLIENT_646681,1,2,13182.53,36,1799.0,referral,desktop,United States
+CLIENT_648164,1,1,31489.1,38,355.0,email,mobile,United States
+CLIENT_651786,1,2,30129.13,26,727.0,email,desktop,France
+CLIENT_652862,1,1,16581.93,19,296.0,referral,mobile,United Kingdom
+CLIENT_653323,1,1,1783.52,15,1654.0,referral,tablet,Sweden
+CLIENT_653635,1,1,19749.31,5,1655.0,email,mobile,France
+CLIENT_653967,1,1,47840.4,36,888.0,direct,mobile,United States
+CLIENT_654807,1,1,19972.31,43,340.0,referral,desktop,Germany
+CLIENT_656371,1,1,3107.39,48,1420.0,facebook,mobile,United Kingdom
+CLIENT_657828,1,3,41604.41,7,1056.0,google,mobile,Germany
+CLIENT_658458,1,1,27627.99,48,984.0,referral,desktop,Sweden
+CLIENT_659104,1,1,4539.36,19,937.0,email,mobile,United Kingdom
+CLIENT_659748,1,2,40865.09,32,637.0,facebook,mobile,Germany
+CLIENT_660228,1,1,40124.67,5,268.0,facebook,desktop,United Kingdom
+CLIENT_662237,1,1,27760.54,10,1431.0,email,desktop,United Kingdom
+CLIENT_663748,1,1,10159.4,16,195.0,referral,tablet,Sweden
+CLIENT_665261,1,3,17278.79,43,1661.0,facebook,mobile,France
+CLIENT_666338,1,1,35323.99,17,1186.0,facebook,desktop,Sweden
+CLIENT_667549,1,2,17763.09,7,179.0,referral,desktop,Sweden
+CLIENT_670252,1,3,3376.0,35,995.0,direct,mobile,France
+CLIENT_670628,1,3,18388.6,22,410.0,direct,desktop,United States
+CLIENT_670843,1,1,37857.56,35,1552.0,google,tablet,United States
+CLIENT_672120,1,1,46569.46,29,136.0,google,mobile,Sweden
+CLIENT_673354,1,3,48654.66,19,160.0,direct,tablet,United States
+CLIENT_673586,1,3,44051.85,8,184.0,referral,mobile,United States
+CLIENT_674282,1,1,38415.28,19,674.0,facebook,mobile,United Kingdom
+CLIENT_675614,1,1,23032.25,33,1424.0,email,desktop,Sweden
+CLIENT_675897,1,3,48708.08,26,1305.0,facebook,desktop,Sweden
+CLIENT_676103,1,1,43675.53,47,1574.0,email,desktop,France
+CLIENT_676617,1,3,15094.86,2,1334.0,google,tablet,United Kingdom
+CLIENT_677527,1,1,32609.02,49,844.0,email,desktop,Sweden
+CLIENT_678099,1,2,11671.36,20,723.0,referral,mobile,Germany
+CLIENT_678531,1,2,1189.38,39,1386.0,referral,desktop,Sweden
+CLIENT_678604,1,1,49085.01,19,1710.0,google,tablet,Sweden
+CLIENT_679198,1,1,7094.56,9,561.0,google,tablet,Germany
+CLIENT_679742,1,1,18968.57,13,131.0,email,mobile,Sweden
+CLIENT_681783,1,1,29859.06,13,1644.0,email,desktop,France
+CLIENT_684314,1,1,43486.14,32,1393.0,facebook,desktop,United Kingdom
+CLIENT_685485,1,3,46298.16,37,278.0,email,desktop,United States
+CLIENT_685613,1,2,47585.58,32,409.0,referral,tablet,Sweden
+CLIENT_686201,1,1,18376.4,40,132.0,facebook,desktop,France
+CLIENT_687502,1,1,3337.18,22,1553.0,google,mobile,France
+CLIENT_687805,1,3,10312.61,17,851.0,facebook,tablet,United States
+CLIENT_688590,1,1,39862.29,38,1367.0,referral,tablet,Germany
+CLIENT_689457,1,3,18388.47,17,1624.0,email,tablet,United Kingdom
+CLIENT_692548,1,1,24523.21,39,994.0,direct,tablet,Germany
+CLIENT_693021,1,3,15133.13,37,1314.0,direct,mobile,France
+CLIENT_694512,1,1,2345.66,36,648.0,email,desktop,France
+CLIENT_695044,1,1,46199.67,41,1348.0,google,mobile,France
+CLIENT_696180,1,1,45041.2,50,1269.0,email,desktop,Germany
+CLIENT_696574,1,1,44260.14,26,726.0,google,desktop,United States
+CLIENT_697767,1,3,20439.3,41,241.0,facebook,desktop,France
+CLIENT_699855,1,1,34701.37,3,541.0,direct,desktop,Germany
+CLIENT_700175,1,1,39940.98,33,221.0,referral,tablet,United States
+CLIENT_702107,1,1,37288.01,5,999.0,google,tablet,France
+CLIENT_702966,1,1,49757.04,47,1261.0,google,mobile,United States
+CLIENT_703371,1,1,21634.05,26,1506.0,referral,desktop,United Kingdom
+CLIENT_703885,1,1,40031.9,23,953.0,google,tablet,United States
+CLIENT_704142,1,2,46396.82,33,522.0,facebook,mobile,Sweden
+CLIENT_704566,1,1,45190.5,6,1771.0,google,mobile,Sweden
+CLIENT_704716,1,1,14224.36,26,1492.0,direct,mobile,United Kingdom
+CLIENT_706374,1,2,40709.19,8,108.0,facebook,mobile,Germany
+CLIENT_707671,1,2,31357.14,12,1020.0,email,mobile,United States
+CLIENT_708051,1,1,25120.5,19,322.0,email,mobile,France
+CLIENT_708642,1,1,8248.02,10,1112.0,referral,mobile,France
+CLIENT_709974,1,2,33670.89,38,759.0,email,desktop,United States
+CLIENT_710603,1,1,6079.26,49,1556.0,google,desktop,United Kingdom
+CLIENT_711799,1,1,2568.11,11,1651.0,google,mobile,Sweden
+CLIENT_711941,1,1,23197.1,24,567.0,referral,mobile,Germany
+CLIENT_714161,1,2,20189.72,27,730.0,email,mobile,France
+CLIENT_714528,1,1,13008.56,47,1135.0,direct,tablet,United States
+CLIENT_716664,1,1,20939.3,31,1039.0,email,tablet,France
+CLIENT_717831,1,3,16034.33,9,1608.0,direct,mobile,Germany
+CLIENT_721226,1,2,46988.78,11,54.0,google,tablet,Germany
+CLIENT_721244,1,1,48363.1,21,1161.0,direct,mobile,United Kingdom
+CLIENT_722220,1,1,48919.45,42,903.0,email,mobile,United States
+CLIENT_723696,1,1,36371.28,9,1683.0,facebook,tablet,Germany
+CLIENT_726724,1,1,44740.13,27,1306.0,direct,tablet,Germany
+CLIENT_728003,1,1,24997.02,18,690.0,facebook,desktop,United Kingdom
+CLIENT_729946,1,2,11060.38,45,382.0,referral,desktop,United Kingdom
+CLIENT_730615,1,2,18892.39,20,690.0,email,desktop,United Kingdom
+CLIENT_730853,1,1,44628.38,27,558.0,referral,desktop,France
+CLIENT_733315,1,1,9708.87,11,1128.0,email,tablet,Germany
+CLIENT_736231,1,1,12717.48,3,889.0,referral,tablet,United Kingdom
+CLIENT_736403,1,3,15018.36,7,789.0,facebook,desktop,Germany
+CLIENT_737246,1,1,12050.76,6,1110.0,email,desktop,United States
+CLIENT_739617,1,3,30373.42,45,1320.0,direct,mobile,Germany
+CLIENT_739636,1,1,9916.24,47,694.0,google,desktop,United Kingdom
+CLIENT_739714,1,3,1459.34,9,1382.0,referral,desktop,United States
+CLIENT_740167,1,1,18022.58,21,577.0,email,tablet,Sweden
+CLIENT_740201,1,3,34104.2,4,977.0,email,desktop,Germany
+CLIENT_741027,1,1,11687.97,20,306.0,direct,desktop,United Kingdom
+CLIENT_741195,1,1,40924.32,8,1121.0,google,desktop,Sweden
+CLIENT_742075,1,1,18898.94,13,957.0,direct,mobile,France
+CLIENT_742753,1,1,13375.67,32,1416.0,direct,tablet,United States
+CLIENT_743962,1,1,43915.11,34,405.0,referral,desktop,Sweden
+CLIENT_744334,1,1,6366.06,46,246.0,google,mobile,Sweden
+CLIENT_744642,1,2,7149.96,31,1050.0,direct,tablet,France
+CLIENT_745299,1,1,10418.23,6,955.0,email,desktop,United States
+CLIENT_748017,1,3,18009.08,8,153.0,google,mobile,France
+CLIENT_749385,1,3,30431.65,22,748.0,direct,tablet,France
+CLIENT_751119,1,1,9224.36,38,1644.0,email,tablet,France
+CLIENT_751174,1,3,34520.74,18,690.0,google,tablet,Germany
+CLIENT_751848,1,1,36507.27,5,591.0,referral,tablet,Germany
+CLIENT_751851,1,1,5998.61,17,1131.0,referral,tablet,Sweden
+CLIENT_753232,1,3,42289.46,8,315.0,google,desktop,Sweden
+CLIENT_755353,1,1,33274.71,35,470.0,email,tablet,France
+CLIENT_756698,1,1,36323.66,30,1672.0,email,mobile,Germany
+CLIENT_757442,1,1,26497.51,20,1240.0,email,desktop,United States
+CLIENT_757610,1,3,25319.26,2,847.0,referral,tablet,United States
+CLIENT_757983,1,1,21059.67,11,1787.0,referral,tablet,Germany
+CLIENT_758360,1,1,47134.37,14,1371.0,email,tablet,United Kingdom
+CLIENT_759303,1,1,26453.17,14,344.0,email,tablet,United States
+CLIENT_759336,1,1,24779.98,45,1400.0,email,desktop,United Kingdom
+CLIENT_759739,1,1,37962.96,3,610.0,referral,mobile,Sweden
+CLIENT_760738,1,1,19408.0,23,254.0,referral,tablet,France
+CLIENT_761677,1,2,4686.99,13,638.0,email,mobile,Germany
+CLIENT_763638,1,1,34352.4,43,420.0,email,desktop,Germany
+CLIENT_764089,1,1,21502.0,40,793.0,direct,desktop,United States
+CLIENT_764108,1,1,1705.69,39,940.0,referral,mobile,United Kingdom
+CLIENT_764342,1,3,45572.83,13,545.0,email,desktop,Germany
+CLIENT_764467,1,1,8467.37,34,1203.0,google,mobile,France
+CLIENT_765674,1,3,9508.7,50,571.0,google,tablet,United States
+CLIENT_766260,1,1,4581.36,50,1674.0,email,desktop,Sweden
+CLIENT_767272,1,1,18790.54,37,241.0,direct,desktop,France
+CLIENT_767352,1,1,23132.25,28,991.0,facebook,mobile,United Kingdom
+CLIENT_767883,1,1,47760.81,20,474.0,facebook,desktop,United Kingdom
+CLIENT_768133,1,1,39719.05,14,665.0,referral,mobile,France
+CLIENT_768209,1,1,31214.32,23,238.0,google,desktop,Germany
+CLIENT_769519,1,1,43178.55,13,316.0,direct,tablet,Germany
+CLIENT_770048,1,1,12301.32,8,401.0,email,tablet,Germany
+CLIENT_770261,1,2,15004.27,34,1666.0,email,tablet,United States
+CLIENT_771821,1,2,49840.66,4,142.0,direct,mobile,Germany
+CLIENT_772042,1,1,34198.15,34,1667.0,direct,tablet,France
+CLIENT_772123,1,2,35456.42,22,338.0,direct,tablet,France
+CLIENT_772834,1,3,20555.29,26,377.0,direct,mobile,France
+CLIENT_774044,1,3,26558.46,33,999.0,google,tablet,Germany
+CLIENT_774251,1,1,47308.08,27,1736.0,email,tablet,Sweden
+CLIENT_774787,1,3,5268.23,12,1563.0,email,mobile,Germany
+CLIENT_774790,1,1,40202.11,27,170.0,referral,desktop,Sweden
+CLIENT_775160,1,1,33431.53,33,1443.0,direct,tablet,United Kingdom
+CLIENT_775600,1,1,37330.7,45,1383.0,referral,mobile,Germany
+CLIENT_777433,1,1,45483.94,10,828.0,direct,mobile,United Kingdom
+CLIENT_777606,1,1,31202.51,30,203.0,referral,mobile,France
+CLIENT_778108,1,1,44724.63,36,1790.0,google,desktop,Germany
+CLIENT_780478,1,2,5493.5,34,379.0,email,mobile,Germany
+CLIENT_780733,1,3,32908.16,44,1254.0,referral,tablet,United Kingdom
+CLIENT_782279,1,2,8565.13,45,1070.0,referral,mobile,France
+CLIENT_783428,1,1,31776.45,14,310.0,email,desktop,Germany
+CLIENT_784008,1,1,15279.53,32,771.0,direct,desktop,Sweden
+CLIENT_784772,1,1,48208.98,46,618.0,google,desktop,United Kingdom
+CLIENT_785691,1,1,13723.99,25,36.0,email,mobile,France
+CLIENT_786369,1,2,23104.65,50,306.0,google,tablet,France
+CLIENT_786615,1,2,11630.72,3,1057.0,referral,mobile,United Kingdom
+CLIENT_787499,1,1,35835.91,3,1772.0,google,mobile,United States
+CLIENT_788791,1,1,43588.66,6,1661.0,email,mobile,Germany
+CLIENT_789675,1,3,2915.21,11,244.0,direct,desktop,United Kingdom
+CLIENT_789900,1,1,33669.62,7,810.0,email,mobile,Sweden
+CLIENT_790684,1,1,47620.99,3,1098.0,google,desktop,United Kingdom
+CLIENT_790996,1,1,22403.11,47,1761.0,facebook,tablet,Sweden
+CLIENT_793977,1,1,36876.58,48,1267.0,facebook,desktop,Sweden
+CLIENT_796115,1,1,17797.07,37,1371.0,facebook,desktop,France
+CLIENT_797234,1,3,48655.09,24,1048.0,email,tablet,United States
+CLIENT_798838,1,1,26020.66,20,635.0,direct,desktop,United Kingdom
+CLIENT_799102,1,3,49224.52,38,853.0,referral,mobile,Germany
+CLIENT_799288,1,2,7075.33,28,738.0,referral,tablet,Germany
+CLIENT_801150,1,1,25362.54,40,107.0,facebook,tablet,United Kingdom
+CLIENT_802914,1,3,19937.44,14,1632.0,referral,mobile,Germany
+CLIENT_803428,1,2,18783.51,21,1772.0,email,mobile,United Kingdom
+CLIENT_804091,1,2,33463.4,27,1612.0,email,mobile,France
+CLIENT_804157,1,2,35939.15,15,1184.0,direct,desktop,Sweden
+CLIENT_805619,1,3,9605.36,44,1528.0,referral,mobile,Sweden
+CLIENT_806090,1,1,27840.15,43,130.0,direct,mobile,Germany
+CLIENT_806182,1,2,15302.57,29,826.0,referral,mobile,United States
+CLIENT_806836,1,1,28768.88,22,87.0,direct,mobile,Sweden
+CLIENT_806838,1,1,4591.4,30,1336.0,referral,tablet,United Kingdom
+CLIENT_807550,1,1,38285.42,10,1126.0,facebook,desktop,Sweden
+CLIENT_808363,1,1,5636.22,11,54.0,email,tablet,United Kingdom
+CLIENT_809163,1,2,9304.24,39,1140.0,facebook,desktop,Germany
+CLIENT_810294,1,1,3382.67,23,213.0,email,mobile,France
+CLIENT_810952,1,1,28198.88,29,1705.0,google,mobile,France
+CLIENT_811003,1,1,19463.48,30,1646.0,referral,tablet,Sweden
+CLIENT_811160,1,3,38919.2,40,442.0,email,tablet,Germany
+CLIENT_811805,1,1,41339.14,31,223.0,google,desktop,France
+CLIENT_811986,1,1,12610.94,38,1273.0,facebook,desktop,Germany
+CLIENT_812148,1,1,42468.16,13,619.0,google,desktop,France
+CLIENT_812331,1,2,43564.89,16,1711.0,direct,mobile,France
+CLIENT_813409,1,3,1892.75,28,1428.0,email,mobile,Germany
+CLIENT_814108,1,1,2479.01,25,1441.0,facebook,desktop,Sweden
+CLIENT_814443,1,1,42465.15,44,71.0,direct,desktop,Germany
+CLIENT_816299,1,1,12400.59,13,1167.0,facebook,mobile,Sweden
+CLIENT_817168,1,3,49201.86,35,108.0,google,desktop,Sweden
+CLIENT_818497,1,1,25189.2,40,326.0,direct,desktop,United Kingdom
+CLIENT_819100,1,3,31907.38,42,1375.0,google,mobile,United States
+CLIENT_821241,1,1,17804.41,24,1765.0,referral,tablet,Sweden
+CLIENT_822239,1,1,30783.73,2,141.0,email,mobile,France
+CLIENT_822468,1,1,7114.86,43,948.0,referral,desktop,Sweden
+CLIENT_822777,1,1,48299.97,16,1721.0,google,tablet,Sweden
+CLIENT_823399,1,2,44085.41,43,1450.0,direct,tablet,Germany
+CLIENT_825596,1,3,38522.88,23,1165.0,facebook,tablet,United Kingdom
+CLIENT_826733,1,1,35347.42,45,1341.0,facebook,mobile,Sweden
+CLIENT_827452,1,3,29218.48,23,522.0,email,mobile,Germany
+CLIENT_828230,1,1,48285.13,6,276.0,email,desktop,France
+CLIENT_829139,1,1,42819.98,15,1534.0,facebook,mobile,Sweden
+CLIENT_830612,1,1,44310.35,22,1748.0,google,mobile,United Kingdom
+CLIENT_830722,1,1,12819.94,46,861.0,referral,mobile,United States
+CLIENT_830814,1,1,45102.45,24,1161.0,facebook,tablet,United States
+CLIENT_831168,1,1,15019.91,46,1695.0,facebook,mobile,United States
+CLIENT_832109,1,1,6133.39,38,1757.0,facebook,tablet,United States
+CLIENT_832515,1,3,21182.17,46,1496.0,facebook,tablet,United States
+CLIENT_832821,1,1,44216.39,42,1676.0,google,tablet,Germany
+CLIENT_833110,1,1,5490.88,47,765.0,direct,mobile,Sweden
+CLIENT_833212,1,3,20925.38,46,1210.0,google,mobile,Sweden
+CLIENT_835254,1,2,6817.72,24,1262.0,direct,tablet,Sweden
+CLIENT_835670,1,2,44728.57,13,286.0,email,tablet,France
+CLIENT_835727,1,3,38431.55,12,521.0,google,tablet,France
+CLIENT_836354,1,2,19914.61,9,482.0,referral,tablet,Sweden
+CLIENT_836913,1,3,25545.34,18,1292.0,facebook,desktop,Sweden
+CLIENT_837088,1,3,8527.23,24,722.0,email,desktop,United Kingdom
+CLIENT_838318,1,1,17935.14,6,1664.0,referral,mobile,United Kingdom
+CLIENT_840665,1,1,20512.47,20,1249.0,direct,tablet,France
+CLIENT_840842,1,1,38332.22,33,1111.0,email,desktop,United States
+CLIENT_841291,1,2,39994.54,27,1436.0,facebook,mobile,Sweden
+CLIENT_842848,1,3,30180.39,13,325.0,referral,mobile,Germany
+CLIENT_844239,1,1,28630.98,3,1708.0,direct,desktop,Germany
+CLIENT_846246,1,1,7208.77,4,1551.0,google,mobile,France
+CLIENT_846814,1,1,39795.58,47,1717.0,google,desktop,Sweden
+CLIENT_848084,1,1,1535.87,42,1523.0,email,tablet,France
+CLIENT_848171,1,1,19429.98,18,1649.0,facebook,desktop,United Kingdom
+CLIENT_848465,1,1,22505.38,5,1792.0,direct,mobile,Sweden
+CLIENT_848613,1,3,11130.78,33,527.0,referral,desktop,Germany
+CLIENT_848638,1,1,10433.32,8,56.0,direct,mobile,United Kingdom
+CLIENT_851051,1,1,2429.8,36,1269.0,facebook,tablet,Germany
+CLIENT_851151,1,1,42425.23,3,1257.0,facebook,mobile,Sweden
+CLIENT_852155,1,1,5874.97,37,482.0,referral,tablet,France
+CLIENT_852572,1,1,31818.38,28,370.0,email,desktop,United States
+CLIENT_853038,1,1,9456.55,14,1116.0,google,tablet,Germany
+CLIENT_854600,1,3,29777.21,26,880.0,referral,mobile,France
+CLIENT_856329,1,3,34404.95,19,604.0,google,desktop,United Kingdom
+CLIENT_856433,1,1,11716.55,5,1399.0,facebook,mobile,Germany
+CLIENT_856836,1,1,13248.05,2,662.0,referral,tablet,France
+CLIENT_856944,1,1,22582.98,14,890.0,google,mobile,United Kingdom
+CLIENT_856981,1,3,36761.93,37,154.0,direct,mobile,Germany
+CLIENT_857253,1,3,26875.43,22,544.0,direct,tablet,United Kingdom
+CLIENT_857918,1,2,14138.29,48,1265.0,email,mobile,United States
+CLIENT_858900,1,2,1253.0,38,832.0,email,tablet,Sweden
+CLIENT_859886,1,3,20986.63,29,1569.0,email,desktop,Sweden
+CLIENT_865406,1,1,35118.12,39,1293.0,direct,mobile,United States
+CLIENT_866844,1,1,42778.6,42,959.0,facebook,tablet,United States
+CLIENT_866877,1,1,30466.42,10,606.0,referral,tablet,France
+CLIENT_867552,1,1,40521.25,49,1773.0,referral,tablet,Sweden
+CLIENT_867637,1,1,35292.85,7,1038.0,direct,desktop,Sweden
+CLIENT_867720,1,1,13264.84,26,850.0,referral,tablet,Germany
+CLIENT_869707,1,1,38089.57,45,936.0,facebook,tablet,Germany
+CLIENT_870664,1,1,19409.97,5,1671.0,referral,tablet,United Kingdom
+CLIENT_871089,1,1,1440.32,9,1265.0,google,mobile,United Kingdom
+CLIENT_871708,1,1,32435.52,8,868.0,google,tablet,Germany
+CLIENT_872786,1,3,11740.79,23,1673.0,direct,desktop,France
+CLIENT_873218,1,2,10267.0,23,1214.0,referral,mobile,Germany
+CLIENT_873933,1,2,7737.82,20,524.0,google,desktop,Germany
+CLIENT_874157,1,1,21731.16,39,331.0,referral,mobile,United Kingdom
+CLIENT_875322,1,2,37767.49,49,1639.0,google,desktop,United States
+CLIENT_876589,1,1,45274.26,43,1701.0,facebook,mobile,Germany
+CLIENT_877069,1,1,27737.56,21,492.0,direct,tablet,France
+CLIENT_880482,1,3,22527.27,38,1162.0,email,mobile,Sweden
+CLIENT_881126,1,1,11544.76,20,847.0,facebook,mobile,Sweden
+CLIENT_882659,1,1,42448.88,31,571.0,direct,tablet,France
+CLIENT_882824,1,3,14254.16,12,91.0,google,desktop,Sweden
+CLIENT_883878,1,3,19429.53,27,1199.0,google,desktop,France
+CLIENT_884614,1,1,24528.79,9,1743.0,email,mobile,France
+CLIENT_884720,1,3,21242.33,5,1500.0,google,mobile,United Kingdom
+CLIENT_884888,1,1,45108.65,47,633.0,facebook,desktop,France
+CLIENT_885101,1,2,6676.65,13,1500.0,google,mobile,Sweden
+CLIENT_885473,1,1,14388.77,22,882.0,email,desktop,United States
+CLIENT_887383,1,1,1900.17,49,1314.0,google,desktop,United States
+CLIENT_888310,1,1,2050.86,41,118.0,email,desktop,Germany
+CLIENT_888343,1,3,15010.62,13,1451.0,facebook,desktop,France
+CLIENT_891146,1,2,43625.07,14,537.0,facebook,desktop,United Kingdom
+CLIENT_891893,1,3,37310.14,49,1390.0,email,mobile,Germany
+CLIENT_892154,1,1,19513.45,47,1596.0,direct,mobile,Germany
+CLIENT_892557,1,2,42659.71,16,681.0,facebook,desktop,United States
+CLIENT_893225,1,3,7511.56,33,594.0,direct,tablet,Sweden
+CLIENT_893689,1,1,32354.8,43,799.0,google,desktop,France
+CLIENT_894623,1,1,45590.53,42,440.0,google,mobile,Germany
+CLIENT_894642,1,3,29381.53,33,934.0,facebook,mobile,Sweden
+CLIENT_895393,1,3,17664.75,20,1209.0,google,desktop,United States
+CLIENT_896885,1,2,30415.88,47,711.0,referral,desktop,France
+CLIENT_898879,1,1,25363.2,49,1561.0,direct,mobile,United States
+CLIENT_899403,1,1,38915.16,4,167.0,facebook,tablet,Sweden
+CLIENT_900204,1,1,3779.52,18,459.0,email,desktop,United States
+CLIENT_900206,1,1,11460.22,12,533.0,facebook,mobile,Germany
+CLIENT_900823,1,3,49291.04,21,520.0,facebook,tablet,France
+CLIENT_901205,1,1,16438.07,14,403.0,google,tablet,Sweden
+CLIENT_901704,1,2,16380.07,38,1261.0,email,tablet,Sweden
+CLIENT_903622,1,1,2029.31,21,681.0,email,desktop,United Kingdom
+CLIENT_903882,1,1,40370.94,6,1073.0,email,mobile,United States
+CLIENT_904029,1,1,22783.43,38,861.0,referral,desktop,United States
+CLIENT_904671,1,1,29365.67,24,1364.0,email,mobile,United Kingdom
+CLIENT_906138,1,1,46590.24,5,975.0,direct,desktop,United Kingdom
+CLIENT_906987,1,1,3032.41,44,654.0,google,mobile,United States
+CLIENT_907113,1,1,18335.96,33,1427.0,google,desktop,Germany
+CLIENT_907817,1,3,26302.01,36,1404.0,facebook,desktop,Sweden
+CLIENT_907913,1,1,20028.71,36,831.0,google,mobile,United States
+CLIENT_910558,1,1,11164.73,4,1358.0,google,tablet,United Kingdom
+CLIENT_911633,1,1,20869.33,3,701.0,direct,desktop,Germany
+CLIENT_913488,1,1,25160.9,17,75.0,facebook,mobile,Sweden
+CLIENT_913653,1,3,7720.55,32,1364.0,direct,desktop,United States
+CLIENT_914120,1,1,21024.52,14,848.0,email,tablet,United States
+CLIENT_914295,1,1,16788.49,23,298.0,google,mobile,Germany
+CLIENT_914552,1,1,48146.53,43,342.0,google,tablet,France
+CLIENT_914670,1,3,36076.64,12,1439.0,facebook,desktop,France
+CLIENT_914790,1,1,14875.24,9,807.0,google,desktop,Germany
+CLIENT_915640,1,1,8322.75,16,468.0,email,mobile,United States
+CLIENT_915988,1,1,34256.64,25,1766.0,email,tablet,France
+CLIENT_920041,1,3,14908.31,45,1198.0,facebook,mobile,France
+CLIENT_923099,1,3,10636.23,29,1684.0,email,desktop,Germany
+CLIENT_924262,1,1,22977.59,12,559.0,direct,tablet,United Kingdom
+CLIENT_924322,1,1,46496.95,6,866.0,facebook,desktop,Germany
+CLIENT_925541,1,1,48954.08,4,865.0,direct,mobile,United Kingdom
+CLIENT_927056,1,1,14078.92,31,1137.0,direct,desktop,United Kingdom
+CLIENT_927258,1,3,24521.85,11,1464.0,email,tablet,United Kingdom
+CLIENT_927755,1,1,16275.41,42,207.0,direct,desktop,Sweden
+CLIENT_927771,1,1,3036.99,18,1666.0,direct,mobile,Sweden
+CLIENT_928930,1,3,46763.02,44,384.0,facebook,mobile,United States
+CLIENT_929308,1,1,17937.61,36,811.0,direct,mobile,United Kingdom
+CLIENT_933670,1,1,5470.19,10,337.0,referral,mobile,United States
+CLIENT_934472,1,1,49768.33,11,908.0,email,tablet,Sweden
+CLIENT_935535,1,1,35426.93,38,1514.0,email,mobile,United Kingdom
+CLIENT_935684,1,1,33890.57,32,345.0,google,mobile,Sweden
+CLIENT_935755,1,1,34690.35,46,1228.0,email,mobile,France
+CLIENT_935903,1,1,37737.09,50,1430.0,google,tablet,Germany
+CLIENT_935973,1,1,44881.09,21,639.0,facebook,mobile,Germany
+CLIENT_937179,1,1,42890.4,34,1546.0,referral,desktop,United States
+CLIENT_937890,1,1,7946.46,29,1660.0,google,tablet,France
+CLIENT_938201,1,1,48713.54,44,398.0,direct,desktop,United States
+CLIENT_938794,1,1,37681.4,6,1058.0,google,desktop,Sweden
+CLIENT_939073,1,1,12492.11,2,607.0,email,mobile,Sweden
+CLIENT_939869,1,1,40650.71,20,671.0,google,mobile,United Kingdom
+CLIENT_940148,1,1,9355.36,24,1523.0,facebook,mobile,United Kingdom
+CLIENT_941435,1,1,15472.15,21,1550.0,referral,mobile,France
+CLIENT_942582,1,1,9172.49,20,1164.0,referral,mobile,United States
+CLIENT_943492,1,1,37668.35,2,503.0,referral,tablet,Sweden
+CLIENT_943823,1,1,22121.98,39,1055.0,referral,desktop,United States
+CLIENT_944372,1,2,12543.36,14,974.0,google,mobile,Germany
+CLIENT_944666,1,3,28839.14,14,1710.0,referral,tablet,United Kingdom
+CLIENT_945416,1,1,34225.56,27,1542.0,facebook,tablet,United States
+CLIENT_945765,1,3,12721.96,39,1286.0,referral,mobile,Sweden
+CLIENT_945807,1,1,21252.07,31,1410.0,direct,desktop,Sweden
+CLIENT_945948,1,3,29949.18,2,1496.0,email,mobile,Germany
+CLIENT_946138,1,2,41813.4,50,623.0,facebook,desktop,United States
+CLIENT_947479,1,3,3737.47,45,1472.0,direct,desktop,Germany
+CLIENT_948353,1,2,3540.03,26,420.0,referral,tablet,United Kingdom
+CLIENT_949080,1,1,20246.95,15,1732.0,google,desktop,Germany
+CLIENT_949546,1,2,4042.85,48,725.0,direct,mobile,Sweden
+CLIENT_949591,1,1,34389.54,30,124.0,direct,desktop,Sweden
+CLIENT_949711,1,3,20901.99,38,1775.0,google,tablet,Sweden
+CLIENT_949837,1,3,12670.06,10,539.0,facebook,tablet,Germany
+CLIENT_950185,1,3,48182.71,36,188.0,direct,desktop,United States
+CLIENT_950354,1,3,22093.97,26,1274.0,facebook,tablet,Germany
+CLIENT_951287,1,1,45637.26,4,1131.0,email,mobile,United States
+CLIENT_951574,1,1,41367.31,37,471.0,facebook,tablet,United States
+CLIENT_953018,1,1,19593.96,9,636.0,google,tablet,United States
+CLIENT_954935,1,1,15572.87,17,161.0,google,tablet,France
+CLIENT_956523,1,3,8365.19,39,1183.0,facebook,tablet,Sweden
+CLIENT_956601,1,1,47629.75,15,1316.0,google,desktop,United Kingdom
+CLIENT_957097,1,1,31547.17,39,475.0,email,tablet,France
+CLIENT_957361,1,1,1205.49,44,1332.0,direct,mobile,Germany
+CLIENT_957490,1,1,41647.72,41,750.0,direct,mobile,Sweden
+CLIENT_958130,1,3,34962.48,37,1521.0,facebook,tablet,United Kingdom
+CLIENT_959004,1,1,19541.88,39,727.0,direct,tablet,United Kingdom
+CLIENT_959099,1,3,34336.82,10,1630.0,direct,tablet,France
+CLIENT_960861,1,2,43067.41,25,1176.0,email,mobile,United Kingdom
+CLIENT_961073,1,2,36733.84,14,255.0,google,desktop,Sweden
+CLIENT_962855,1,1,12010.48,39,844.0,direct,mobile,United Kingdom
+CLIENT_964127,1,2,49746.3,5,1076.0,direct,desktop,United States
+CLIENT_964934,1,2,48830.86,13,678.0,direct,desktop,Sweden
+CLIENT_965548,1,2,3961.41,18,1331.0,facebook,tablet,United Kingdom
+CLIENT_967291,1,1,6811.34,12,507.0,email,mobile,United Kingdom
+CLIENT_967641,1,1,48908.53,39,842.0,direct,mobile,Germany
+CLIENT_967798,1,1,37697.09,20,1658.0,referral,tablet,France
+CLIENT_967954,1,2,16181.05,7,37.0,google,mobile,Germany
+CLIENT_968134,1,1,40249.94,39,549.0,referral,tablet,United Kingdom
+CLIENT_969625,1,1,8983.81,43,551.0,google,mobile,France
+CLIENT_970314,1,1,14236.82,20,1523.0,direct,desktop,Germany
+CLIENT_971046,1,3,33851.85,14,49.0,facebook,desktop,United Kingdom
+CLIENT_972613,1,1,12281.68,13,61.0,facebook,tablet,United Kingdom
+CLIENT_972977,1,1,45459.44,43,548.0,facebook,desktop,United Kingdom
+CLIENT_973894,1,1,20770.34,34,581.0,google,tablet,United Kingdom
+CLIENT_975693,1,2,2779.84,35,66.0,email,tablet,Sweden
+CLIENT_977146,1,1,28488.51,26,866.0,referral,tablet,United States
+CLIENT_977558,1,2,34781.73,36,1235.0,email,desktop,France
+CLIENT_979368,1,1,32614.53,42,1609.0,facebook,desktop,Germany
+CLIENT_980251,1,3,44074.64,12,78.0,google,desktop,Germany
+CLIENT_980669,1,2,21803.82,48,661.0,referral,desktop,France
+CLIENT_980821,1,1,40783.49,9,1255.0,direct,tablet,Germany
+CLIENT_980949,1,1,17534.15,22,1048.0,email,desktop,United Kingdom
+CLIENT_982083,1,3,22933.71,32,1297.0,facebook,desktop,Germany
+CLIENT_982549,1,1,16058.82,36,1110.0,direct,desktop,United Kingdom
+CLIENT_982810,1,2,22048.66,36,699.0,facebook,mobile,Germany
+CLIENT_984242,1,3,31503.15,41,81.0,email,tablet,Sweden
+CLIENT_984277,1,3,30592.25,13,1541.0,direct,tablet,Germany
+CLIENT_984868,1,3,4682.45,34,230.0,email,mobile,France
+CLIENT_985490,1,2,48464.94,6,1342.0,google,mobile,Germany
+CLIENT_985831,1,1,44374.6,34,607.0,facebook,mobile,Sweden
+CLIENT_986330,1,1,6394.65,46,1314.0,direct,desktop,France
+CLIENT_988242,1,1,48889.61,47,1586.0,facebook,desktop,United Kingdom
+CLIENT_988606,1,2,38265.04,49,188.0,email,tablet,United Kingdom
+CLIENT_990108,1,1,9315.87,32,1379.0,referral,desktop,Germany
+CLIENT_992312,1,2,49846.22,11,848.0,facebook,desktop,Sweden
+CLIENT_992820,1,1,6713.16,22,767.0,direct,tablet,Sweden
+CLIENT_994679,1,3,40094.63,21,733.0,email,mobile,Germany
+CLIENT_996352,1,1,30300.33,9,1654.0,email,desktop,United Kingdom
+CLIENT_998727,1,1,20210.76,3,1675.0,google,mobile,Sweden
+CLIENT_998838,1,1,25752.9,47,985.0,facebook,mobile,Germany
+CLIENT_998850,1,1,17603.68,29,1574.0,facebook,mobile,Germany

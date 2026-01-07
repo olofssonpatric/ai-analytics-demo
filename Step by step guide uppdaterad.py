@@ -69,6 +69,9 @@ Info:
 
 http://localhost:8504/
 
+🎉 Your app is live at:
+https://ai-analytics-demo-xyz123.streamlit.app
+
 -- Kolla även hur jag kan lägga till detta öppet på Github eller ge access vid behov
 
 - Hur kan jag dela streamlit sidan vid behov, kanske bättre att använda ett annat verktyg:
@@ -86,3 +89,13 @@ Steg 1.3: Gör Demo "Sales-Ready" (Dag 6-7)
 When I asked the following question:
 
 Can you create the entire python code and steps for Googles 4 datasets instead of random created datasets:
+
+
+# Set your name (shows in commits)
+git config --global user.name "olofssonpatric"
+
+# Set your email (use same as GitHub)
+git config --global user.email "olofssonpatric@gmail.com"
+
+
+git init
